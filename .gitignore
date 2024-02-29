@@ -42,6 +42,5 @@ Thumbs.db
 
 #any backups#
 *.bak
-ip_list.xlsx
-Trend Site Controllers Lists With IP Addresses 13-12-23.xlsx
-xls_test.xlsx
+
+*.bat
