@@ -25,6 +25,7 @@ from tkinter import filedialog
 EXCEL_FILE = 'Trend Site Controllers Lists With IP Addresses 13-12-23.xlsx'
 SHEET_NAME = '963-IQVision Alarm Connections'
 ACCEPTEDIP = 'ip_list.xlsx'
+OUTPUT = 'scan_results'+str(datetime.datetime.now())+'.xlsx'
 
 #______________________________________________
 
@@ -327,10 +328,10 @@ def scan():
                         login(f"Controller failure, skipping controller {row} - "+str(e))
                         error.writelines(f"{this_site} - {ip_address} could not be accessed")
                 try:
-                    excel_list.save(f"{datetime.datetime.now()}_out_{EXCEL_FILE}")
-                except:
                     #add in code for custom output in case of failure
-                    excel_list.save("output.xlsx")
+                    excel_list.save(OUTPUT)
+                except Exception as e:
+                    login(f"Write error: {e}")
             except Exception as e:
                 login("Major failure, exiting now - "+str(e))
             driver.close()
