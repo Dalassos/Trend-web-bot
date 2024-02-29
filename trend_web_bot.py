@@ -25,7 +25,7 @@ from tkinter import filedialog
 EXCEL_FILE = 'Trend Site Controllers Lists With IP Addresses 13-12-23.xlsx'
 SHEET_NAME = '963-IQVision Alarm Connections'
 ACCEPTEDIP = 'ip_list.xlsx'
-OUTPUT = 'scan_results'+str(datetime.datetime.now())+'.xlsx'
+OUTPUT = 'scan_results_'+str(datetime.datetime.now()).split('.')[0].replace(' ','').replace(':','').replace('-','')+'.xlsx'
 
 #______________________________________________
 
@@ -161,6 +161,31 @@ def get_alm_dest(ip_address, driver):
         login(f"get_alm_dest error: Error getting alarm destinations: {e}")
         return "get_alm_dest error", False
 
+def get_all_pages(ip_address, driver):
+    login("get_all_pages fct")
+    try:
+        html_content = visit_webpage_selenium(f"{ip_address}/modules.htm", driver)  # Replace with the IP address you want to visit
+        if (html_content[1] == False) : return "visit error", False
+        soup = BeautifulSoup(html_content[0], 'html.parser')
+        login("content cast into soup")
+        try:
+            mainTable = soup.find(class_=('sideMenu'))
+            login(f"mainTable: {mainTable}")
+        except Exception as e:
+                login(f"Could not find subdivider: {e}")
+        links = mainTable.find_all('a')
+        login(f"links: {links}")
+        pages = []
+        for link in links:
+            login(f"link {links.index(link)}: {link}")
+            newlink = [link.string, link.get('href')]
+            pages.append(newlink)
+        login(f"pages :{pages}")
+        return pages, True
+    except Exception as e:
+        login(f"get_all_pages error: Error getting controller pages: {e}")
+        return "get_all_pages error", False
+    
 def get_time_master_status(ip_address, driver):
     login("get_time Master status fct")
     try:
@@ -269,7 +294,8 @@ def scan():
                         visit_success = True
                         login("new row of excel sheet")
                         # Access row values by column name
-                        ip_address = row['nodeIpAddr']
+                        #ip_address = row['nodeIpAddr']
+                        ip_address = '172.16.7.195'
                         this_site = row['siteLabel']
                         do_this_site = False
                         for site in sites_to_action:
@@ -288,6 +314,7 @@ def scan():
                                 timeMasterStatus, manual = get_time_master_status(ip_address, driver)
                                 excel_list[SHEET_NAME].cell(row=index+2, column=16).value=f"TimeMaster: {timeMasterStatus}"
                                 out.write(str(ip_address)+" alarm destinations : ")
+                                get_all_pages(ip_address, driver)
                                 try :
                                     alm_dest.length()
                                 except :
@@ -458,12 +485,20 @@ with open("trend_web_bot.log","w") as log, open("error.log","w") as error, open(
     log_init(error)
 
     # Load the Excel file
-    os_list = pd.read_excel(EXCEL_FILE, SHEET_NAME)
-    ip_list = pd.read_excel(ACCEPTEDIP)
+    try:
+        os_list = pd.read_excel(EXCEL_FILE, SHEET_NAME)
+        ip_list = pd.read_excel(ACCEPTEDIP)
+    except Exception as e:
+        login(f"error reading spreadsheets: {e}")
 
     #make sites list
-    unique_Sites = sorted(set(os_list['siteLabel']))
-    login(f"sites list : {unique_Sites}")
+    try:
+        unique_Sites = sorted(set(os_list['siteLabel'].dropna()))
+        login(f"sites list : {unique_Sites}")
+    except Exception as e:
+        login(f"error creating site list: {e}")
+
+        
 
     #read listed IPs
     try:
