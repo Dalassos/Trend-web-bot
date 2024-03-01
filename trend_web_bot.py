@@ -1,6 +1,7 @@
 import os
 import builtins
 import re
+import json
 
 import datetime
 
@@ -17,6 +18,7 @@ from bs4 import BeautifulSoup
 
 import tkinter as tk
 from tkinter import filedialog
+from tkinter import ttk
 
 
 #____________________________________________
@@ -106,6 +108,7 @@ def find_associated_element(soup, target_text):
     try:
         # Find all <td> elements with class="pName"
         p_name_elements = soup.find_all('td', class_='pName')
+        login(f"p_name_elements: {p_name_elements}")
         
         # Iterate over the <td> elements with class="pName"
         for p_name_element in p_name_elements:
@@ -161,6 +164,27 @@ def get_alm_dest(ip_address, driver):
         login(f"get_alm_dest error: Error getting alarm destinations: {e}")
         return "get_alm_dest error", False
 
+def get_links(url, driver):
+    login("get_links fct")
+    try:
+        html_content = visit_webpage_selenium(f"{url}", driver)
+        if (html_content[1] == False) : return "visit error", False
+        soup = BeautifulSoup(html_content[0], 'html.parser')
+        login("content cast into soup")
+        try:
+            mainContent = soup.find(id=['mainContent','maindata'])
+        except Exception as e:
+                login(f"Could not find subdivider: {e}")
+        ablocks = mainContent.find_all('a')
+        links = []
+        for link in ablocks:
+            links.append(link.get('href'))
+        login(f"links: {links}")
+        return links, True
+    except Exception as e:
+        login(f"get_links error: Error getting alarm destinations: {e}")
+        return "get_links error", False
+
 def get_all_pages(ip_address, driver):
     login("get_all_pages fct")
     try:
@@ -175,11 +199,10 @@ def get_all_pages(ip_address, driver):
                 login(f"Could not find subdivider: {e}")
         links = mainTable.find_all('a')
         login(f"links: {links}")
-        pages = []
+        pages = dict()
         for link in links:
             login(f"link {links.index(link)}: {link}")
-            newlink = [link.string, link.get('href')]
-            pages.append(newlink)
+            pages.update({link.string : link.get('href')})
         login(f"pages :{pages}")
         return pages, True
     except Exception as e:
@@ -240,8 +263,71 @@ def scrape_element(soup, element):
         value = find_origVal(soup, element)
         return value, True
     except Exception as e:
-        login(f"scrape_element error: {e}")
-        return "error", True
+        try:
+            value = find_associated_element(soup, element).get_text(strip=True)
+            login(f"scrape_element success")
+            return value, True
+        except Exception as e:
+            login(f"scrape_element error: {e}")
+            return "error", False
+        
+def scrape_page(url, driver, count, max_count):
+    login("scrape_page fct")
+    try:
+        html_content = visit_webpage_selenium(f"{url}", driver) 
+        if (html_content[1] == False) : return "visit error", False
+        soup = BeautifulSoup(html_content[0], 'html.parser')
+        login("content cast into soup")
+        try:
+            parameter_table = soup.find(id='parameterTable')
+            parameters = parameter_table.find_all('td', class_='pName')
+        except Exception as e:
+            login(f"Could not find subdividers: {e}")
+        login(f"parameter_table: {parameters}")
+        all_fields = dict()
+        for parameter in parameters:
+            login(f"parameter {parameters.index(parameter)}: {parameter}")
+            field = parameter.string
+            value, success = scrape_element(parameter_table, parameter.string)
+            all_fields.update({field : value})
+        return all_fields, success
+    except Exception as e:
+        login(f"scrape_page error: {e}")
+        values = []
+        if count < max_count:
+            count += 1
+            links, success = get_links(url, driver)
+            url = url.split("/")[0]
+            for sub in links:
+                login(f"sublink is: {sub}")
+                link = f"{url}/{sub}".replace("//","/")
+                value, success = scrape_page(link, driver, count, max_count)
+                success *= success
+                values.append(value)
+            login(f"values : {values}")
+            return values, success
+        else:
+            return "scrape maximum number of sub pages", False
+
+def scrape_all(url,driver,pages_list):
+    login("scrape_all fct")
+    try:
+        with open('json_dat/pages.json', 'r') as json_file:
+            pages = json.load(json_file)
+            scrape_res=[]
+            login(f"pages json loaded")
+            for page, link in pages.items():
+                if page in pages_list:
+                    login(f"scraping page: {page}")
+                    all_fields, success = scrape_page(f"{url}/{link}".replace("//","/"), driver, 0, 2)
+                    for sub in all_fields:
+                        with open(f"json_dat/{page}.json", 'w') as f:
+                            json.dump(sub, f)
+                        scrape_res.append([page, sub])
+            return scrape_res, True
+    except Exception as e:
+        login(f"scrape_all error: {e}")
+        return "error", False
 
 def open_xls(xls, sheetname = None):
     login("opening : "+str(xls))
@@ -263,220 +349,230 @@ def get_column_number(sheet, target_value):
 #____________________________________________
 #GUI functions
 
-def cancel():
-    quit()
+class GUI:
+    def cancel(self):
+        quit()
 
-def scan():
-    global sites_to_action
-    global Replace 
-    global driver
-    Confirm = False
-
-    def execute():
-        if Replace == True:
-            origin_ip = t963Ip
-            final_ip = '111.111.111.111'
-            final_format = format_IQVision
-
-        login(f"sites to action: {sites_to_action}")
-
-        # Initialize the WebDriver (replace 'chromedriver' with the path to your driver executable)
-        excel_list = load_workbook(EXCEL_FILE)
-        options = webdriver.ChromeOptions()
-        options.add_argument('ignore-certificate-errors')
-        options.add_argument('acceptInsecureCerts')
-        with webdriver.Chrome(options=options) as driver:
-            try:
-                # Loop through all rows using iterrows()
-                for index, row in os_list.iterrows():
-                    try:
-                        manual = False
-                        visit_success = True
-                        login("new row of excel sheet")
-                        # Access row values by column name
-                        #ip_address = row['nodeIpAddr']
-                        ip_address = '172.16.7.195'
-                        this_site = row['siteLabel']
-                        do_this_site = False
-                        for site in sites_to_action:
-                            if site == this_site:   
-                                do_this_site = True
-                        if (do_this_site == True):
-                            login(f"controller to check: {this_site} - {ip_address}")
-                            if (ip_address == "#N/A#" or ip_address == "" or ip_address == "128.1.1.3" or ip_address == "inv" or pd.isna(ip_address)):
-                                visit_success = False
-                                login(f"controller not visitable : {this_site} - {ip_address}")
-                            else:
-                                alm_dest, visit_success = get_alm_dest(ip_address, driver)
-                            if (visit_success == False) :
-                                    login("no access to this controller")
-                            else :
-                                timeMasterStatus, manual = get_time_master_status(ip_address, driver)
-                                excel_list[SHEET_NAME].cell(row=index+2, column=16).value=f"TimeMaster: {timeMasterStatus}"
-                                out.write(str(ip_address)+" alarm destinations : ")
-                                get_all_pages(ip_address, driver)
-                                try :
-                                    alm_dest.length()
-                                except :
-                                    manual = True
-                                else :
-                                    #only if we require multiple connections together
-                                    manual = (alm_dest.lenght()<1)
-                                    #manual = False 
-                                for alm in alm_dest :
-                                    i = alm_dest.index(alm)
-                                    past_alm_dest = str(row["Alarm Destinations e"+str(i+1)])
-                                    href_value = alm.get('href')
-                                    login(f"known alarm dest {href_value} is: {past_alm_dest}")
-                                    url = f"{ip_address}/{href_value}".replace("//","/")
-                                    login(f"alarm at this url: {url}")
-                                    html_content, visit_success = visit_webpage_selenium(url, driver)
-                                    destination, instance_manual = open_alm_dest(html_content)
-                                    manual *= instance_manual
-                                    if visit_success == True:
-                                        out.write("e"+str(i)+" destination : "+str(destination)+" \r")
-                                        column = get_column_number(excel_list[SHEET_NAME], f'Alarm Destinations e{i + 1}')
-                                        login(f"writing to column {column}")
-                                        excel_list[SHEET_NAME].cell(row=index+2, column=column).value = destination
-                                        if Replace == True:
-                                            if destination == origin_ip :
-                                                #insert code to overwrite the former IP address
-                                                write_newVal(html_content, "Destination", final_ip, driver)
-                                                select_newVal(html_content, "Message Format", final_format, driver)
-                                                submit(driver)
-                            if (manual == True or visit_success == False) :
-                                login(f"Controller will require manual intervention")
-                                error.writelines(f"{this_site} - {ip_address} will require manual intervention")
-                                column = 15
-                                excel_list[SHEET_NAME].cell(row=index+2, column=column).value="Manual Intervention Required"
-                                if Replace == True:
-                                    error.writelines(f"{this_site} - {ip_address} could not be updated")
-                    except Exception as e:
-                        login(f"Controller failure, skipping controller {row} - "+str(e))
-                        error.writelines(f"{this_site} - {ip_address} could not be accessed")
-                try:
-                    #add in code for custom output in case of failure
-                    excel_list.save(OUTPUT)
-                except Exception as e:
-                    login(f"Write error: {e}")
-            except Exception as e:
-                login("Major failure, exiting now - "+str(e))
-            driver.close()
-            login("Done")
-    
-
-    login(f"sites_to_action : {sites_to_action}")
-    login(f"Replace mode = {Replace}")
-
-    def confirm_replace():
-        nonlocal popup
-        Confirm = True
-        popup.destroy
-        execute()
-
-    if Confirm == False and Replace == True :
-        popup = tk.Toplevel(root)
-        popup.title("Replace")
-
-        confirm_button = tk.Button(popup, text="Confirm", command=confirm_replace)
-        confirm_button.pack()
-        cancel_button = tk.Button(popup, text="Cancel", command=cancel)
-        cancel_button.pack()
-        confirm_text = tk.Label(popup, text = "Are you sure you want to overwrite alarm destinations?",wraplength=150, width=35, height=15)
-        confirm_text.pack()
-
-    else:
-        execute()
-
-
-def on_checkbox_toggle():
+    def scan(self):
+        global sites_to_action
         global Replace 
-        Replace = not Replace
+        global driver
+        Confirm = False
+
+        def execute():
+            if Replace == True:
+                origin_ip = t963Ip
+                final_ip = '111.111.111.111'
+                final_format = format_IQVision
+
+            login(f"sites to action: {sites_to_action}")
+
+            # Initialize the WebDriver (replace 'chromedriver' with the path to your driver executable)
+            excel_list = load_workbook(EXCEL_FILE)
+            options = webdriver.ChromeOptions()
+            options.add_argument('ignore-certificate-errors')
+            options.add_argument('acceptInsecureCerts')
+            with webdriver.Chrome(options=options) as driver:
+                try:
+                    # Loop through all rows using iterrows()
+                    for index, row in os_list.iterrows():
+                        try:
+                            manual = False
+                            visit_success = True
+                            login("new row of excel sheet")
+                            # Access row values by column name
+                            #ip_address = row['nodeIpAddr']
+                            ip_address = '172.16.7.195'
+                            this_site = row['siteLabel']
+                            do_this_site = False
+                            for site in sites_to_action:
+                                if site == this_site:   
+                                    do_this_site = True
+                            if (do_this_site == True):
+                                login(f"controller to check: {this_site} - {ip_address}")
+                                if (ip_address == "#N/A#" or ip_address == "" or ip_address == "128.1.1.3" or ip_address == "inv" or pd.isna(ip_address)):
+                                    visit_success = False
+                                    login(f"controller not visitable : {this_site} - {ip_address}")
+                                else:
+                                    alm_dest, visit_success = get_alm_dest(ip_address, driver)
+                                if (visit_success == False) :
+                                        login("no access to this controller")
+                                else :
+                                    timeMasterStatus, manual = get_time_master_status(ip_address, driver)
+                                    scrape_all(ip_address, driver)
+                                    excel_list[SHEET_NAME].cell(row=index+2, column=16).value=f"TimeMaster: {timeMasterStatus}"
+                                    out.write(str(ip_address)+" alarm destinations : ")
+                                    try :
+                                        alm_dest.length()
+                                    except :
+                                        manual = True
+                                    else :
+                                        #only if we require multiple connections together
+                                        manual = (alm_dest.lenght()<1)
+                                        #manual = False 
+                                    for alm in alm_dest :
+                                        i = alm_dest.index(alm)
+                                        past_alm_dest = str(row["Alarm Destinations e"+str(i+1)])
+                                        href_value = alm.get('href')
+                                        login(f"known alarm dest {href_value} is: {past_alm_dest}")
+                                        url = f"{ip_address}/{href_value}".replace("//","/")
+                                        login(f"alarm at this url: {url}")
+                                        html_content, visit_success = visit_webpage_selenium(url, driver)
+                                        destination, instance_manual = open_alm_dest(html_content)
+                                        manual *= instance_manual
+                                        if visit_success == True:
+                                            out.write("e"+str(i)+" destination : "+str(destination)+" \r")
+                                            column = get_column_number(excel_list[SHEET_NAME], f'Alarm Destinations e{i + 1}')
+                                            login(f"writing to column {column}")
+                                            excel_list[SHEET_NAME].cell(row=index+2, column=column).value = destination
+                                            if Replace == True:
+                                                if destination == origin_ip :
+                                                    #insert code to overwrite the former IP address
+                                                    write_newVal(html_content, "Destination", final_ip, driver)
+                                                    select_newVal(html_content, "Message Format", final_format, driver)
+                                                    submit(driver)
+                                if (manual == True or visit_success == False) :
+                                    login(f"Controller will require manual intervention")
+                                    error.writelines(f"{this_site} - {ip_address} will require manual intervention")
+                                    column = 15
+                                    excel_list[SHEET_NAME].cell(row=index+2, column=column).value="Manual Intervention Required"
+                                    if Replace == True:
+                                        error.writelines(f"{this_site} - {ip_address} could not be updated")
+                        except Exception as e:
+                            login(f"Controller failure, skipping controller {row} - "+str(e))
+                            error.writelines(f"{this_site} - {ip_address} could not be accessed")
+                    try:
+                        #add in code for custom output in case of failure
+                        excel_list.save(OUTPUT)
+                    except Exception as e:
+                        login(f"Write error: {e}")
+                except Exception as e:
+                    login("Major failure, exiting now - "+str(e))
+                driver.close()
+                login("Done")
+        
+
+        login(f"sites_to_action : {sites_to_action}")
         login(f"Replace mode = {Replace}")
-        return Replace
 
-def init_gui():
-    global Replace
+        def confirm_replace():
+            nonlocal popup
+            Confirm = True
+            popup.destroy
+            execute()
 
-    #Tkinter GUI
-    root = tk.Tk()
-    root.title("Trend Alarm destination crawler")
-    root.minsize(800,200)
-    root.geometry("480x100")
+        if Confirm == False and Replace == True :
+            popup = tk.Toplevel(self.root)
+            popup.title("Replace")
 
-    
-    # create the main sections of the layout, 
-    # and lay them out
-    buffer = tk.Frame(root, width=200, height=20)
-    top = tk.Frame(root)
-    middle = tk.Frame(root)
-    bottom = tk.Frame(root)
-    buffer.pack(side=tk.TOP)
-    top.pack(side=tk.TOP)
-    middle.pack(side=tk.TOP)
-    bottom.pack(side=tk.BOTTOM, fill=tk.BOTH, expand=True)
-    buffer.pack(side=tk.TOP)
+            confirm_button = tk.Button(popup, text="Confirm", command=confirm_replace)
+            confirm_button.pack()
+            cancel_button = tk.Button(popup, text="Cancel", command=self.cancel)
+            cancel_button.pack()
+            confirm_text = tk.Label(popup, text = "Are you sure you want to overwrite alarm destinations?",wraplength=150, width=35, height=15)
+            confirm_text.pack()
+
+        else:
+            execute()
+
+    def show_checkbox_list(self, ckb_list):
+        selected_values = []
+
+        def confirm_selection():
+            nonlocal selected_values
+            selected_values = [item for item, var in checkboxes if var.get()]
+            popup.destroy()
+        
+        popup = tk.Toplevel(self.root)
+        popup.title("Checkbox List")
+        
+        checkboxes = []
+
+        # Calculate number of columns based on the number of options
+        num_columns = 3
+        num_options = len(ckb_list)
+        num_rows = -(-num_options // num_columns)  # Equivalent to math.ceil(num_options / num_columns)
+
+        for i, item in enumerate(ckb_list):
+            row = i // num_columns
+            column = i % num_columns
+            var = tk.BooleanVar()
+            checkbtn = tk.Checkbutton(popup, text=item, variable=var)
+            checkbtn.grid(row=row, column=column, sticky="w")
+            checkboxes.append((item, var))
+
+        confirm_button = tk.Button(popup, text="Confirm", command=confirm_selection)
+        confirm_button.grid(row=num_rows, columnspan=num_columns, pady=10)
+
+        popup.grab_set()  # Make the popup modal
+        popup.wait_window()  # Wait for the popup window to close
+        login(f"selected values : {selected_values}")
+        
+        return selected_values
+
+    def select_property(self, property_list):
+       self.selected_properties = self.show_checkbox_list(property_list)
+
+    def select_sites(self, sites_list):
+        self.selected_sites = self.show_checkbox_list(sites_list)
+
+    def on_checkbox_toggle(self):
+            global Replace 
+            Replace = not Replace
+            login(f"Replace mode = {Replace}")
+            return Replace
+
+    def __init__(self, sites_list, property_list):
+        global Replace
+        self.sites_list = sites_list
+        self.property_list = property_list
+        self.selected_sites = []
+        self.selected_properties = []
+
+        #Tkinter GUI
+        root = tk.Tk()
+        root.title("Trend Alarm destination crawler")
+        root.minsize(800,200)
+        root.geometry("480x100")
+
+        
+        # create the main sections of the layout, 
+        # and lay them out
+        buffer = tk.Frame(root, width=200, height=20)
+        top = tk.Frame(root)
+        middle = tk.Frame(root)
+        bottom = tk.Frame(root)
+        buffer.pack(side=tk.TOP)
+        top.pack(side=tk.TOP)
+        middle.pack(side=tk.TOP)
+        bottom.pack(side=tk.BOTTOM, fill=tk.BOTH, expand=True)
+        buffer.pack(side=tk.TOP)
 
 
-    # create the widgets for the top part of the GUI,
-    # and lay them out
-    s = tk.Button(root, text="Select sites", width=10, height=2, command=lambda: show_checkbox_list(unique_Sites))
-    c = tk.Button(root, text="Leave", width=10, height=2, command=cancel)
-    e = tk.Button(root, text="Scan", wraplength=60, width=10, height=2, command=scan)
-    #r = tk.Checkbutton(root, text="Replace", variable=Replace, width=10, height=2, command=on_checkbox_toggle)
-    #r.pack(in_=top, side=tk.LEFT)
-    s.pack(in_=middle, side=tk.LEFT)
-    e.pack(in_=middle, side=tk.LEFT)
-    c.pack(in_=middle, side=tk.LEFT)
+        # create the widgets for the top part of the GUI,
+        # and lay them out
+        s = tk.Button(root, text="Select sites", width=10, height=2, command=lambda: self.select_sites(self.sites_list))
+        p = tk.Button(root, text="Select property to scan", width=10, height=2, command=lambda: self.select_property(self.property_list))
+        c = tk.Button(root, text="Leave", width=10, height=2, command=self.cancel)
+        e = tk.Button(root, text="Scan", wraplength=60, width=10, height=2, command=self.scan)
+        #r = tk.Checkbutton(root, text="Replace", variable=Replace, width=10, height=2, command=on_checkbox_toggle)
+        #r.pack(in_=top, side=tk.LEFT)
+        s.pack(in_=middle, side=tk.LEFT)
+        p.pack(in_=middle, side=tk.LEFT)
+        e.pack(in_=middle, side=tk.LEFT)
+        c.pack(in_=middle, side=tk.LEFT)
 
-    # create the widgets for the bottom part of the GUI,
-    # and lay them out
-    global path
-    path = tk.Label(root, text = "Select 'Scan' to read selected files and check the replace box to make replacements", width=35, height=15)
-    path.pack(in_=bottom, side=tk.LEFT, fill=tk.BOTH, expand=True)
-    
-    w = tk.Label(root, text="Please choose SET Project file directory")
-    w.pack()
+        # create the widgets for the bottom part of the GUI,
+        # and lay them out
+        global path
+        path = tk.Label(root, text = "Select 'Scan' to read selected files and check the replace box to make replacements", width=35, height=15)
+        path.pack(in_=bottom, side=tk.LEFT, fill=tk.BOTH, expand=True)
+        
+        w = tk.Label(root, text="Please choose SET Project file directory")
+        w.pack()
 
-    return root
-    
-def show_checkbox_list(ckb_list):
-    selected_values = []
-
-    def confirm_selection():
-        nonlocal selected_values
-        selected_values = [item for item, var in checkboxes if var.get()]
-        popup.destroy()
-    
-    popup = tk.Toplevel(root)
-    popup.title("Checkbox List")
-    
-    checkboxes = []
-
-    # Calculate number of columns based on the number of options
-    num_columns = 3
-    num_options = len(ckb_list)
-    num_rows = -(-num_options // num_columns)  # Equivalent to math.ceil(num_options / num_columns)
-
-    for i, item in enumerate(ckb_list):
-        row = i // num_columns
-        column = i % num_columns
-        var = tk.BooleanVar()
-        checkbtn = tk.Checkbutton(popup, text=item, variable=var)
-        checkbtn.grid(row=row, column=column, sticky="w")
-        checkboxes.append((item, var))
-
-    confirm_button = tk.Button(popup, text="Confirm", command=confirm_selection)
-    confirm_button.grid(row=num_rows, columnspan=num_columns, pady=10)
-
-    popup.grab_set()  # Make the popup modal
-    popup.wait_window()  # Wait for the popup window to close
-    global sites_to_action
-    sites_to_action = selected_values
-    login(f"selected values : {selected_values}")
-    login(f"sites_to_action : {sites_to_action}")
-    
-    return sites_to_action
+        self.root = root
+        
 
 #__________________________________________________________________________
 # main 
@@ -497,6 +593,18 @@ with open("trend_web_bot.log","w") as log, open("error.log","w") as error, open(
         login(f"sites list : {unique_Sites}")
     except Exception as e:
         login(f"error creating site list: {e}")
+
+    #make property list
+    try:
+        with open('json_dat/pages.json', 'r') as json_file:
+            pages = json.load(json_file)
+            property_list = []
+            for page, link in pages.items():
+                property_list.append(page)
+            sorted(set(property_list))
+            login(f"property_list : {property_list}")
+    except Exception as e:
+        login(f"error creating property_list: {e}")
 
         
 
@@ -519,5 +627,6 @@ with open("trend_web_bot.log","w") as log, open("error.log","w") as error, open(
     sites_to_action = []
 
     checkbox_var = False
-    root = init_gui()
-    root.mainloop()
+    gui = GUI(unique_Sites, property_list)
+    gui.root.mainloop()
+    
