@@ -310,20 +310,21 @@ def scrape_page(url, driver, count, max_count):
             return "scrape maximum number of sub pages", False
 
 def scrape_all(url,driver,pages_list):
-    login("scrape_all fct")
+    login(f"scrape_all fct - properties: {pages_list}")
     try:
         with open('json_dat/pages.json', 'r') as json_file:
             pages = json.load(json_file)
             scrape_res=[]
-            login(f"pages json loaded")
+            login(f"pages json loaded: {pages}")
             for page, link in pages.items():
                 if page in pages_list:
                     login(f"scraping page: {page}")
+                    all_fields = {}
                     all_fields, success = scrape_page(f"{url}/{link}".replace("//","/"), driver, 0, 2)
                     for sub in all_fields:
-                        with open(f"json_dat/{page}.json", 'w') as f:
-                            json.dump(sub, f)
                         scrape_res.append([page, sub])
+                    with open(f"json_dat/{page}.json", 'w') as f:
+                        json.dump(all_fields, f)
             return scrape_res, True
     except Exception as e:
         login(f"scrape_all error: {e}")
@@ -354,18 +355,34 @@ class GUI:
         quit()
 
     def scan(self):
-        global sites_to_action
-        global Replace 
-        global driver
+        #global Replace 
         Confirm = False
 
-        def execute():
+        def execute(self):
             if Replace == True:
                 origin_ip = t963Ip
                 final_ip = '111.111.111.111'
                 final_format = format_IQVision
 
-            login(f"sites to action: {sites_to_action}")
+            login(f"sites to action: {self.selected_sites}")
+            login(f"pages to read: {self.selected_properties}")
+
+            #list properties
+            """ for property in self.selected_properties:
+                login(f"property is: {property}")
+                with open(f"json_dat/{property}.json", 'r') as json_file:
+                    json_prop = json.load(json_file)
+                    login(f"json_prop is: {json_prop}")
+                    property_list = []
+                    for prop, value in json_prop.items():
+                        property_list.append(prop)
+                    sorted(set(property_list))
+                    login(f"property_list : {property_list}")
+                
+                for subprop in property_list:
+                    i = property_list.index(subprop)
+                    excel_list[property].cell(row=0, column=i+1).value=subprop """
+
 
             # Initialize the WebDriver (replace 'chromedriver' with the path to your driver executable)
             excel_list = load_workbook(EXCEL_FILE)
@@ -385,8 +402,7 @@ class GUI:
                             ip_address = '172.16.7.195'
                             this_site = row['siteLabel']
                             do_this_site = False
-                            for site in sites_to_action:
-                                if site == this_site:   
+                            if this_site in self.selected_sites:
                                     do_this_site = True
                             if (do_this_site == True):
                                 login(f"controller to check: {this_site} - {ip_address}")
@@ -399,9 +415,12 @@ class GUI:
                                         login("no access to this controller")
                                 else :
                                     timeMasterStatus, manual = get_time_master_status(ip_address, driver)
-                                    scrape_all(ip_address, driver)
+                                    scrape_res, success = scrape_all(ip_address, driver, self.selected_properties)
                                     excel_list[SHEET_NAME].cell(row=index+2, column=16).value=f"TimeMaster: {timeMasterStatus}"
                                     out.write(str(ip_address)+" alarm destinations : ")
+                                    for res in scrape_res:
+                                        for property, pvalue in res:
+                                            excel_list[SHEET_NAME].cell(row=index+2, colum=get_column_number(excel_list[SHEET_NAME], property)).value = pvalue
                                     try :
                                         alm_dest.length()
                                     except :
@@ -450,16 +469,12 @@ class GUI:
                     login("Major failure, exiting now - "+str(e))
                 driver.close()
                 login("Done")
-        
-
-        login(f"sites_to_action : {sites_to_action}")
-        login(f"Replace mode = {Replace}")
 
         def confirm_replace():
             nonlocal popup
             Confirm = True
             popup.destroy
-            execute()
+            execute(self)
 
         if Confirm == False and Replace == True :
             popup = tk.Toplevel(self.root)
@@ -473,48 +488,75 @@ class GUI:
             confirm_text.pack()
 
         else:
-            execute()
+            execute(self)
 
-    def show_checkbox_list(self, ckb_list):
-        selected_values = []
+    def createChkbx(self):
+        return GUI.checkbox_list(self)
+    
+    class checkbox_list:
 
-        def confirm_selection():
-            nonlocal selected_values
-            selected_values = [item for item, var in checkboxes if var.get()]
-            popup.destroy()
-        
-        popup = tk.Toplevel(self.root)
-        popup.title("Checkbox List")
-        
-        checkboxes = []
+        def __init__(self, outer_instance):
+            self.outer_instance = outer_instance
+            self.checkboxes = []
+            self.selected_values = []
 
-        # Calculate number of columns based on the number of options
-        num_columns = 3
-        num_options = len(ckb_list)
-        num_rows = -(-num_options // num_columns)  # Equivalent to math.ceil(num_options / num_columns)
+        def show_checkbox_list(self, ckb_list):
+            
+            def confirm_selection(self):
+                self.selected_values = [item for item, var in self.checkboxes if var.get()]
+                popup.destroy()
 
-        for i, item in enumerate(ckb_list):
-            row = i // num_columns
-            column = i % num_columns
-            var = tk.BooleanVar()
-            checkbtn = tk.Checkbutton(popup, text=item, variable=var)
-            checkbtn.grid(row=row, column=column, sticky="w")
-            checkboxes.append((item, var))
+            def toggle_select_all(self):
+                select_all_state = select_all_var.get()
+                for var in self.checkboxes:
+                    login(f"var is: {var[1]}")
+                    var[1].set(select_all_state)
+            
+            popup = tk.Toplevel(self.outer_instance.root)
+            popup.title("Checkbox List")
+            
 
-        confirm_button = tk.Button(popup, text="Confirm", command=confirm_selection)
-        confirm_button.grid(row=num_rows, columnspan=num_columns, pady=10)
+            # Create a variable for "Select All" checkbox
+            select_all_var = tk.BooleanVar()
+            select_all_var.set(False)  # Initially not selected
 
-        popup.grab_set()  # Make the popup modal
-        popup.wait_window()  # Wait for the popup window to close
-        login(f"selected values : {selected_values}")
-        
-        return selected_values
+            # Calculate number of columns based on the number of options
+            num_columns = 3
+            num_options = len(ckb_list)+1
+            num_rows = -(-num_options // num_columns)  # Equivalent to math.ceil(num_options / num_columns)
+
+            # Create the "Select All" checkbox
+            select_all_checkbox = tk.Checkbutton(popup, text="Select All", variable=select_all_var, command=lambda: toggle_select_all(self))
+            select_all_checkbox.grid(row=0, column=0, sticky="w")
+
+            for i, item in enumerate(ckb_list):
+                row = (i+1) // num_columns
+                column = (i+1) % num_columns
+                var = tk.BooleanVar()
+                checkbtn = tk.Checkbutton(popup, text=item, variable=var)
+                checkbtn.grid(row=row, column=column, sticky="w")
+                self.checkboxes.append((item, var))
+
+            confirm_button = tk.Button(popup, text="Confirm", command=lambda: confirm_selection(self))
+            confirm_button.grid(row=num_rows, columnspan=num_columns, pady=10)
+
+            popup.grab_set()  # Make the popup modal
+            popup.wait_window()  # Wait for the popup window to close
+            login(f"selected values : {self.selected_values}")
+            
+            return self.selected_values
 
     def select_property(self, property_list):
-       self.selected_properties = self.show_checkbox_list(property_list)
+       property_chkbx = self.checkbox_list(self)
+       login(f"self.selected_properties: {self.selected_properties}")
+       self.selected_properties = property_chkbx.show_checkbox_list(property_list)
+       login(f"self.selected_properties: {self.selected_properties}")
 
     def select_sites(self, sites_list):
-        self.selected_sites = self.show_checkbox_list(sites_list)
+        sites_chkbx = self.checkbox_list(self)
+        login(f"self.selected_sites: {self.selected_sites}")
+        self.selected_sites = sites_chkbx.show_checkbox_list(sites_list)
+        login(f"self.selected_sites: {self.selected_sites}")
 
     def on_checkbox_toggle(self):
             global Replace 
@@ -624,7 +666,6 @@ with open("trend_web_bot.log","w") as log, open("error.log","w") as error, open(
 
     #init mode
     Replace = False
-    sites_to_action = []
 
     checkbox_var = False
     gui = GUI(unique_Sites, property_list)
