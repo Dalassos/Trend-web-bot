@@ -1,0 +1,1925 @@
+﻿siteID,siteLabel,siteConnectionString,LanNo,theLabel,NodeAddress,theLabel,outPin,deviCeResponse,nodeIpAddr,TimeMasterStatus
+2,ACF Bush Estate,IP172.16.4.22,42,HECTOR EINC,9,9,1236,?,#N/A#,3
+2,ACF Bush Estate,IP172.16.4.22,0,0,11,11,1236,?,#N/A#,3
+2,ACF Bush Estate,IP172.16.4.22,0,0,12,12,1236,?,#N/A#,3
+2,ACF Bush Estate,IP172.16.4.22,43,INC,56,Cooling Towers OS56,1236,IQ4E96 Iss4.33 Oct 12 2021,172.16.4.90,1
+2,ACF Bush Estate,IP172.16.4.22,42,HECTOR EINC,0,0,1236,?,#N/A#,3
+2,ACF Bush Estate,IP172.16.4.22,41,INC,25,HECTOR OS25,1236,IQ4E96 Iss4.32 Feb 26 2021,172.16.4.6,1
+2,ACF Bush Estate,IP172.16.4.22,41,INC,26,HECTOR OS26,1236,IQ4E96 Iss4.33 Oct 12 2021,172.16.4.7,1
+2,ACF Bush Estate,IP172.16.4.22,41,INC,24,HECTOR OS24,1236,IQ4E96 Iss4.20 Aug 21 2019,172.16.4.5,1
+2,ACF Bush Estate,IP172.16.4.22,41,INC,1,IQView,1236,0,#N/A#,3
+2,ACF Bush Estate,IP172.16.4.22,42,HECTOR EINC,6,963 v3.62,1236,0,#N/A#,3
+2,ACF Bush Estate,IP172.16.4.22,42,HECTOR EINC,7,7,1236,No Reply,#N/A#,3
+2,ACF Bush Estate,IP172.16.4.22,42,HECTOR EINC,8,8,1236,No Reply,#N/A#,3
+2,ACF Bush Estate,IP172.16.4.22,41,INC,126,INC,1236,No Reply,#N/A#,3
+2,ACF Bush Estate,IP172.16.4.22,41,INC,103,963 v3.73,1236,0,#N/A#,3
+2,ACF Bush Estate,IP172.16.4.22,41,INC,102,102,1236,No Reply,#N/A#,3
+2,ACF Bush Estate,IP172.16.4.22,41,INC,101,963 v3.50,1236,0,#N/A#,3
+2,ACF Bush Estate,IP172.16.4.22,44,EINC (Archer),126,EINC (Archer),1236,EINC V4.20 18/02/2003,#N/A#,3
+2,ACF Bush Estate,IP172.16.4.22,44,EINC (Archer),1,IQView,1236,0,#N/A#,3
+2,ACF Bush Estate,IP172.16.4.22,43,INC,126,INC,1236,No Reply,#N/A#,3
+2,ACF Bush Estate,IP172.16.4.22,43,INC,1,IQView,1236,0,#N/A#,3
+2,ACF Bush Estate,IP172.16.4.22,42,HECTOR EINC,126,HECTOR EINC,1236,EINC V4.20 18/02/2003,#N/A#,3
+2,ACF Bush Estate,IP172.16.4.22,42,HECTOR EINC,34,CCU14,1236,IQ204 Iss3.12 Nov 28 2002,#N/A#,1
+2,ACF Bush Estate,IP172.16.4.22,42,HECTOR EINC,33,CCU13,1236,IQ204 Iss3.12 Nov 28 2002,#N/A#,0
+2,ACF Bush Estate,IP172.16.4.22,42,HECTOR EINC,32,CCU12HUM,1236,IQ204 Iss3.12 Nov 28 2002,#N/A#,1
+2,ACF Bush Estate,IP172.16.4.22,42,HECTOR EINC,31,CCU11,1236,IQ204 Iss3.12 Nov 28 2002,#N/A#,1
+2,ACF Bush Estate,IP172.16.4.22,42,HECTOR EINC,5,5,1236,No Reply,#N/A#,3
+2,ACF Bush Estate,IP172.16.4.22,42,HECTOR EINC,30,CCU10,1236,IQ204 Iss3.12 Nov 28 2002,#N/A#,1
+2,ACF Bush Estate,IP172.16.4.22,42,HECTOR EINC,29,CCU09HUM,1236,IQ204 Iss3.12 Nov 28 2002,#N/A#,1
+2,ACF Bush Estate,IP172.16.4.22,42,HECTOR EINC,28,CCU08,1236,IQ204 Iss3.12 Nov 28 2002,#N/A#,1
+2,ACF Bush Estate,IP172.16.4.22,42,HECTOR EINC,27,CCU07,1236,IQ204 Iss3.12 Nov 28 2002,#N/A#,1
+2,ACF Bush Estate,IP172.16.4.22,44,EINC (Archer),5,No Reply,1236,No Reply,#N/A#,3
+2,ACF Bush Estate,IP172.16.4.22,44,EINC (Archer),22,CCU02,1236,IQ204 Iss3.12 Nov 28 2002,#N/A#,1
+2,ACF Bush Estate,IP172.16.4.22,44,EINC (Archer),23,CCU03,1236,IQ204 Iss3.12 Nov 28 2002,#N/A#,1
+2,ACF Bush Estate,IP172.16.4.22,44,EINC (Archer),24,CCU04,1236,IQ204 Iss3.12 Nov 28 2002,#N/A#,1
+2,ACF Bush Estate,IP172.16.4.22,44,EINC (Archer),25,CCU05,1236,IQ204 Iss3.12 Nov 28 2002,#N/A#,1
+2,ACF Bush Estate,IP172.16.4.22,44,EINC (Archer),26,CCU06,1236,IQ204 Iss3.12 Nov 28 2002,#N/A#,1
+2,ACF Bush Estate,IP172.16.4.22,44,EINC (Archer),27,CCU07,1236,IQ204 Iss3.12 Nov 28 2002,#N/A#,1
+2,ACF Bush Estate,IP172.16.4.22,44,EINC (Archer),28,CCU08,1236,IQ204 Iss3.12 Nov 28 2002,#N/A#,1
+2,ACF Bush Estate,IP172.16.4.22,44,EINC (Archer),29,CCU09,1236,IQ204 Iss3.12 Nov 28 2002,#N/A#,1
+2,ACF Bush Estate,IP172.16.4.22,44,EINC (Archer),30,CCU10,1236,IQ204 Iss3.12 Nov 28 2002,#N/A#,1
+2,ACF Bush Estate,IP172.16.4.22,44,EINC (Archer),31,CCU11,1236,IQ204 Iss3.12 Nov 28 2002,#N/A#,1
+2,ACF Bush Estate,IP172.16.4.22,42,HECTOR EINC,1,1,1236,?,#N/A#,3
+2,ACF Bush Estate,IP172.16.4.22,43,INC,51,Archer OS51,1236,IQ4E128 Iss4.33 Oct 12 2021,172.16.4.80,2
+2,ACF Bush Estate,IP172.16.4.22,43,INC,52,Archer OS52,1236,IQ4E96 Iss4.33 Oct 12 2021,172.16.4.81,1
+2,ACF Bush Estate,IP172.16.4.22,43,INC,53,Archer OS53,1236,IQ4E96 Iss4.33 Oct 12 2021,172.16.4.82,1
+2,ACF Bush Estate,IP172.16.4.22,43,INC,54,Archer OS54,1236,IQ4E96 Iss4.33 Oct 12 2021,172.16.4.83,1
+2,ACF Bush Estate,IP172.16.4.22,43,INC,55,IQView8,1236,0,#N/A#,3
+2,ACF Bush Estate,IP172.16.4.22,43,INC,101,101,1236,No Reply,#N/A#,3
+2,ACF Bush Estate,IP172.16.4.22,49,vIQ Lan,119,119,1236,No Reply,#N/A#,3
+2,ACF Bush Estate,IP172.16.4.22,49,vIQ Lan,126,vIQ Lan,1236,VirtualIQ v1.03 Feb 12,#N/A#,3
+2,ACF Bush Estate,IP172.16.4.22,40,INC,1,IQView,1236,0,#N/A#,3
+2,ACF Bush Estate,IP172.16.4.22,40,INC,5,5,1236,No Reply,#N/A#,3
+2,ACF Bush Estate,IP172.16.4.22,40,INC,6,6,1236,No Reply,#N/A#,3
+2,ACF Bush Estate,IP172.16.4.22,40,INC,11,11,1236,No Reply,#N/A#,3
+2,ACF Bush Estate,IP172.16.4.22,40,INC,12,12,1236,No Reply,#N/A#,3
+2,ACF Bush Estate,IP172.16.4.22,40,INC,21,Plantroom A OS21,1236,IQ4E96 Iss4.33 Oct 12 2021,172.16.4.22,1
+2,ACF Bush Estate,IP172.16.4.22,40,INC,22,Plantroom A OS22,1236,IQ4E128 Iss4.33 Oct 12 2021,172.16.4.3,1
+2,ACF Bush Estate,IP172.16.4.22,40,INC,27,DiRAC,1236,IQ4E96 Iss4.33 Oct 12 2021,172.16.4.57,1
+2,ACF Bush Estate,IP172.16.4.22,40,INC,28,No Reply,1236,No Reply,,0
+2,ACF Bush Estate,IP172.16.4.22,40,INC,41,Plant A Heat Meter Supercal 531,1236,VirtualIQ v1.03 Feb 12,inv,0
+2,ACF Bush Estate,IP172.16.4.22,40,INC,42,Plant B Heat Meter Supercal 531,1236,VirtualIQ v1.03 Feb 12,inv,0
+2,ACF Bush Estate,IP172.16.4.22,40,INC,104,963 v3.73,1236,0,#N/A#,3
+2,ACF Bush Estate,IP172.16.4.22,40,INC,119,119,1236,No Reply,#N/A#,3
+2,ACF Bush Estate,IP172.16.4.22,40,INC,126,INC,1236,No Reply,#N/A#,3
+2,ACF Bush Estate,IP172.16.4.22,50,INC,12,WCDI MSCP1-2,1236,?,#N/A#,3
+2,ACF Bush Estate,IP172.16.4.22,50,INC,11,WCDI MSCP1-1,1236,?,#N/A#,3
+2,ACF Bush Estate,IP172.16.4.22,41,INC,29,Comms Room,1236,IQ4E16 Iss4.20 Aug 21 2019,172.16.4.194,1
+2,ACF Bush Estate,IP172.16.4.22,41,INC,109,109,1236,No Reply,#N/A#,3
+2,ACF Bush Estate,IP172.16.4.22,49,vIQ Lan,13,Plant C HM Supercal 531,1236,VirtualIQ v1.03 Feb 12,inv,1
+2,ACF Bush Estate,IP172.16.4.22,49,vIQ Lan,12,CC HM2 Supercal 531,1236,VirtualIQ v1.03 Feb 12,inv,1
+2,ACF Bush Estate,IP172.16.4.22,47,vIQ Lan,126,vIQ Lan,1236,VirtualIQ v1.03 Feb 12,#N/A#,3
+2,ACF Bush Estate,IP172.16.4.22,47,vIQ Lan,119,119,1236,No Reply,#N/A#,3
+2,ACF Bush Estate,IP172.16.4.22,47,vIQ Lan,102,102,1236,No Reply,#N/A#,3
+2,ACF Bush Estate,IP172.16.4.22,47,vIQ Lan,23,UPS Unit 3,1236,VirtualIQ v1.03 Feb 12,inv,1
+2,ACF Bush Estate,IP172.16.4.22,47,vIQ Lan,22,UPS Unit 2,1236,VirtualIQ v1.03 Feb 12,inv,1
+2,ACF Bush Estate,IP172.16.4.22,47,vIQ Lan,21,UPS Unit 1,1236,VirtualIQ v1.03 Feb 12,inv,1
+2,ACF Bush Estate,IP172.16.4.22,46,vIQ Lan,126,vIQ Lan,1236,VirtualIQ v1.04 Mar 13,#N/A#,3
+2,ACF Bush Estate,IP172.16.4.22,46,vIQ Lan,119,119,1236,No Reply,#N/A#,3
+2,ACF Bush Estate,IP172.16.4.22,46,vIQ Lan,14,Archer Main 2 Interface,1236,VirtualIQ v1.04 Mar 13,inv,1
+2,ACF Bush Estate,IP172.16.4.22,46,vIQ Lan,13,Archer BTB Interface,1236,VirtualIQ v1.04 Mar 13,inv,1
+2,ACF Bush Estate,IP172.16.4.22,46,vIQ Lan,12,Archer Generator Interface,1236,VirtualIQ v1.04 Mar 13,inv,1
+2,ACF Bush Estate,IP172.16.4.22,46,vIQ Lan,11,Archer Main 1 Interface,1236,VirtualIQ v1.04 Mar 13,172.16.4.85,1
+2,ACF Bush Estate,IP172.16.4.22,46,vIQ Lan,6,6,1236,No Reply,#N/A#,3
+2,ACF Bush Estate,IP172.16.4.22,44,EINC (Archer),32,CCU12,1236,IQ204 Iss3.12 Nov 28 2002,#N/A#,1
+2,ACF Bush Estate,IP172.16.4.22,44,EINC (Archer),21,CCU01,1236,IQ204 Iss3.12 Nov 28 2002,#N/A#,1
+2,ACF Bush Estate,IP172.16.4.22,44,EINC (Archer),4,4,1236,No Reply,#N/A#,3
+2,ACF Bush Estate,IP172.16.4.22,43,INC,104,104,1236,No Reply,#N/A#,3
+2,ACF Bush Estate,IP172.16.4.22,43,INC,103,103,1236,No Reply,#N/A#,3
+2,ACF Bush Estate,IP172.16.4.22,43,INC,102,102,1236,No Reply,#N/A#,3
+2,ACF Bush Estate,IP172.16.4.22,49,vIQ Lan,11,CHW HM1 Supercal 531,1236,VirtualIQ v1.03 Feb 12,inv,1
+2,ACF Bush Estate,IP172.16.4.22,49,vIQ Lan,4,4,1236,No Reply,#N/A#,3
+2,ACF Bush Estate,IP172.16.4.22,50,INC,13,WCDI MSCP2,1236,IQ4E16 Iss4.33 Oct 12 2021,172.16.5.39,1
+2,ACF Bush Estate,IP172.16.4.22,50,INC,107,107,1236,No Reply,#N/A#,0
+2,ACF Bush Estate,IP172.16.4.22,50,INC,126,INC,1236,No Reply,#N/A#,0
+2,ACF Bush Estate,IP172.16.4.22,0,0,14,14,1236,?,#N/A#,0
+2,ACF Bush Estate,IP172.16.4.22,0,0,13,13,1236,?,#N/A#,0
+492,ACF WCDI,IP172.16.5.28,0,126,104,104,0,No Reply,#N/A#,0
+492,ACF WCDI,IP172.16.5.28,0,126,105,IQView8,0,0,#N/A#,0
+492,ACF WCDI,IP172.16.5.28,0,126,106,106,0,No Reply,#N/A#,0
+492,ACF WCDI,IP172.16.5.28,0,126,126,126,0,No Reply,#N/A#,0
+492,ACF WCDI,IP172.16.5.28,50,INC,0,0,0,?,#N/A#,3
+492,ACF WCDI,IP172.16.5.28,0,126,11,WCDI MSCP1-1,0,IQ4E160 Iss4.33 Oct 12 2021,172.16.5.28,0
+492,ACF WCDI,IP172.16.5.28,0,126,12,WCDI MSCP1-2,0,IQ4E128 Iss4.33 Oct 12 2021,172.16.5.29,0
+492,ACF WCDI,IP172.16.5.28,0,126,95,95,0,No Reply,#N/A#,0
+492,ACF WCDI,IP172.16.5.28,0,126,101,101,0,No Reply,#N/A#,0
+492,ACF WCDI,IP172.16.5.28,0,126,102,102,0,No Reply,#N/A#,0
+492,ACF WCDI,IP172.16.5.28,50,INC,1,1,0,No Reply,#N/A#,3
+492,ACF WCDI,IP172.16.5.28,51,Lan 51,4,4,0,No Reply,#N/A#,3
+492,ACF WCDI,IP172.16.5.28,50,INC,101,963 v3.73,0,0,#N/A#,3
+492,ACF WCDI,IP172.16.5.28,50,INC,102,102,0,No Reply,#N/A#,3
+492,ACF WCDI,IP172.16.5.28,50,INC,105,IQView8,0,0,#N/A#,3
+492,ACF WCDI,IP172.16.5.28,50,INC,126,INC,0,No Reply,#N/A#,3
+492,ACF WCDI,IP172.16.5.28,50,INC,11,WCDI MSCP1-1,0,IQ4E160 Iss4.33 Oct 12 2021,172.16.5.28,1
+492,ACF WCDI,IP172.16.5.28,50,INC,12,WCDI MSCP1-2,0,IQ4E128 Iss4.33 Oct 12 2021,172.16.5.29,1
+492,ACF WCDI,IP172.16.5.28,51,Lan 51,14,HCT-04-04,0,VirtualIQ v1.13 Jun 19,172.16.5.31,1
+492,ACF WCDI,IP172.16.5.28,50,INC,104,104,0,No Reply,#N/A#,3
+492,ACF WCDI,IP172.16.5.28,51,Lan 51,13,HCT-04-03,0,VirtualIQ v1.13 Jun 19,172.16.5.31,1
+492,ACF WCDI,IP172.16.5.28,51,Lan 51,12,HCT-04-02,0,VirtualIQ v1.13 Jun 19,172.16.5.31,1
+492,ACF WCDI,IP172.16.5.28,51,Lan 51,11,HCT-04-01,0,VirtualIQ v1.13 Jun 19,172.16.5.31,1
+492,ACF WCDI,IP172.16.5.28,55,Lan 55,126,INC,0,No Reply,#N/A#,3
+492,ACF WCDI,IP172.16.5.28,55,Lan 55,17,WCDI CRAC Unit No.7,0,IQ422-12 Iss4.20 Aug 21 2019,172.16.5.47,1
+492,ACF WCDI,IP172.16.5.28,55,Lan 55,16,WCDI CRAC Unit No.6,0,IQ422-12 Iss4.20 Aug 21 2019,172.16.5.46,1
+492,ACF WCDI,IP172.16.5.28,55,Lan 55,15,WCDI CRAC Unit No.5,0,IQ422-12 Iss3.41 Aug  3 2016,172.16.5.45,1
+492,ACF WCDI,IP172.16.5.28,55,Lan 55,14,WCDI CRAC Unit No.4,0,IQ422-12 Iss4.20 Aug 21 2019,172.16.5.44,1
+492,ACF WCDI,IP172.16.5.28,55,Lan 55,13,WCDI CRAC Unit No.3,0,IQ422-12 Iss4.20 Aug 21 2019,172.16.5.43,1
+492,ACF WCDI,IP172.16.5.28,55,Lan 55,12,WCDI CRAC Unit No.2,0,IQ422-12 Iss3.41 Aug  3 2016,172.16.5.42,1
+492,ACF WCDI,IP172.16.5.28,55,Lan 55,11,WCDI CRAC Unit No.1,0,IQ422-12 Iss4.20 Aug 21 2019,172.16.5.41,1
+492,ACF WCDI,IP172.16.5.28,60,Lan 60,126,MSTP LAN 60,0,IQ4NCBINC Iss8.10 Mar 0,#N/A#,3
+492,ACF WCDI,IP172.16.5.28,60,Lan 60,9,ChillerBacnet4NC,0,IQ4NC0 Iss4.20 Aug 21 2019,172.16.5.30,1
+492,ACF WCDI,IP172.16.5.28,60,Lan 60,7,7,0,No Reply,#N/A#,3
+492,ACF WCDI,IP172.16.5.28,60,Lan 60,6,6,0,No Reply,#N/A#,3
+492,ACF WCDI,IP172.16.5.28,60,Lan 60,5,5,0,No Reply,#N/A#,3
+492,ACF WCDI,IP172.16.5.28,60,Lan 60,4,4,0,No Reply,#N/A#,3
+492,ACF WCDI,IP172.16.5.28,40,40,22,22,0,?,#N/A#,0
+492,ACF WCDI,IP172.16.5.28,51,Lan 51,119,119,0,No Reply,#N/A#,3
+492,ACF WCDI,IP172.16.5.28,51,Lan 51,126,INC,0,No Reply,#N/A#,3
+492,ACF WCDI,IP172.16.5.28,52,Lan 52,11,CHW_Prim_Meter_4-01,0,VirtualIQ v1.13 Jun 19,172.16.5.32,1
+492,ACF WCDI,IP172.16.5.28,52,Lan 52,4,4,0,No Reply,#N/A#,3
+492,ACF WCDI,IP172.16.5.28,52,Lan 52,12,CHW_Sec_Meter_4-02,0,VirtualIQ v1.13 Jun 19,172.16.5.32,1
+492,ACF WCDI,IP172.16.5.28,53,Lan 53,13,UPS 4-3-4,0,VirtualIQ v1.13 Jun 19,172.16.5.33,1
+492,ACF WCDI,IP172.16.5.28,53,Lan 53,12,UPS 4-1-2,0,VirtualIQ v1.13 Jun 19,172.16.5.33,1
+492,ACF WCDI,IP172.16.5.28,53,Lan 53,11,UPS 4-Mech,0,VirtualIQ v1.13 Jun 19,172.16.5.33,1
+492,ACF WCDI,IP172.16.5.28,53,Lan 53,4,4,0,No Reply,#N/A#,3
+492,ACF WCDI,IP172.16.5.28,52,Lan 52,126,INC,0,No Reply,#N/A#,3
+492,ACF WCDI,IP172.16.5.28,52,Lan 52,119,119,0,No Reply,#N/A#,3
+492,ACF WCDI,IP172.16.5.28,52,Lan 52,13,CHW_Sec_Meter_4-03,0,VirtualIQ v1.13 Jun 19,172.16.5.32,1
+492,ACF WCDI,IP172.16.5.28,54,Lan 54,11,Generator 4-1,0,VirtualIQ v1.13 Jun 19,172.16.5.34,1
+492,ACF WCDI,IP172.16.5.28,54,Lan 54,6,6,0,No Reply,#N/A#,3
+492,ACF WCDI,IP172.16.5.28,53,Lan 53,126,INC,0,No Reply,#N/A#,3
+492,ACF WCDI,IP172.16.5.28,53,Lan 53,119,119,0,No Reply,#N/A#,3
+492,ACF WCDI,IP172.16.5.28,41,41,26,26,0,?,#N/A#,0
+492,ACF WCDI,IP172.16.5.28,41,41,25,25,0,?,#N/A#,0
+492,ACF WCDI,IP172.16.5.28,41,41,24,24,0,?,#N/A#,0
+492,ACF WCDI,IP172.16.5.28,50,INC,95,95,0,No Reply,#N/A#,3
+492,ACF WCDI,IP172.16.5.28,50,INC,85,IQView8,0,0,#N/A#,3
+492,ACF WCDI,IP172.16.5.28,54,Lan 54,12,Generator 4-2,0,VirtualIQ v1.13 Jun 19,172.16.5.34,1
+492,ACF WCDI,IP172.16.5.28,54,Lan 54,126,INC,0,No Reply,#N/A#,3
+492,ACF WCDI,IP172.16.5.28,54,Lan 54,119,119,0,No Reply,#N/A#,3
+492,ACF WCDI,IP172.16.5.28,50,INC,106,106,0,No Reply,#N/A#,3
+45,Adam House,IP172.16.6.27,33,INC,21,Adam House,0,IQ3xcite96 Iss3.11 Feb 04 2016,172.16.6.27,2
+45,Adam House,IP172.16.6.27,33,INC,101,963 v3.73,0,0,#N/A#,3
+45,Adam House,IP172.16.6.27,33,INC,126,INC,0,No Reply,#N/A#,3
+45,Adam House,IP172.16.6.27,33,INC,1,1,0,?,#N/A#,3
+402,Deaconess,IP172.16.6.172,1,INC,21,MCPLG01 Boilerhouse,0,IQ3xcite96 Iss3.05 Oct 22 2013,172.16.6.171,2
+402,Deaconess,IP172.16.6.172,1,INC,1,1,0,?,#N/A#,3
+402,Deaconess,IP172.16.6.172,1,INC,126,INC,0,No Reply,#N/A#,3
+402,Deaconess,IP172.16.6.172,1,INC,106,106,0,No Reply,#N/A#,3
+402,Deaconess,IP172.16.6.172,1,INC,105,105,0,No Reply,#N/A#,3
+402,Deaconess,IP172.16.6.172,1,INC,104,104,0,No Reply,#N/A#,3
+402,Deaconess,IP172.16.6.172,1,INC,103,IQView8,0,0,#N/A#,3
+402,Deaconess,IP172.16.6.172,1,INC,102,963 v3.73,0,0,#N/A#,3
+402,Deaconess,IP172.16.6.172,1,INC,101,101,0,No Reply,#N/A#,3
+402,Deaconess,IP172.16.6.172,1,INC,26,MCP101 Block B DHW,0,IQ3xcite96 Iss3.05 Oct 22 2013,172.16.6.176,1
+402,Deaconess,IP172.16.6.172,1,INC,25,MCPG01 Block D DHW,0,IQ3xcite96 Iss3.05 Oct 22 2013,172.16.6.175,1
+402,Deaconess,IP172.16.6.172,1,INC,24,MCPLG04 Block A DHW,0,IQ3xcite96 Iss3.04 Jun 05 2013,172.16.6.174,1
+402,Deaconess,IP172.16.6.172,1,INC,23,MCPLG03 Block C DHW,0,IQ3xcite96 Iss3.05 Oct 22 2013,172.16.6.173,1
+402,Deaconess,IP172.16.6.172,1,INC,22,MCPLG02 Tank Room,0,IQ3xcite96 Iss3.05 Oct 22 2013,172.16.6.172,1
+402,Deaconess,IP172.16.6.172,11,INC,11,Deaconess CHP,0,VirtualIQ v1.19 Aug 22,172.16.6.178,1
+402,Deaconess,IP172.16.6.172,11,INC,4,4,0,No Reply,#N/A#,0
+402,Deaconess,IP172.16.6.172,11,INC,5,5,0,No Reply,#N/A#,0
+402,Deaconess,IP172.16.6.172,11,INC,126,INC,0,No Reply,#N/A#,0
+402,Deaconess,IP172.16.6.172,1,INC,77,77,0,No Reply,#N/A#,0
+402,Deaconess,IP172.16.6.172,1,INC,109,109,0,No Reply,#N/A#,0
+427,Easter Bush Centre Building,IP172.16.4.161,11,Block 1 GF,60,FCU-M-10,0,IQeco32 Iss2.42 Feb  3 2021,#N/A#,3
+427,Easter Bush Centre Building,IP172.16.4.161,11,Block 1 GF,61,FCU-M-11,0,IQeco32 Iss2.42 Feb  3 2021,#N/A#,3
+427,Easter Bush Centre Building,IP172.16.4.161,11,Block 1 GF,62,FCU-M-12,0,IQeco32 Iss2.42 Feb  3 2021,#N/A#,3
+427,Easter Bush Centre Building,IP172.16.4.161,11,Block 1 GF,54,FCU-M-04,0,IQeco32 Iss2.42 Feb  3 2021,#N/A#,3
+427,Easter Bush Centre Building,IP172.16.4.161,11,Block 1 GF,55,FCU-M-05,0,IQeco32 Iss2.42 Feb  3 2021,#N/A#,3
+427,Easter Bush Centre Building,IP172.16.4.161,11,Block 1 GF,56,FCU-M-06,0,IQeco32 Iss2.42 Feb  3 2021,#N/A#,3
+427,Easter Bush Centre Building,IP172.16.4.161,11,Block 1 GF,57,FCU-M-07,0,IQeco32 Iss2.42 Feb  3 2021,#N/A#,3
+427,Easter Bush Centre Building,IP172.16.4.161,11,Block 1 GF,58,FCU-M-08,0,IQeco32 Iss2.42 Feb  3 2021,#N/A#,3
+427,Easter Bush Centre Building,IP172.16.4.161,11,Block 1 GF,59,FCU-M-09,0,IQeco32 Iss2.42 Feb  3 2021,#N/A#,3
+427,Easter Bush Centre Building,IP172.16.4.161,11,Block 1 GF,43,FCU-G-03,0,IQeco32 Iss2.42 Feb  3 2021,#N/A#,3
+427,Easter Bush Centre Building,IP172.16.4.161,11,Block 1 GF,44,FCU-G-04,0,IQeco32 Iss2.42 Feb  3 2021,#N/A#,3
+427,Easter Bush Centre Building,IP172.16.4.161,11,Block 1 GF,45,FCU-G-05,0,IQeco32 Iss2.42 Feb  3 2021,#N/A#,3
+427,Easter Bush Centre Building,IP172.16.4.161,11,Block 1 GF,46,FCU-G-06,0,IQeco32 Iss2.42 Feb  3 2021,#N/A#,3
+427,Easter Bush Centre Building,IP172.16.4.161,11,Block 1 GF,51,FCU-M-01,0,IQeco32 Iss2.42 Feb  3 2021,#N/A#,3
+427,Easter Bush Centre Building,IP172.16.4.161,11,Block 1 GF,52,FCU-M-02,0,IQeco32 Iss2.42 Feb  3 2021,#N/A#,3
+427,Easter Bush Centre Building,IP172.16.4.161,11,Block 1 GF,53,FCU-M-03,0,IQeco32 Iss2.42 Feb  3 2021,#N/A#,3
+427,Easter Bush Centre Building,IP172.16.4.161,11,Block 1 GF,41,FCU-G-01,0,IQeco32 Iss2.42 Feb  3 2021,#N/A#,3
+427,Easter Bush Centre Building,IP172.16.4.161,11,Block 1 GF,42,FCU-G-02,0,IQeco32 Iss2.42 Feb  3 2021,#N/A#,3
+427,Easter Bush Centre Building,IP172.16.4.161,12,Block 1 FF,45,FCU-FB1-05,0,IQeco38 Iss2.31 Mar 24 2017,#N/A#,3
+427,Easter Bush Centre Building,IP172.16.4.161,1,INC,0,0,0,?,#N/A#,3
+427,Easter Bush Centre Building,IP172.16.4.161,1,INC,12,MSCP2 Block 1 Basement,0,IQ4E96 Iss3.41 Aug  3 2016,172.16.4.162,1
+427,Easter Bush Centre Building,IP172.16.4.161,1,INC,11,MSCP1 Block 1 Rooftop Plantroom,0,IQ4E192 Iss3.41 Aug  3 2016,172.16.4.161,2
+427,Easter Bush Centre Building,IP172.16.4.161,15,Block 2 SF,54,ZC-SB2-04,0,IQeco38 Iss2.30 Apr 26 2016,#N/A#,3
+427,Easter Bush Centre Building,IP172.16.4.161,15,Block 2 SF,53,ZC-SB2-03,0,IQeco38 Iss2.30 Apr 26 2016,#N/A#,3
+427,Easter Bush Centre Building,IP172.16.4.161,15,Block 2 SF,52,ZC-SB2-02,0,IQeco38 Iss2.30 Apr 26 2016,#N/A#,3
+427,Easter Bush Centre Building,IP172.16.4.161,15,Block 2 SF,51,ZC-SB2-01,0,IQeco38 Iss2.30 Apr 26 2016,#N/A#,3
+427,Easter Bush Centre Building,IP172.16.4.161,15,Block 2 SF,45,FCU-SB2-15,0,IQeco38 Iss2.31 Mar 24 2017,#N/A#,3
+427,Easter Bush Centre Building,IP172.16.4.161,15,Block 2 SF,44,FCU-SB2-14,0,IQeco38 Iss2.31 Mar 24 2017,#N/A#,3
+427,Easter Bush Centre Building,IP172.16.4.161,15,Block 2 SF,43,FCU-SB2-13,0,IQeco38 Iss2.31 Mar 24 2017,#N/A#,3
+427,Easter Bush Centre Building,IP172.16.4.161,15,Block 2 SF,42,FCU-SB2-12,0,IQeco38 Iss2.31 Mar 24 2017,#N/A#,3
+427,Easter Bush Centre Building,IP172.16.4.161,15,Block 2 SF,41,FCU-SB2-11,0,IQeco38 Iss2.31 Mar 24 2017,#N/A#,3
+427,Easter Bush Centre Building,IP172.16.4.161,15,Block 2 SF,40,FCU-SB2-10,0,IQeco38 Iss2.31 Mar 24 2017,#N/A#,3
+427,Easter Bush Centre Building,IP172.16.4.161,15,Block 2 SF,9,Block 2 2nd Floor Riser,0,IQ4NC0 Iss3.41 Aug  3 2016,172.16.4.169,1
+427,Easter Bush Centre Building,IP172.16.4.161,14,Block 2 FF,126,Block 2 FF,0,IQ4NCBINC Iss8.10 Mar 0,#N/A#,3
+427,Easter Bush Centre Building,IP172.16.4.161,14,Block 2 FF,99,99,0,No Reply,#N/A#,3
+427,Easter Bush Centre Building,IP172.16.4.161,14,Block 2 FF,36,ZC-FB2-06,0,IQeco38 Iss2.30 Apr 26 2016,#N/A#,3
+427,Easter Bush Centre Building,IP172.16.4.161,14,Block 2 FF,35,ZC-FB2-05,0,IQeco38 Iss2.30 Apr 26 2016,#N/A#,3
+427,Easter Bush Centre Building,IP172.16.4.161,14,Block 2 FF,34,ZC-FB2-04,0,IQeco38 Iss2.30 Apr 26 2016,#N/A#,3
+427,Easter Bush Centre Building,IP172.16.4.161,14,Block 2 FF,33,ZC-FB2-03,0,IQeco38 Iss2.30 Apr 26 2016,#N/A#,3
+427,Easter Bush Centre Building,IP172.16.4.161,14,Block 2 FF,32,ZC-FB2-02,0,IQeco38 Iss2.30 Apr 26 2016,#N/A#,3
+427,Easter Bush Centre Building,IP172.16.4.161,14,Block 2 FF,31,ZC-FB2-01,0,IQeco38 Iss2.30 Apr 26 2016,#N/A#,3
+427,Easter Bush Centre Building,IP172.16.4.161,14,Block 2 FF,25,FCU-FB2-15,0,IQeco38 Iss2.31 Mar 24 2017,#N/A#,3
+427,Easter Bush Centre Building,IP172.16.4.161,14,Block 2 FF,24,FCU-FB2-14,0,IQeco38 Iss2.31 Mar 24 2017,#N/A#,3
+427,Easter Bush Centre Building,IP172.16.4.161,14,Block 2 FF,23,FCU-FB2-13,0,IQeco38 Iss2.31 Mar 24 2017,#N/A#,3
+427,Easter Bush Centre Building,IP172.16.4.161,14,Block 2 FF,22,FCU-FB2-12,0,IQeco38 Iss2.31 Mar 24 2017,#N/A#,3
+427,Easter Bush Centre Building,IP172.16.4.161,14,Block 2 FF,21,FCU-FB2-11,0,IQeco38 Iss2.31 Mar 24 2017,#N/A#,3
+427,Easter Bush Centre Building,IP172.16.4.161,14,Block 2 FF,20,FCU-SB2-10,0,IQeco38 Iss2.31 Mar 24 2017,#N/A#,3
+427,Easter Bush Centre Building,IP172.16.4.161,14,Block 2 FF,9,Block 2 1st Floor Riser,0,IQ4NC0 Iss3.41 Aug  3 2016,172.16.4.168,1
+427,Easter Bush Centre Building,IP172.16.4.161,13,Block 1 SF,126,Block 1 SF,0,IQ4NCBINC Iss8.10 Mar 0,#N/A#,3
+427,Easter Bush Centre Building,IP172.16.4.161,13,Block 1 SF,99,99,0,No Reply,#N/A#,3
+427,Easter Bush Centre Building,IP172.16.4.161,13,Block 1 SF,77,ZC-SB1-07,0,IQeco38 Iss2.30 Apr 26 2016,#N/A#,3
+427,Easter Bush Centre Building,IP172.16.4.161,13,Block 1 SF,76,ZC-SB1-06,0,IQeco38 Iss2.30 Apr 26 2016,#N/A#,3
+427,Easter Bush Centre Building,IP172.16.4.161,13,Block 1 SF,75,ZC-SB1-05,0,IQeco38 Iss2.30 Apr 26 2016,#N/A#,3
+427,Easter Bush Centre Building,IP172.16.4.161,13,Block 1 SF,74,ZC-SB1-04,0,IQeco38 Iss2.31 Mar 24 2017,#N/A#,3
+427,Easter Bush Centre Building,IP172.16.4.161,13,Block 1 SF,73,ZC-SB1-03,0,IQeco38 Iss2.30 Apr 26 2016,#N/A#,3
+427,Easter Bush Centre Building,IP172.16.4.161,13,Block 1 SF,72,ZC-SB1-02,0,IQeco38 Iss2.30 Apr 26 2016,#N/A#,3
+427,Easter Bush Centre Building,IP172.16.4.161,13,Block 1 SF,71,ZC-SB1-01,0,IQeco38 Iss2.30 Apr 26 2016,#N/A#,3
+427,Easter Bush Centre Building,IP172.16.4.161,13,Block 1 SF,69,FCU-SB1-09,0,IQeco38 Iss2.31 Mar 24 2017,#N/A#,3
+427,Easter Bush Centre Building,IP172.16.4.161,13,Block 1 SF,68,FCU-SB1-08,0,IQeco38 Iss2.31 Mar 24 2017,#N/A#,3
+427,Easter Bush Centre Building,IP172.16.4.161,13,Block 1 SF,67,FCU-SB1-07,0,IQeco38 Iss2.31 Mar 24 2017,#N/A#,3
+427,Easter Bush Centre Building,IP172.16.4.161,13,Block 1 SF,66,FCU-SB1-06,0,IQeco38 Iss2.31 Mar 24 2017,#N/A#,3
+427,Easter Bush Centre Building,IP172.16.4.161,13,Block 1 SF,65,FCU-SB1-05,0,IQeco38 Iss2.31 Mar 24 2017,#N/A#,3
+427,Easter Bush Centre Building,IP172.16.4.161,13,Block 1 SF,64,FCU-SB1-04,0,IQeco38 Iss2.31 Mar 24 2017,#N/A#,3
+427,Easter Bush Centre Building,IP172.16.4.161,13,Block 1 SF,63,FCU-SB1-03,0,IQeco38 Iss2.31 Mar 24 2017,#N/A#,3
+427,Easter Bush Centre Building,IP172.16.4.161,13,Block 1 SF,62,FCU-SB1-02,0,IQeco38 Iss2.31 Mar 24 2017,#N/A#,3
+427,Easter Bush Centre Building,IP172.16.4.161,13,Block 1 SF,61,FCU-SB1-01,0,IQeco38 Iss2.31 Mar 24 2017,#N/A#,3
+427,Easter Bush Centre Building,IP172.16.4.161,13,Block 1 SF,9,Block 1 2nd Floor Riser,0,IQ4NC0 Iss3.41 Aug  3 2016,172.16.4.167,1
+427,Easter Bush Centre Building,IP172.16.4.161,1,INC,1,1,0,?,#N/A#,3
+427,Easter Bush Centre Building,IP172.16.4.161,15,Block 2 SF,126,Block 2 SF,0,IQ4NCBINC Iss8.10 Mar 0,#N/A#,3
+427,Easter Bush Centre Building,IP172.16.4.161,15,Block 2 SF,56,ZC-SB2-06,0,IQeco38 Iss2.30 Apr 26 2016,#N/A#,3
+427,Easter Bush Centre Building,IP172.16.4.161,15,Block 2 SF,55,ZC-SB2-05,0,IQeco38 Iss2.30 Apr 26 2016,#N/A#,3
+427,Easter Bush Centre Building,IP172.16.4.161,11,Block 1 GF,11,FCU-GB1-01,0,IQeco38 Iss2.42 Feb  3 2021,#N/A#,3
+427,Easter Bush Centre Building,IP172.16.4.161,12,Block 1 FF,126,Block 1 FF,0,IQ4NCBINC Iss8.10 Mar 0,#N/A#,3
+427,Easter Bush Centre Building,IP172.16.4.161,12,Block 1 FF,102,102,0,No Reply,#N/A#,3
+427,Easter Bush Centre Building,IP172.16.4.161,12,Block 1 FF,84,1 Z12A ACU2,0,IQeco31 Iss2.30 Apr 26 2016,#N/A#,3
+427,Easter Bush Centre Building,IP172.16.4.161,12,Block 1 FF,83,1 Z12A ACU1,0,IQeco31 Iss2.30 Apr 26 2016,#N/A#,3
+427,Easter Bush Centre Building,IP172.16.4.161,12,Block 1 FF,82,1 Z12 ACU2,0,IQeco31 Iss2.30 Apr 26 2016,#N/A#,3
+427,Easter Bush Centre Building,IP172.16.4.161,12,Block 1 FF,81,1 Z12 ACU1,0,IQeco31 Iss2.30 Apr 26 2016,#N/A#,3
+427,Easter Bush Centre Building,IP172.16.4.161,12,Block 1 FF,57,ZC-FB1-07,0,IQeco38 Iss2.30 Apr 26 2016,#N/A#,3
+427,Easter Bush Centre Building,IP172.16.4.161,12,Block 1 FF,56,ZC-FB1-06,0,IQeco38 Iss2.30 Apr 26 2016,#N/A#,3
+427,Easter Bush Centre Building,IP172.16.4.161,12,Block 1 FF,55,ZC-FB1-05,0,IQeco38 Iss2.30 Apr 26 2016,#N/A#,3
+427,Easter Bush Centre Building,IP172.16.4.161,12,Block 1 FF,54,ZC-FB1-04,0,IQeco38 Iss2.30 Apr 26 2016,#N/A#,3
+427,Easter Bush Centre Building,IP172.16.4.161,12,Block 1 FF,53,ZC-FB1-03,0,IQeco38 Iss2.30 Apr 26 2016,#N/A#,3
+427,Easter Bush Centre Building,IP172.16.4.161,12,Block 1 FF,52,ZC-FB1-02,0,IQeco38 Iss2.30 Apr 26 2016,#N/A#,3
+427,Easter Bush Centre Building,IP172.16.4.161,12,Block 1 FF,51,ZC-FB1-01,0,IQeco38 Iss2.31 Mar 24 2017,#N/A#,3
+427,Easter Bush Centre Building,IP172.16.4.161,12,Block 1 FF,49,FCU-FB1-09,0,IQeco38 Iss2.31 Mar 24 2017,#N/A#,3
+427,Easter Bush Centre Building,IP172.16.4.161,12,Block 1 FF,48,FCU-FB1-08,0,IQeco38 Iss2.31 Mar 24 2017,#N/A#,3
+427,Easter Bush Centre Building,IP172.16.4.161,12,Block 1 FF,47,FCU-FB1-05,0,IQeco38 Iss2.31 Mar 24 2017,#N/A#,3
+427,Easter Bush Centre Building,IP172.16.4.161,12,Block 1 FF,46,FCU-FB1-06,0,IQeco38 Iss2.31 Mar 24 2017,#N/A#,3
+427,Easter Bush Centre Building,IP172.16.4.161,12,Block 1 FF,44,FCU-FB1-04,0,IQeco38 Iss2.31 Mar 24 2017,#N/A#,3
+427,Easter Bush Centre Building,IP172.16.4.161,12,Block 1 FF,43,FCU-FB1-03,0,IQeco38 Iss2.31 Mar 24 2017,#N/A#,3
+427,Easter Bush Centre Building,IP172.16.4.161,12,Block 1 FF,42,FCU-FB1-02,0,IQeco38 Iss2.31 Mar 24 2017,#N/A#,3
+427,Easter Bush Centre Building,IP172.16.4.161,12,Block 1 FF,41,FCU-FB1-01,0,IQeco38 Iss2.31 Mar 24 2017,#N/A#,3
+427,Easter Bush Centre Building,IP172.16.4.161,12,Block 1 FF,9,Block 1 1st Floor Riser,0,IQ4NC0 Iss3.41 Aug  3 2016,172.16.4.166,1
+427,Easter Bush Centre Building,IP172.16.4.161,11,Block 1 GF,126,Block 1 GF,0,IQ4NCBINC Iss8.10 Mar 0,#N/A#,3
+427,Easter Bush Centre Building,IP172.16.4.161,11,Block 1 GF,111,111,0,No Reply,#N/A#,3
+427,Easter Bush Centre Building,IP172.16.4.161,11,Block 1 GF,34,ZC-GB1-04,0,IQeco38 Iss2.42 Feb  3 2021,#N/A#,3
+427,Easter Bush Centre Building,IP172.16.4.161,11,Block 1 GF,32,ZC-GB1-02,0,IQeco38 Iss2.42 Feb  3 2021,#N/A#,3
+427,Easter Bush Centre Building,IP172.16.4.161,11,Block 1 GF,31,ZC-GB1-01,0,IQeco38 Iss2.42 Feb  3 2021,#N/A#,3
+427,Easter Bush Centre Building,IP172.16.4.161,11,Block 1 GF,20,FCU-GB1-10,0,IQeco38 Iss2.31 Mar 24 2017,#N/A#,3
+427,Easter Bush Centre Building,IP172.16.4.161,11,Block 1 GF,19,FCU-GB1-09,0,IQeco38 Iss2.42 Feb  3 2021,#N/A#,3
+427,Easter Bush Centre Building,IP172.16.4.161,11,Block 1 GF,18,FCU-GB1-08,0,IQeco38 Iss2.42 Feb  3 2021,#N/A#,3
+427,Easter Bush Centre Building,IP172.16.4.161,11,Block 1 GF,17,FCU-GB1-07,0,IQeco38 Iss2.42 Feb  3 2021,#N/A#,3
+427,Easter Bush Centre Building,IP172.16.4.161,11,Block 1 GF,16,FCU-GB1-06,0,IQeco38 Iss2.42 Feb  3 2021,#N/A#,3
+427,Easter Bush Centre Building,IP172.16.4.161,11,Block 1 GF,15,FCU-GB1-05,0,IQeco38 Iss2.42 Feb  3 2021,#N/A#,3
+427,Easter Bush Centre Building,IP172.16.4.161,11,Block 1 GF,14,FCU-GB1-04,0,IQeco38 Iss2.42 Feb  3 2021,#N/A#,3
+427,Easter Bush Centre Building,IP172.16.4.161,11,Block 1 GF,13,FCU-GB1-03,0,IQeco38 Iss2.42 Feb  3 2021,#N/A#,3
+427,Easter Bush Centre Building,IP172.16.4.161,11,Block 1 GF,12,FCU-GB1-02,0,IQeco38 Iss2.42 Feb  3 2021,#N/A#,3
+427,Easter Bush Centre Building,IP172.16.4.161,11,Block 1 GF,9,Block 1 Ground Floor Riser,0,IQ4NC0 Iss4.33 Oct 12 2021,172.16.4.165,1
+427,Easter Bush Centre Building,IP172.16.4.161,1,INC,126,INC,0,No Reply,#N/A#,3
+427,Easter Bush Centre Building,IP172.16.4.161,1,INC,101,101,0,No Reply,#N/A#,3
+427,Easter Bush Centre Building,IP172.16.4.161,1,INC,98,98,0,No Reply,#N/A#,3
+427,Easter Bush Centre Building,IP172.16.4.161,1,INC,97,97,0,No Reply,#N/A#,3
+427,Easter Bush Centre Building,IP172.16.4.161,1,INC,14,MSCP4 Block 2 Bin Store,0,IQ4E96 Iss3.41 Aug  3 2016,172.16.4.164,1
+427,Easter Bush Centre Building,IP172.16.4.161,1,INC,13,MSCP3 Block 1 Rooftop Plantroom,0,IQ4E192 Iss3.41 Aug  3 2016,172.16.4.163,1
+427,Easter Bush Centre Building,IP172.16.4.161,1,INC,5,5,0,No Reply,#N/A#,3
+427,Easter Bush Centre Building,IP172.16.4.161,1,INC,4,963 v3.62,0,0,#N/A#,3
+427,Easter Bush Centre Building,IP172.16.4.161,11,Block 1 GF,90,0 Z12 ACU2,0,IQeco31 Iss2.42 Feb  3 2021,#N/A#,3
+427,Easter Bush Centre Building,IP172.16.4.161,11,Block 1 GF,89,0 Z12 ACU1,0,IQeco31 Iss2.42 Feb  3 2021,#N/A#,3
+427,Easter Bush Centre Building,IP172.16.4.161,11,Block 1 GF,33,ZC-GB1-03,0,IQeco38 Iss2.42 Feb  3 2021,#N/A#,3
+427,Easter Bush Centre Building,IP172.16.4.161,13,Block 1 SF,88,2 Z12A ACU2,0,IQeco31 Iss2.24 Dec  1 2015,#N/A#,3
+427,Easter Bush Centre Building,IP172.16.4.161,13,Block 1 SF,87,2 Z12A ACU1,0,IQeco31 Iss2.24 Dec  1 2015,#N/A#,3
+427,Easter Bush Centre Building,IP172.16.4.161,13,Block 1 SF,86,2 Z12 ACU2,0,IQeco31 Iss2.31 Mar 24 2017,#N/A#,3
+427,Easter Bush Centre Building,IP172.16.4.161,13,Block 1 SF,85,2 Z12 ACU1,0,IQeco31 Iss2.24 Dec  1 2015,#N/A#,3
+153,Edinburgh College of Art,IP172.16.7.147,93, ECA,126, ECA,0,EINC V4.20 18/02/2003,#N/A#,3
+153,Edinburgh College of Art,IP172.16.7.147,93, ECA,7,7,0,No Reply,#N/A#,3
+153,Edinburgh College of Art,IP172.16.7.147,93, ECA,6,6,0,No Reply,#N/A#,3
+153,Edinburgh College of Art,IP172.16.7.147,93, ECA,5,963 v3.73,0,0,#N/A#,3
+153,Edinburgh College of Art,IP172.16.7.147,93, ECA,0,0,0,?,#N/A#,3
+153,Edinburgh College of Art,IP172.16.7.147,93, ECA,1,1,0,No Reply,#N/A#,3
+153,Edinburgh College of Art,IP172.16.7.147,90,INC,64,64,0,No Reply,#N/A#,3
+153,Edinburgh College of Art,IP172.16.7.147,90,INC,63,63,0,No Reply,#N/A#,3
+153,Edinburgh College of Art,IP172.16.7.147,90,INC,26,5th Floor West,0,IQ3xcite16 Iss2.34 Jun 13 2011,172.16.6.107,1
+153,Edinburgh College of Art,IP172.16.7.147,90,INC,25,5th Floor East,0,IQ3xcite96 Iss2.34 Jun 13 2011,172.16.6.106,1
+153,Edinburgh College of Art,IP172.16.7.147,90,INC,24,4th Floor West,0,IQ4E16 Iss4.32 Feb 26 2021,172.16.6.105,0
+153,Edinburgh College of Art,IP172.16.7.147,90,INC,23,4th Floor East,0,IQ3xcite16 Iss2.34 Jun 13 2011,172.16.6.104,1
+153,Edinburgh College of Art,IP172.16.7.147,90,INC,22,3rd Floor West,0,IQ3xcite96 Iss2.34 Jun 13 2011,172.16.6.103,1
+153,Edinburgh College of Art,IP172.16.7.147,90,INC,21,3rd Floor East,0,IQ3xcite96 Iss2.34 Jun 13 2011,172.16.6.102,0
+153,Edinburgh College of Art,IP172.16.7.147,90,INC,20,2nd Floor West,0,IQ3xcite16 Iss2.34 Jun 13 2011,172.16.6.101,1
+153,Edinburgh College of Art,IP172.16.7.147,90,INC,19,2nd Floor East,0,IQ3xcite96 Iss2.34 Jun 13 2011,172.16.6.100,1
+153,Edinburgh College of Art,IP172.16.7.147,90,INC,18,1st Floor West,0,IQ3xcite16 Iss2.34 Jun 13 2011,172.16.6.99,1
+153,Edinburgh College of Art,IP172.16.7.147,90,INC,17,1st Floor East,0,IQ3xcite16 Iss2.34 Jun 13 2011,172.16.6.98,1
+153,Edinburgh College of Art,IP172.16.7.147,90,INC,16,Grd Floor West,0,IQ3xcite16 Iss2.34 Jun 13 2011,172.16.6.97,1
+153,Edinburgh College of Art,IP172.16.7.147,90,INC,15,Grd Floor East,0,IQ3xcite96 Iss2.34 Jun 13 2011,172.16.6.96,1
+153,Edinburgh College of Art,IP172.16.7.147,90,INC,14,CP2 Basement AHU,0,IQ3xcite96 Iss2.31 Aug 26 2010,172.16.6.93,1
+153,Edinburgh College of Art,IP172.16.7.147,90,INC,12,CP3 Chilled Water,0,IQ3xact12 Iss2.34 Jun 13 2011,172.16.6.94,1
+153,Edinburgh College of Art,IP172.16.7.147,90,INC,11,CP1 Boilerhouse,0,IQ3xcite128 Iss2.34 Jun 13 2011,172.16.6.91,2
+153,Edinburgh College of Art,IP172.16.7.147,90,INC,1,1,0,No Reply,#N/A#,3
+153,Edinburgh College of Art,IP172.16.7.147,11,MSTP LAN 11,6,6,0,No Reply,#N/A#,3
+153,Edinburgh College of Art,IP172.16.7.147,12,MSTP LAN 12,4,4,0,No Reply,#N/A#,3
+153,Edinburgh College of Art,IP172.16.7.147,12,MSTP LAN 12,5,5,0,No Reply,#N/A#,3
+153,Edinburgh College of Art,IP172.16.7.147,92,INC,101,101,0,No Reply,#N/A#,3
+153,Edinburgh College of Art,IP172.16.7.147,12,MSTP LAN 12,12,FCU004 East,0,IQeco32 Iss2.31 Mar 24 2017,#N/A#,3
+153,Edinburgh College of Art,IP172.16.7.147,11,MSTP LAN 11,7,7,0,No Reply,#N/A#,3
+153,Edinburgh College of Art,IP172.16.7.147,12,MSTP LAN 12,126,MSTP LAN 12,0,IQ4NCBINC Iss8.10 Mar 0,#N/A#,3
+153,Edinburgh College of Art,IP172.16.7.147,90,INC,102,963 v3.62,0,0,#N/A#,3
+153,Edinburgh College of Art,IP172.16.7.147,92,INC,14,HRU Panel,0,IQ3xcite16 Iss3.07 Apr 25 2014,172.16.6.208,1
+153,Edinburgh College of Art,IP172.16.7.147,11,MSTP LAN 11,14,FCU002 West,0,IQeco32 Iss2.31 Mar 24 2017,#N/A#,3
+153,Edinburgh College of Art,IP172.16.7.147,11,MSTP LAN 11,126,MSTP LAN 11,0,IQ4NCBINC Iss8.10 Mar 0,#N/A#,3
+153,Edinburgh College of Art,IP172.16.7.147,12,MSTP LAN 12,6,6,0,No Reply,#N/A#,3
+153,Edinburgh College of Art,IP172.16.7.147,12,MSTP LAN 12,7,7,0,No Reply,#N/A#,3
+153,Edinburgh College of Art,IP172.16.7.147,12,MSTP LAN 12,9,ECoA FCU's East 4NC,0,IQ4NC0 Iss3.50 Jan 16 2018,172.16.7.143,0
+153,Edinburgh College of Art,IP172.16.7.147,12,MSTP LAN 12,11,FCU003 East,0,IQeco32 Iss2.31 Mar 24 2017,#N/A#,3
+153,Edinburgh College of Art,IP172.16.7.147,90,INC,13,CP4 Basement General Vent,0,IQ3xcite96 Iss2.34 Jun 13 2011,172.16.6.95,1
+153,Edinburgh College of Art,IP172.16.7.147,91,INC,69,CP7 Lecture Theatre,0,IQ4E64 Iss4.34 Jul 21 2022,172.16.7.169,1
+153,Edinburgh College of Art,IP172.16.7.147,91,INC,126,INC,0,No Reply,#N/A#,3
+153,Edinburgh College of Art,IP172.16.7.147,91,INC,31,CP6 West Court AHU,0,IQ4E64 Iss4.34 Jul 21 2022,172.16.7.153,1
+153,Edinburgh College of Art,IP172.16.7.147,11,MSTP LAN 11,11,FCU101 West,0,IQeco32 Iss2.31 Mar 24 2017,#N/A#,3
+153,Edinburgh College of Art,IP172.16.7.147,91,INC,68,CP5 - CWS Storage Tank,0,IQ4E32 Iss4.33 Oct 12 2021,172.16.7.168,1
+153,Edinburgh College of Art,IP172.16.7.147,91,INC,79,79,0,No Reply,#N/A#,3
+153,Edinburgh College of Art,IP172.16.7.147,91,INC,90,IQView8,0,0,#N/A#,3
+153,Edinburgh College of Art,IP172.16.7.147,91,INC,98,98,0,No Reply,#N/A#,3
+153,Edinburgh College of Art,IP172.16.7.147,91,INC,99,99,0,No Reply,#N/A#,3
+153,Edinburgh College of Art,IP172.16.7.147,91,INC,111,111,0,No Reply,#N/A#,3
+153,Edinburgh College of Art,IP172.16.7.147,91,INC,23,MAINBASEMENTB32,0,IQ4E32 Iss4.34 Jul 21 2022,172.16.7.148,1
+153,Edinburgh College of Art,IP172.16.7.147,91,INC,26,PHOTOGRAPHY E18,0,IQ422-12 Iss3.50 Jan 16 2018,172.16.7.149,0
+153,Edinburgh College of Art,IP172.16.7.147,91,INC,27,NORTH PLANTROOM,0,IQ4E16 Iss3.50 Jan 16 2018,172.16.7.150,1
+153,Edinburgh College of Art,IP172.16.7.147,91,INC,28,SOUTH PLANTROOM,0,IQ4E32 Iss4.33 Oct 12 2021,172.16.7.151,1
+153,Edinburgh College of Art,IP172.16.7.147,91,INC,33,KITCHEN DINING,0,IQ422-12 Iss4.33 Oct 12 2021,172.16.7.154,1
+153,Edinburgh College of Art,IP172.16.7.147,91,INC,34,MODEL WORKSHOP,0,IQ4E16 Iss4.34 Jul 21 2022,172.16.7.155,1
+153,Edinburgh College of Art,IP172.16.7.147,91,INC,35,PHOTOGRAPHY - 1,0,IQ422-12 Iss4.34 Jul 21 2022,172.16.7.156,1
+153,Edinburgh College of Art,IP172.16.7.147,91,INC,36,PHOTOGRAPHY - 2,0,IQ422-12 Iss4.34 Jul 21 2022,172.16.7.157,1
+153,Edinburgh College of Art,IP172.16.7.147,91,INC,21,Hunter Building DHWS Control Panel,0,IQ4E64 Iss4.33 Oct 12 2021,172.16.7.147,1
+153,Edinburgh College of Art,IP172.16.7.147,90,INC,103,103,0,No Reply,#N/A#,3
+153,Edinburgh College of Art,IP172.16.7.147,90,INC,109,109,0,No Reply,#N/A#,3
+153,Edinburgh College of Art,IP172.16.7.147,91,INC,109,109,0,No Reply,#N/A#,0
+153,Edinburgh College of Art,IP172.16.7.147,91,INC,13,13,0,No Reply,#N/A#,0
+153,Edinburgh College of Art,IP172.16.7.147,91,INC,29,ADMIN D11,0,IQ4E16 Iss4.34 Jul 21 2022,172.16.7.152,3
+153,Edinburgh College of Art,IP172.16.7.147,91,INC,61,College Of Art MSCP1,0,IQ4E128 Iss4.34 Jul 21 2022,172.16.7.164,1
+153,Edinburgh College of Art,IP172.16.7.147,91,INC,0,0,0,?,#N/A#,0
+153,Edinburgh College of Art,IP172.16.7.147,91,INC,1,1,0,?,#N/A#,0
+153,Edinburgh College of Art,IP172.16.7.147,92,INC,11,HRU No.1,0,IQ3xcite96 Iss3.07 Apr 25 2014,172.16.6.205,1
+153,Edinburgh College of Art,IP172.16.7.147,91,INC,41,PRINTROOMS 2,0,IQ422-12 Iss4.34 Jul 21 2022,172.16.7.162,1
+153,Edinburgh College of Art,IP172.16.7.147,92,INC,12,HRU No.2,0,IQ3xcite96 Iss3.06 Jan 30 2014,172.16.6.206,1
+153,Edinburgh College of Art,IP172.16.7.147,92,INC,13,HRU No.3,0,IQ3xcite96 Iss3.07 Apr 25 2014,172.16.6.207,1
+153,Edinburgh College of Art,IP172.16.7.147,91,INC,62,CP2 - HRU/B/2,0,IQ4E32 Iss4.33 Oct 12 2021,172.16.7.165,1
+153,Edinburgh College of Art,IP172.16.7.147,91,INC,63,CP3 - SF/B/01,0,IQ4E16 Iss4.33 Oct 12 2021,172.16.7.166,1
+153,Edinburgh College of Art,IP172.16.7.147,91,INC,37,COMBINED WORKSHOP,0,IQ4E96 Iss4.33 Oct 12 2021,172.16.7.158,1
+153,Edinburgh College of Art,IP172.16.7.147,91,INC,38,WORKSHOP N1,0,IQ4E32 Iss4.33 Oct 12 2021,172.16.7.159,1
+153,Edinburgh College of Art,IP172.16.7.147,11,MSTP LAN 11,9,ECoA FCU's West 4NC,0,IQ4NC0 Iss3.50 Jan 16 2018,172.16.7.142,0
+153,Edinburgh College of Art,IP172.16.7.147,91,INC,40,PRINTROOMS,0,IQ4E32 Iss4.33 Oct 12 2021,172.16.7.161,1
+153,Edinburgh College of Art,IP172.16.7.147,90,INC,119,IQView,0,0,#N/A#,3
+153,Edinburgh College of Art,IP172.16.7.147,11,MSTP LAN 11,4,4,0,No Reply,#N/A#,3
+153,Edinburgh College of Art,IP172.16.7.147,11,MSTP LAN 11,5,5,0,No Reply,#N/A#,3
+153,Edinburgh College of Art,IP172.16.7.147,90,INC,118,118,0,No Reply,#N/A#,3
+153,Edinburgh College of Art,IP172.16.7.147,90,INC,126,INC,0,No Reply,#N/A#,3
+153,Edinburgh College of Art,IP172.16.7.147,91,INC,67,CP4 - Photography,0,IQ4E64 Iss3.43 Oct 18 2016,172.16.7.167,1
+153,Edinburgh College of Art,IP172.16.7.147,92,INC,126,INC,0,No Reply,#N/A#,3
+153,Edinburgh College of Art,IP172.16.7.147,11,MSTP LAN 11,12,FCU102 West,0,IQeco32 Iss2.31 Mar 24 2017,#N/A#,3
+153,Edinburgh College of Art,IP172.16.7.147,11,MSTP LAN 11,13,FCU001 West,0,IQeco32 Iss2.31 Mar 24 2017,#N/A#,3
+153,Edinburgh College of Art,IP172.16.7.147,91,INC,80,80,0,No Reply,#N/A#,0
+153,Edinburgh College of Art,IP172.16.7.147,91,INC,101,101,0,No Reply,#N/A#,0
+153,Edinburgh College of Art,IP172.16.7.147,91,INC,102,102,0,No Reply,#N/A#,0
+153,Edinburgh College of Art,IP172.16.7.147,91,INC,4,4,0,No Reply,#N/A#,0
+153,Edinburgh College of Art,IP172.16.7.147,91,INC,11,Wee Red Bar,0,IQ4E32 Iss4.33 Oct 12 2021,172.16.7.170,1
+153,Edinburgh College of Art,IP172.16.7.147,91,INC,15,15,0,No Reply,#N/A#,0
+153,Edinburgh College of Art,IP172.16.7.147,91,INC,44,44,0,No Reply,#N/A#,0
+153,Edinburgh College of Art,IP172.16.7.147,91,INC,53,53,0,No Reply,#N/A#,0
+430,EDSCCU,IP172.16.4.196,1,INC,8,8,0,No Reply,#N/A#,3
+430,EDSCCU,IP172.16.4.196,1,INC,12,Equine Stable HRU,0,IQ412 Iss4.33 Oct 12 2021,172.16.4.249,1
+430,EDSCCU,IP172.16.4.196,1,INC,1,1,0,?,#N/A#,3
+430,EDSCCU,IP172.16.4.196,1,INC,0,0,0,?,#N/A#,3
+430,EDSCCU,IP172.16.4.196,1,INC,126,INC,0,No Reply,#N/A#,3
+430,EDSCCU,IP172.16.4.196,1,INC,11,EDSCCU,0,IQ4E192 Iss4.33 Oct 12 2021,172.16.4.196,2
+430,EDSCCU,IP172.16.4.196,1,INC,7,UoE,0,0,#N/A#,3
+430,EDSCCU,IP172.16.4.196,1,INC,6,IQView8,0,0,#N/A#,3
+430,EDSCCU,IP172.16.4.196,1,INC,5,963 v3.73,0,0,#N/A#,3
+117,E-Science,IP172.16.7.50,36,INC,21,Chapter House AHU,0,IQ4E32 Iss4.33 Oct 12 2021,172.16.7.50,1
+117,E-Science,IP172.16.7.50,36,INC,101,101,0,No Reply,#N/A#,3
+117,E-Science,IP172.16.7.50,36,INC,1,IQView,0,0,#N/A#,3
+117,E-Science,IP172.16.7.50,36,INC,5,5,0,No Reply,#N/A#,3
+117,E-Science,IP172.16.7.50,36,INC,19,E-Science FCU 2,0,IQ3xcite96 Iss3.11 Feb 04 2016,172.16.6.50,1
+117,E-Science,IP172.16.7.50,36,INC,20,E-Science FCU 3,0,IQ3xcite96 Iss3.11 Feb 04 2016,172.16.6.51,1
+117,E-Science,IP172.16.7.50,36,INC,117,UniversityofEdinburgh,0,0,#N/A#,3
+117,E-Science,IP172.16.7.50,36,INC,17,E-Science BH,0,IQ3xcite96 Iss3.11 Feb 04 2016,172.16.6.52,2
+117,E-Science,IP172.16.7.50,36,INC,18,E-Science Vent,0,IQ3xcite96 Iss3.11 Feb 04 2016,172.16.6.49,1
+117,E-Science,IP172.16.7.50,36,INC,119,119,0,No Reply,#N/A#,3
+117,E-Science,IP172.16.7.50,36,INC,118,963 v3.73,0,0,#N/A#,3
+117,E-Science,IP172.16.7.50,36,INC,120,120,0,No Reply,#N/A#,3
+117,E-Science,IP172.16.7.50,36,INC,126,INC,0,No Reply,#N/A#,3
+184,Forresthill,IP172.16.7.68,37,INC,14,5 Forrest Hill CP3 Boilers,0,IQ4E64 Iss3.44 Jan 16 2017,172.16.7.68,1
+184,Forresthill,IP172.16.7.68,0,0,14,14,0,?,#N/A#,0
+184,Forresthill,IP172.16.7.68,37,INC,11,Joiners Workshop,0,IQ3xcite96 Iss2.34 Jun 13 2011,172.16.6.110,1
+184,Forresthill,IP172.16.7.68,37,INC,101,963 v3.62,0,0,#N/A#,0
+184,Forresthill,IP172.16.7.68,37,INC,15,TV Studio CP,0,IQ4E64 Iss3.44 Jan 16 2017,172.16.7.69,1
+184,Forresthill,IP172.16.7.68,37,INC,12,5 Forrest Hill CP1,0,IQ3xcite96 Iss3.07 Apr 25 2014,172.16.6.210,2
+184,Forresthill,IP172.16.7.68,37,INC,13,5 Forrest Hill CP2,0,IQ3xcite96 Iss3.07 Apr 25 2014,172.16.6.211,1
+184,Forresthill,IP172.16.7.68,37,INC,102,102,0,No Reply,#N/A#,0
+184,Forresthill,IP172.16.7.68,37,INC,103,103,0,No Reply,#N/A#,0
+184,Forresthill,IP172.16.7.68,37,INC,126,INC,0,No Reply,#N/A#,0
+184,Forresthill,IP172.16.7.68,37,INC,5,5,0,No Reply,#N/A#,0
+184,Forresthill,IP172.16.7.68,37,INC,1,No Reply,0,No Reply,#N/A#,0
+184,Forresthill,IP172.16.7.68,37,INC,4,5 Forrest Hill XNC,0,IQ3xcite0 Iss3.07 Apr 25 2014,172.16.6.240,1
+184,Forresthill,IP172.16.7.68,37,INC,0,0,0,?,#N/A#,0
+591,Gilmour Place Residences,IP172.16.134.67,11,INC,0,0,0,?,#N/A#,3
+591,Gilmour Place Residences,IP172.16.134.67,11,INC,15,CP4 Block C,0,IQ412 Iss4.32 Feb 26 2021,172.16.134.72,1
+591,Gilmour Place Residences,IP172.16.134.67,11,INC,111,963 v3.73,0,0,#N/A#,3
+591,Gilmour Place Residences,IP172.16.134.67,11,INC,112,112,0,No Reply,#N/A#,3
+591,Gilmour Place Residences,IP172.16.134.67,11,INC,113,113,0,No Reply,#N/A#,3
+591,Gilmour Place Residences,IP172.16.134.67,11,INC,114,114,0,No Reply,#N/A#,3
+591,Gilmour Place Residences,IP172.16.134.67,11,INC,115,115,0,No Reply,#N/A#,3
+591,Gilmour Place Residences,IP172.16.134.67,11,INC,126,INC,0,No Reply,#N/A#,3
+591,Gilmour Place Residences,IP172.16.134.67,11,INC,11,CP1 Plantroom,0,IQ4E32 Iss4.33 Oct 12 2021,172.16.134.67,2
+591,Gilmour Place Residences,IP172.16.134.67,11,INC,12,CP2 Block A,0,IQ412 Iss4.32 Feb 26 2021,172.16.134.69,1
+591,Gilmour Place Residences,IP172.16.134.67,11,INC,13,CP3 Block BC_1,0,IQ412 Iss4.32 Feb 26 2021,172.16.134.70,1
+591,Gilmour Place Residences,IP172.16.134.67,11,INC,14,CP3 Block BC_2,0,IQ412 Iss4.32 Feb 26 2021,172.16.134.71,1
+591,Gilmour Place Residences,IP172.16.134.67,11,INC,16,CP5 Common Rm,0,IQ412 Iss4.32 Feb 26 2021,172.16.134.68,1
+591,Gilmour Place Residences,IP172.16.134.67,11,INC,116,116,0,No Reply,#N/A#,3
+591,Gilmour Place Residences,IP172.16.134.67,11,INC,1,1,0,?,#N/A#,3
+67,Hope Park Square,IP172.16.6.34,82,INC,1,1,0,?,#N/A#,0
+67,Hope Park Square,IP172.16.6.34,82,INC,0,0,0,?,#N/A#,3
+67,Hope Park Square,IP172.16.6.34,82,INC,126,INC,0,No Reply,#N/A#,3
+67,Hope Park Square,IP172.16.6.34,82,INC,4,963 v3.62,0,0,#N/A#,3
+67,Hope Park Square,IP172.16.6.34,82,INC,5,5,0,No Reply,#N/A#,3
+67,Hope Park Square,IP172.16.6.34,82,INC,21,Hope Park Squre,0,IQ422-12 Iss3.41 Aug  3 2016,172.16.6.34,2
+67,Hope Park Square,IP172.16.6.34,6,6,11,11,0,?,#N/A#,0
+351,Infirmary Street,IP172.16.7.70,66,INC,1,1,0,?,#N/A#,0
+351,Infirmary Street,IP172.16.7.70,66,INC,126,INC,0,No Reply,#N/A#,0
+351,Infirmary Street,IP172.16.7.70,66,INC,0,0,0,?,#N/A#,0
+351,Infirmary Street,IP172.16.7.70,66,INC,9,9,0,No Reply,#N/A#,0
+351,Infirmary Street,IP172.16.7.70,66,INC,88,88,0,No Reply,#N/A#,0
+351,Infirmary Street,IP172.16.7.70,66,INC,23,BUILDING 13,0,IQ422-12 Iss3.45 Aug 29 2017,172.16.7.71,1
+351,Infirmary Street,IP172.16.7.70,66,INC,79,79,0,No Reply,#N/A#,0
+351,Infirmary Street,IP172.16.7.70,66,INC,21,Infirmary St Plantroom,0,IQ4E64 Iss4.31 Apr 28 2020,172.16.7.37,2
+351,Infirmary Street,IP172.16.7.70,66,INC,22,Infirmary St Office AHU,0,IQ422-12 Iss3.44 Jan 16 2017,172.16.7.70,1
+351,Infirmary Street,IP172.16.7.70,66,INC,6,963 v3.62,0,0,#N/A#,0
+608,IP,IP,0,0,12,12,0,?,#N/A#,0
+587,IP172.16.4.39,IP172.16.4.39,53,53,0,0,0,?,#N/A#,0
+587,IP172.16.4.39,IP172.16.4.39,53,53,74,74,0,?,#N/A#,0
+587,IP172.16.4.39,IP172.16.4.39,53,53,75,75,0,?,#N/A#,0
+587,IP172.16.4.39,IP172.16.4.39,53,53,72,72,0,?,#N/A#,0
+587,IP172.16.4.39,IP172.16.4.39,53,53,1,1,0,?,#N/A#,0
+586,IP172.16.4.40,IP172.16.4.40,54,54,1,1,0,?,#N/A#,0
+586,IP172.16.4.40,IP172.16.4.40,54,54,0,0,0,?,#N/A#,0
+583,IP172.16.4.41,IP172.16.4.41,55,55,14,14,0,?,#N/A#,0
+583,IP172.16.4.41,IP172.16.4.41,55,55,1,1,0,?,#N/A#,0
+583,IP172.16.4.41,IP172.16.4.41,55,55,0,0,0,?,#N/A#,0
+609,IP172.16.4.5,IP172.16.4.5,41,41,24,24,0,?,#N/A#,0
+611,IP172.16.4.6,IP172.16.4.6,41,41,25,25,0,?,#N/A#,0
+612,IP172.16.4.7,IP172.16.4.7,41,41,26,26,0,?,#N/A#,0
+610,IP172.16.4.9,IP172.16.4.9,42,42,1,1,0,?,#N/A#,0
+610,IP172.16.4.9,IP172.16.4.9,44,44,21,21,0,?,#N/A#,0
+610,IP172.16.4.9,IP172.16.4.9,42,42,31,31,0,?,#N/A#,0
+610,IP172.16.4.9,IP172.16.4.9,42,42,28,28,0,?,#N/A#,0
+610,IP172.16.4.9,IP172.16.4.9,42,42,34,34,0,?,#N/A#,0
+610,IP172.16.4.9,IP172.16.4.9,42,42,33,33,0,?,#N/A#,0
+610,IP172.16.4.9,IP172.16.4.9,42,42,30,30,0,?,#N/A#,0
+610,IP172.16.4.9,IP172.16.4.9,42,42,32,32,0,?,#N/A#,0
+610,IP172.16.4.9,IP172.16.4.9,42,42,29,29,0,?,#N/A#,0
+610,IP172.16.4.9,IP172.16.4.9,42,42,27,27,0,?,#N/A#,0
+607,IP172.16.6.108,IP172.16.6.108,91,91,62,62,0,?,#N/A#,0
+607,IP172.16.6.108,IP172.16.6.108,92,92,12,12,0,?,#N/A#,0
+607,IP172.16.6.108,IP172.16.6.108,90,90,16,16,0,?,#N/A#,0
+607,IP172.16.6.108,IP172.16.6.108,91,91,11,11,0,?,#N/A#,0
+607,IP172.16.6.108,IP172.16.6.108,92,92,14,14,0,?,#N/A#,0
+607,IP172.16.6.108,IP172.16.6.108,90,90,24,24,0,?,#N/A#,0
+607,IP172.16.6.108,IP172.16.6.108,90,90,25,25,0,?,#N/A#,0
+607,IP172.16.6.108,IP172.16.6.108,91,91,21,21,0,?,#N/A#,0
+607,IP172.16.6.108,IP172.16.6.108,91,91,37,37,0,?,#N/A#,0
+607,IP172.16.6.108,IP172.16.6.108,90,90,13,13,0,?,#N/A#,0
+607,IP172.16.6.108,IP172.16.6.108,90,90,11,11,0,?,#N/A#,0
+607,IP172.16.6.108,IP172.16.6.108,90,90,17,17,0,?,#N/A#,0
+607,IP172.16.6.108,IP172.16.6.108,90,90,18,18,0,?,#N/A#,0
+607,IP172.16.6.108,IP172.16.6.108,90,90,14,14,0,?,#N/A#,0
+607,IP172.16.6.108,IP172.16.6.108,91,91,23,23,0,?,#N/A#,0
+607,IP172.16.6.108,IP172.16.6.108,91,91,61,61,0,?,#N/A#,0
+607,IP172.16.6.108,IP172.16.6.108,91,91,40,40,0,?,#N/A#,0
+607,IP172.16.6.108,IP172.16.6.108,91,91,67,67,0,?,#N/A#,0
+607,IP172.16.6.108,IP172.16.6.108,91,91,38,38,0,?,#N/A#,0
+607,IP172.16.6.108,IP172.16.6.108,91,91,27,27,0,?,#N/A#,0
+607,IP172.16.6.108,IP172.16.6.108,91,91,33,33,0,?,#N/A#,0
+607,IP172.16.6.108,IP172.16.6.108,91,91,34,34,0,?,#N/A#,0
+607,IP172.16.6.108,IP172.16.6.108,91,91,41,41,0,?,#N/A#,0
+607,IP172.16.6.108,IP172.16.6.108,91,91,63,63,0,?,#N/A#,0
+607,IP172.16.6.108,IP172.16.6.108,91,91,68,68,0,?,#N/A#,0
+607,IP172.16.6.108,IP172.16.6.108,91,91,31,31,0,?,#N/A#,0
+607,IP172.16.6.108,IP172.16.6.108,93,93,1,1,0,?,#N/A#,0
+607,IP172.16.6.108,IP172.16.6.108,91,91,28,28,0,?,#N/A#,0
+607,IP172.16.6.108,IP172.16.6.108,91,91,69,69,0,?,#N/A#,0
+607,IP172.16.6.108,IP172.16.6.108,93,93,0,0,0,?,#N/A#,0
+606,IP172.16.6.11,IP172.16.6.11,1,1,101,101,0,?,#N/A#,0
+606,IP172.16.6.11,IP172.16.6.11,1,1,57,57,0,?,#N/A#,0
+571,IP172.16.6.15,IP172.16.6.15,8,8,1,1,0,?,#N/A#,0
+571,IP172.16.6.15,IP172.16.6.15,8,8,0,0,0,?,#N/A#,0
+603,IP172.16.6.183,IP172.16.6.183,98,98,21,21,0,?,#N/A#,0
+603,IP172.16.6.183,IP172.16.6.183,80,80,11,11,0,?,#N/A#,0
+603,IP172.16.6.183,IP172.16.6.183,79,79,26,26,0,?,#N/A#,0
+603,IP172.16.6.183,IP172.16.6.183,80,80,31,31,0,?,#N/A#,0
+603,IP172.16.6.183,IP172.16.6.183,79,79,23,23,0,?,#N/A#,0
+603,IP172.16.6.183,IP172.16.6.183,78,78,11,11,0,?,#N/A#,0
+603,IP172.16.6.183,IP172.16.6.183,79,79,24,24,0,?,#N/A#,0
+603,IP172.16.6.183,IP172.16.6.183,73,73,13,13,0,?,#N/A#,0
+603,IP172.16.6.183,IP172.16.6.183,73,73,11,11,0,?,#N/A#,0
+603,IP172.16.6.183,IP172.16.6.183,80,80,32,32,0,?,#N/A#,0
+603,IP172.16.6.183,IP172.16.6.183,79,79,21,21,0,?,#N/A#,0
+603,IP172.16.6.183,IP172.16.6.183,73,73,14,14,0,?,#N/A#,0
+603,IP172.16.6.183,IP172.16.6.183,80,80,22,22,0,?,#N/A#,0
+603,IP172.16.6.183,IP172.16.6.183,73,73,12,12,0,?,#N/A#,0
+604,IP172.16.6.56,IP172.16.6.56,23,23,22,22,0,?,#N/A#,0
+601,IP172.16.6.58,IP172.16.6.58,24,24,27,27,0,?,#N/A#,0
+600,IP172.16.6.94,IP172.16.6.94,90,90,12,12,0,?,#N/A#,0
+480,IRR,IP172.16.5.5,25,IRR IQEcos,4,4,0,No Reply,#N/A#,3
+480,IRR,IP172.16.5.5,25,IRR IQEcos,5,5,0,No Reply,#N/A#,3
+480,IRR,IP172.16.5.5,25,IRR IQEcos,6,6,0,No Reply,#N/A#,3
+480,IRR,IP172.16.5.5,25,IRR IQEcos,7,7,0,No Reply,#N/A#,3
+480,IRR,IP172.16.5.5,25,IRR IQEcos,9,MSCP04 4NC,0,IQ4NC0 Iss4.32 Feb 26 2021,172.16.5.66,1
+480,IRR,IP172.16.5.5,25,IRR IQEcos,11,AHU-L-3 - FCU-3-1 Rm3.53,0,IQeco32 Iss2.42 Feb  3 2021,#N/A#,3
+480,IRR,IP172.16.5.5,26,IRR IQEcos,4,4,0,No Reply,#N/A#,3
+480,IRR,IP172.16.5.5,26,IRR IQEcos,5,5,0,No Reply,#N/A#,3
+480,IRR,IP172.16.5.5,26,IRR IQEcos,6,6,0,No Reply,#N/A#,3
+480,IRR,IP172.16.5.5,26,IRR IQEcos,7,7,0,No Reply,#N/A#,3
+480,IRR,IP172.16.5.5,26,IRR IQEcos,9,MSCP03 4NC,0,IQ4NC0 Iss4.32 Feb 26 2021,172.16.5.68,1
+480,IRR,IP172.16.5.5,26,IRR IQEcos,11,AHU-L-4 - FCU-4-1 Rm 4.51,0,IQeco32 Iss2.42 Feb  3 2021,#N/A#,3
+480,IRR,IP172.16.5.5,26,IRR IQEcos,12,AHU-L-4 - FCU-4-2 Rm 4.50,0,IQeco32 Iss2.42 Feb  3 2021,#N/A#,3
+480,IRR,IP172.16.5.5,26,IRR IQEcos,13,AHU-L-4 - FCU-4-3A Rm 4.49,0,IQeco32 Iss2.42 Feb  3 2021,#N/A#,3
+480,IRR,IP172.16.5.5,26,IRR IQEcos,14,AHU-L-4 - FCU-4-3B Rm 4.49,0,IQeco32 Iss2.42 Feb  3 2021,#N/A#,3
+480,IRR,IP172.16.5.5,26,IRR IQEcos,15,AHU-L-4 - FCU-4-4 Rm 4.41,0,IQeco32 Iss2.42 Feb  3 2021,#N/A#,3
+480,IRR,IP172.16.5.5,26,IRR IQEcos,16,AHU-L-4 - FCU-4-5 Rm 4.42,0,IQeco32 Iss2.42 Feb  3 2021,#N/A#,3
+480,IRR,IP172.16.5.5,26,IRR IQEcos,17,AHU-L-4 - FCU-4-6 Rm 4.43,0,IQeco32 Iss2.42 Feb  3 2021,#N/A#,3
+480,IRR,IP172.16.5.5,26,IRR IQEcos,18,AHU-L-4 - FCU-4-7 Rm 4.44,0,IQeco32 Iss2.42 Feb  3 2021,#N/A#,3
+480,IRR,IP172.16.5.5,26,IRR IQEcos,19,AHU-WU-4 - FCU-4-8 Rm 4.47,0,IQeco32 Iss2.42 Feb  3 2021,#N/A#,3
+480,IRR,IP172.16.5.5,26,IRR IQEcos,20,AHU-WU-4 - FCU-4-9 Rm 4.46,0,IQeco32 Iss2.42 Feb  3 2021,#N/A#,3
+480,IRR,IP172.16.5.5,26,IRR IQEcos,21,AHU-WU-4 - FCU-4-10 Rm 4.45,0,IQeco32 Iss2.42 Feb  3 2021,#N/A#,3
+480,IRR,IP172.16.5.5,26,IRR IQEcos,22,AHU-WU-4 - FCU-4-11A Rm 4.48,0,IQeco32 Iss2.42 Feb  3 2021,#N/A#,3
+480,IRR,IP172.16.5.5,26,IRR IQEcos,23,AHU-WU-4 - FCU-4-11B Rm 4.48,0,IQeco32 Iss2.42 Feb  3 2021,#N/A#,3
+480,IRR,IP172.16.5.5,26,IRR IQEcos,24,AHU-WU-4 - FCU-4-11C Rm 4.48,0,IQeco32 Iss2.42 Feb  3 2021,#N/A#,3
+480,IRR,IP172.16.5.5,26,IRR IQEcos,25,FCU-4-12A 12B Rm 4.Z49,0,IQeco32 Iss2.42 Feb  3 2021,#N/A#,3
+480,IRR,IP172.16.5.5,26,IRR IQEcos,26,FCU-4-13A 13C Rm 4.40,0,IQeco32 Iss2.42 Feb  3 2021,#N/A#,3
+480,IRR,IP172.16.5.5,26,IRR IQEcos,27,FCU-4-13B Rm 4.40,0,IQeco32 Iss2.42 Feb  3 2021,#N/A#,3
+480,IRR,IP172.16.5.5,26,IRR IQEcos,28,FCU-4-13D Rm 4.40,0,IQeco32 Iss2.42 Feb  3 2021,#N/A#,3
+480,IRR,IP172.16.5.5,26,IRR IQEcos,29,AHU-C-1 HB01 HB02 AHU-C-2 HB03,0,IQeco38 Iss2.42 Feb  3 2021,#N/A#,3
+480,IRR,IP172.16.5.5,26,IRR IQEcos,30,AHU-WU-4 - 4.48 Rm VAVs,0,IQeco38 Iss2.42 Feb  3 2021,#N/A#,3
+480,IRR,IP172.16.5.5,26,IRR IQEcos,31,AHU-L-4 - VAV-4-7 8 Rms4-41-44,0,IQeco38 Iss2.42 Feb  3 2021,#N/A#,3
+480,IRR,IP172.16.5.5,26,IRR IQEcos,32,FCU-5-1A 1B Rm 5.01 Freezer,0,IQeco32 Iss2.42 Feb  3 2021,#N/A#,3
+480,IRR,IP172.16.5.5,26,IRR IQEcos,33,FCU-5-1C 1E Rm 5.01 Freezer,0,IQeco32 Iss2.42 Feb  3 2021,#N/A#,3
+480,IRR,IP172.16.5.5,26,IRR IQEcos,34,FCU-5-1D 1F Rm 5.01 Freezer,0,IQeco32 Iss2.42 Feb  3 2021,#N/A#,3
+480,IRR,IP172.16.5.5,12,INC,4,4,0,No Reply,#N/A#,3
+480,IRR,IP172.16.5.5,12,INC,11,AC Units 005&006 Rm B.L13B,0,VirtualIQ v1.13 Jun 19,172.16.5.25,1
+480,IRR,IP172.16.5.5,12,INC,12,AC Unit 004 Rm B.L13A,0,VirtualIQ v1.13 Jun 19,172.16.5.25,1
+480,IRR,IP172.16.5.5,12,INC,119,119,0,No Reply,#N/A#,3
+480,IRR,IP172.16.5.5,12,INC,126,INC,0,No Reply,#N/A#,3
+480,IRR,IP172.16.5.5,26,IRR IQEcos,126,IRR IQEcos,0,IQ4NCBINC Iss8.10 Mar 0,#N/A#,3
+480,IRR,IP172.16.5.5,25,IRR IQEcos,12,AHU-L-3 - FCU-3-2 Rm3.52,0,IQeco32 Iss2.42 Feb  3 2021,#N/A#,3
+480,IRR,IP172.16.5.5,25,IRR IQEcos,13,AHU-L-3 - FCU-3-3 Rm3.51,0,IQeco32 Iss2.42 Feb  3 2021,#N/A#,3
+480,IRR,IP172.16.5.5,25,IRR IQEcos,14,AHU-L-3 - FCU-3-4 Rm3.50,0,IQeco32 Iss2.42 Feb  3 2021,#N/A#,3
+480,IRR,IP172.16.5.5,25,IRR IQEcos,15,AHU-L-3 - FCU-3-5 Rm3.49,0,IQeco32 Iss2.42 Feb  3 2021,#N/A#,3
+480,IRR,IP172.16.5.5,25,IRR IQEcos,16,AHU-L-3 - FCU-3-6 Rm3.54,0,IQeco32 Iss2.42 Feb  3 2021,#N/A#,3
+480,IRR,IP172.16.5.5,25,IRR IQEcos,17,AHU-L-3 - FCU-3-7 Rm3.55,0,IQeco32 Iss2.42 Feb  3 2021,#N/A#,3
+480,IRR,IP172.16.5.5,4,INC,16,CP204 Ophthalmology,0,IQ4E96 Iss4.33 Oct 12 2021,172.16.5.10,1
+480,IRR,IP172.16.5.5,4,INC,17,CP301 Level 2 East,0,IQ4E96 Iss4.33 Oct 12 2021,172.16.5.12,1
+480,IRR,IP172.16.5.5,4,INC,18,CP401 Level 3 East,0,IQ4E96 Iss4.33 Oct 12 2021,172.16.5.13,1
+480,IRR,IP172.16.5.5,4,INC,20,CP502 Wet Plant Controller 1,0,IQ4E192 Iss4.33 Oct 12 2021,172.16.5.15,1
+480,IRR,IP172.16.5.5,4,INC,21,CP502 Wet Plant Controller 2,0,IQ4E96 Iss4.33 Oct 12 2021,172.16.5.16,1
+480,IRR,IP172.16.5.5,4,INC,22,CP503 Roof Vent Fume Cupboards,0,IQ4E160 Iss4.33 Oct 12 2021,172.16.5.17,1
+480,IRR,IP172.16.5.5,4,INC,19,CP501 Roof Vent,0,IQ4E128 Iss4.33 Oct 12 2021,172.16.5.14,1
+480,IRR,IP172.16.5.5,4,INC,11,CP101 Ground Floor North,0,IQ4E160 Iss4.33 Oct 12 2021,172.16.5.5,2
+480,IRR,IP172.16.5.5,4,INC,12,CP102 Freezer Room,0,IQ4E64 Iss4.33 Oct 12 2021,172.16.5.6,1
+480,IRR,IP172.16.5.5,4,INC,13,CP201 Level 1 East,0,IQ4E96 Iss4.33 Oct 12 2021,172.16.5.7,1
+480,IRR,IP172.16.5.5,4,INC,14,CP202 Level 1 TRF Controller 1,0,IQ4E192 Iss4.33 Oct 12 2021,172.16.5.8,1
+480,IRR,IP172.16.5.5,4,INC,15,CP202 Level 1 TRF Controller 2,0,IQ4E96 Iss4.33 Oct 12 2021,172.16.5.9,1
+480,IRR,IP172.16.5.5,8,IRR IQEcos,24,AHU402 - CAV 493-492 Room 3.19,0,IQeco38 Iss2.31 Mar 24 2017,#N/A#,0
+480,IRR,IP172.16.5.5,8,IRR IQEcos,36,AHU402 - VAV 425-426 Room 3.24,0,IQeco38 Iss2.31 Mar 24 2017,#N/A#,0
+480,IRR,IP172.16.5.5,8,IRR IQEcos,63,AC Unit FC401,0,IQeco32 Iss2.31 Mar 24 2017,#N/A#,0
+480,IRR,IP172.16.5.5,8,IRR IQEcos,28,AHU402 - FCU 404 Room 3.23,0,IQeco32 Iss2.31 Mar 24 2017,#N/A#,0
+480,IRR,IP172.16.5.5,11,vIQ Lan,126,vIQ Lan,0,VirtualIQ v1.09 June 15,#N/A#,3
+480,IRR,IP172.16.5.5,11,vIQ Lan,119,119,0,No Reply,#N/A#,3
+480,IRR,IP172.16.5.5,11,vIQ Lan,13,Chiller_No.3,0,VirtualIQ v1.09 June 15,172.16.5.22,1
+480,IRR,IP172.16.5.5,11,vIQ Lan,12,Chiller_No.2,0,VirtualIQ v1.09 June 15,172.16.5.22,1
+480,IRR,IP172.16.5.5,11,vIQ Lan,11,Chiller_No.1,0,VirtualIQ v1.09 June 15,172.16.5.22,1
+480,IRR,IP172.16.5.5,11,vIQ Lan,4,4,0,No Reply,#N/A#,3
+480,IRR,IP172.16.5.5,8,IRR IQEcos,126,IRR IQEcos,0,IQ4NCBINC Iss8.10 Mar 0,#N/A#,3
+480,IRR,IP172.16.5.5,8,IRR IQEcos,62,3rd Floor Perimeter Heating,0,IQeco32 Iss2.31 Mar 24 2017,#N/A#,3
+480,IRR,IP172.16.5.5,8,IRR IQEcos,61,AHU501 - VAV 495-436 Room 3.01,0,IQeco38 Iss2.31 Mar 24 2017,#N/A#,3
+480,IRR,IP172.16.5.5,8,IRR IQEcos,60,AHU501 - VAV 494-434 Room 3.01,0,IQeco38 Iss2.31 Mar 24 2017,#N/A#,3
+480,IRR,IP172.16.5.5,8,IRR IQEcos,59,AHU501 - VAV 490-491 Room 3.15,0,IQeco38 Iss2.31 Mar 24 2017,#N/A#,3
+480,IRR,IP172.16.5.5,8,IRR IQEcos,58,AHU501 - VAV 488-489 Room 3.06,0,�������������� Iss2.31 Mar 24 2017,#N/A#,3
+480,IRR,IP172.16.5.5,8,IRR IQEcos,57,AHU501 - VAV 487-486 Room 3.05,0,IQeco38 Iss2.31 Mar 24 2017,#N/A#,3
+480,IRR,IP172.16.5.5,8,IRR IQEcos,56,AHU501 - VAV 484-485 Room 3.03,0,IQeco38 Iss2.31 Mar 24 2017,#N/A#,3
+480,IRR,IP172.16.5.5,8,IRR IQEcos,55,AHU501 - VAV 482-483 Room 3.02,0,IQeco38 Iss2.31 Mar 24 2017,#N/A#,3
+480,IRR,IP172.16.5.5,8,IRR IQEcos,54,AHU501 - VAV 480-481 Room 3.04,0,IQeco38 Iss2.31 Mar 24 2017,#N/A#,3
+480,IRR,IP172.16.5.5,8,IRR IQEcos,53,AHU501 - VAV 454-453 Room 3.08,0,IQeco38 Iss2.31 Mar 24 2017,#N/A#,3
+480,IRR,IP172.16.5.5,8,IRR IQEcos,52,AHU501 - VAV 451-449 Room 3.01,0,IQeco38 Iss2.31 Mar 24 2017,#N/A#,3
+480,IRR,IP172.16.5.5,8,IRR IQEcos,51,AHU501 - VAV 448-450 Room 3.01,0,IQeco38 Iss2.31 Mar 24 2017,#N/A#,3
+480,IRR,IP172.16.5.5,8,IRR IQEcos,50,AHU501 - VAV 447-452 Room 3.01,0,IQeco38 Iss2.31 Mar 24 2017,#N/A#,3
+480,IRR,IP172.16.5.5,8,IRR IQEcos,49,AHU501 - VAV 446 Room 3.01,0,IQeco32 Iss2.31 Mar 24 2017,#N/A#,3
+480,IRR,IP172.16.5.5,8,IRR IQEcos,48,AHU501 - VAV 445-444 Room 3.07,0,IQeco38 Iss2.31 Mar 24 2017,#N/A#,3
+480,IRR,IP172.16.5.5,8,IRR IQEcos,47,AHU501 - VAV 442-443 Room 3.01,0,IQeco38 Iss2.31 Mar 24 2017,#N/A#,3
+480,IRR,IP172.16.5.5,8,IRR IQEcos,46,AHU501 - VAV 439-441 Room 3.01,0,IQeco38 Iss2.31 Mar 24 2017,#N/A#,3
+480,IRR,IP172.16.5.5,8,IRR IQEcos,45,AHU501 - VAV 437-432 Room 3.01,0,IQeco38 Iss2.31 Mar 24 2017,#N/A#,3
+480,IRR,IP172.16.5.5,8,IRR IQEcos,44,AHU501 - VAV 435 Room 3.01,0,IQeco32 Iss2.31 Mar 24 2017,#N/A#,3
+480,IRR,IP172.16.5.5,8,IRR IQEcos,43,AHU501 - VAV 433 Room 3.01,0,IQeco32 Iss2.31 Mar 24 2017,#N/A#,3
+480,IRR,IP172.16.5.5,8,IRR IQEcos,42,AHU501 - VAV 431 Room 3.01,0,IQeco32 Iss2.31 Mar 24 2017,#N/A#,3
+480,IRR,IP172.16.5.5,8,IRR IQEcos,41,AHU501 - VAV 430-429 Room 3.16,0,IQeco38 Iss2.31 Mar 24 2017,#N/A#,3
+480,IRR,IP172.16.5.5,8,IRR IQEcos,40,AHU501 - VAV 428-427 Room 3.17,0,IQeco38 Iss2.31 Mar 24 2017,#N/A#,3
+480,IRR,IP172.16.5.5,8,IRR IQEcos,39,AHU501 - VAV 418-420 Room 3.14,0,IQeco38 Iss2.31 Mar 24 2017,#N/A#,3
+480,IRR,IP172.16.5.5,8,IRR IQEcos,38,AHU501 - VAV 414 Room 3.Z18,0,IQeco32 Iss2.31 Mar 24 2017,#N/A#,3
+480,IRR,IP172.16.5.5,8,IRR IQEcos,37,AHU402 - VAV 478 Room 3.22B,0,IQeco32 Iss2.31 Mar 24 2017,#N/A#,3
+480,IRR,IP172.16.5.5,8,IRR IQEcos,35,AHU402 - VAV 417 Room 3.18C,0,IQeco32 Iss2.31 Mar 24 2017,#N/A#,3
+480,IRR,IP172.16.5.5,8,IRR IQEcos,34,AHU402 - VAV 412-413 Room 3.22,0,IQeco38 Iss2.31 Mar 24 2017,#N/A#,3
+480,IRR,IP172.16.5.5,8,IRR IQEcos,33,AHU402 - VAV 411-404 Room 3.18,0,IQeco38 Iss2.31 Mar 24 2017,#N/A#,3
+480,IRR,IP172.16.5.5,8,IRR IQEcos,32,AHU402 - VAV 410-409 Room 3.22,0,IQeco38 Iss2.31 Mar 24 2017,#N/A#,3
+480,IRR,IP172.16.5.5,8,IRR IQEcos,31,AHU402 - VAV 406-408 Room 3.18,0,IQeco38 Iss2.31 Mar 24 2017,#N/A#,3
+480,IRR,IP172.16.5.5,8,IRR IQEcos,30,AHU402 - VAV 403-405 Room 3.18,0,IQeco38 Iss2.31 Mar 24 2017,#N/A#,3
+480,IRR,IP172.16.5.5,8,IRR IQEcos,29,AHU402 - VAV 401-402 Room 3.18,0,IQeco38 Iss2.31 Mar 24 2017,#N/A#,3
+480,IRR,IP172.16.5.5,8,IRR IQEcos,27,AHU402 - FCU 403 Room 3.L21,0,IQeco32 Iss2.31 Mar 24 2017,#N/A#,3
+480,IRR,IP172.16.5.5,8,IRR IQEcos,26,AHU402 - FCU 402 Room 3.20,0,IQeco32 Iss2.31 Mar 24 2017,#N/A#,3
+480,IRR,IP172.16.5.5,8,IRR IQEcos,23,AHU402 - CAV 473-474 Room 3.20,0,IQeco38 Iss2.31 Mar 24 2017,#N/A#,3
+480,IRR,IP172.16.5.5,8,IRR IQEcos,20,AHU401 - VAV 471-472 Room 3.34,0,IQeco38 Iss2.31 Mar 24 2017,#N/A#,3
+480,IRR,IP172.16.5.5,8,IRR IQEcos,19,AHU401 - VAV 470-469 Room 3.26,0,IQeco38 Iss2.31 Mar 24 2017,#N/A#,3
+480,IRR,IP172.16.5.5,8,IRR IQEcos,18,AHU401 - VAV 468-467 Room 3.33,0,IQeco38 Iss2.31 Mar 24 2017,#N/A#,3
+480,IRR,IP172.16.5.5,8,IRR IQEcos,17,AHU401 - VAV 465-463 Room 3.28,0,IQeco38 Iss2.31 Mar 24 2017,#N/A#,3
+480,IRR,IP172.16.5.5,8,IRR IQEcos,16,AHU401 - VAV 464-466 Room 3.27,0,IQeco38 Iss2.31 Mar 24 2017,#N/A#,3
+480,IRR,IP172.16.5.5,8,IRR IQEcos,15,AHU401 - VAV 461-462 Room 3.32,0,IQeco38 Iss2.31 Mar 24 2017,#N/A#,3
+480,IRR,IP172.16.5.5,8,IRR IQEcos,14,AHU401 - VAV 460-459 Room 3.31,0,IQeco38 Iss2.31 Mar 24 2017,#N/A#,3
+480,IRR,IP172.16.5.5,7,IRR IQEcos,40,AHU501 - VAV 335-336 Room 2.01,0,IQeco38 Iss2.31 Mar 24 2017,#N/A#,3
+480,IRR,IP172.16.5.5,7,IRR IQEcos,39,AHU501 - VAV 334-333 Room 2.17,0,IQeco38 Iss2.31 Mar 24 2017,#N/A#,3
+480,IRR,IP172.16.5.5,7,IRR IQEcos,38,AHU501 - VAV 332-331 Room 2.16,0,IQeco38 Iss2.31 Mar 24 2017,#N/A#,3
+480,IRR,IP172.16.5.5,7,IRR IQEcos,37,AHU501 - VAV 324-347 Room 2.12,0,IQeco38 Iss2.31 Mar 24 2017,#N/A#,3
+480,IRR,IP172.16.5.5,7,IRR IQEcos,36,AHU501 - VAV 323 L2 Atrium,0,IQeco32 Iss2.31 Mar 24 2017,#N/A#,3
+480,IRR,IP172.16.5.5,7,IRR IQEcos,35,AHU302 - VAV 390-391 Room 2.21,0,IQeco38 Iss2.31 Mar 24 2017,#N/A#,3
+480,IRR,IP172.16.5.5,7,IRR IQEcos,34,AHU302 - VAV 330-329 Room 2.24,0,IQeco38 Iss2.31 Mar 24 2017,#N/A#,3
+480,IRR,IP172.16.5.5,8,IRR IQEcos,25,AHU402 - FCU 401 Room 3.19,0,IQeco32 Iss2.31 Mar 24 2017,#N/A#,0
+480,IRR,IP172.16.5.5,6,IRR IQEcos,49,AHU208 - VAV 073-072 Rm B.LZ04,0,IQeco38 Iss2.31 Mar 24 2017,#N/A#,3
+480,IRR,IP172.16.5.5,6,IRR IQEcos,45,AHU206 7 - VAV 064-097RmB.Z08,0,IQeco38 Iss2.31 Mar 24 2017,#N/A#,3
+480,IRR,IP172.16.5.5,6,IRR IQEcos,44,AHU206 7 - VAV 062-063RmB.LZ15,0,IQeco38 Iss2.31 Mar 24 2017,#N/A#,3
+480,IRR,IP172.16.5.5,6,IRR IQEcos,47,AHU206 7 - VAV 090-091 RmB.L09,0,IQeco38 Iss2.31 Mar 24 2017,#N/A#,3
+480,IRR,IP172.16.5.5,6,IRR IQEcos,46,AHU206 7 - VAV 068-070RmB.LZ05,0,IQeco38 Iss2.31 Mar 24 2017,#N/A#,3
+480,IRR,IP172.16.5.5,6,IRR IQEcos,51,AHU208 - VAV 075 Room B.LZ25,0,IQeco32 Iss2.31 Mar 24 2017,#N/A#,3
+480,IRR,IP172.16.5.5,6,IRR IQEcos,50,AHU208 - VAV 074 Room B.LZ03,0,IQeco32 Iss2.31 Mar 24 2017,#N/A#,3
+480,IRR,IP172.16.5.5,4,INC,23,L1 TRF Plantroom TRF HEPA Panel,0,IQ4E96 Iss4.33 Oct 12 2021,172.16.5.11,1
+480,IRR,IP172.16.5.5,7,IRR IQEcos,33,AHU302 - VAV 328-314 Room 2.22,0,IQeco38 Iss2.31 Mar 24 2017,#N/A#,3
+480,IRR,IP172.16.5.5,7,IRR IQEcos,32,AHU302 - VAV 325-326 Room 2.21,0,IQeco38 Iss2.31 Mar 24 2017,#N/A#,3
+480,IRR,IP172.16.5.5,7,IRR IQEcos,31,AHU302 - VAV 322 Room 2.18C,0,IQeco38 Iss2.31 Mar 24 2017,#N/A#,3
+480,IRR,IP172.16.5.5,7,IRR IQEcos,30,AHU302 - VAV 315-316 Room 2.22,0,IQeco38 Iss2.31 Mar 24 2017,#N/A#,3
+480,IRR,IP172.16.5.5,7,IRR IQEcos,29,AHU302 - VAV 311-304 Room 2.18,0,IQeco38 Iss2.31 Mar 24 2017,#N/A#,3
+480,IRR,IP172.16.5.5,7,IRR IQEcos,28,AHU302 - VAV 309-312 Room 2.22,0,IQeco38 Iss2.31 Mar 24 2017,#N/A#,3
+480,IRR,IP172.16.5.5,7,IRR IQEcos,27,AHU302 - VAV 307-308 Room 2.18,0,IQeco38 Iss2.31 Mar 24 2017,#N/A#,3
+480,IRR,IP172.16.5.5,7,IRR IQEcos,26,AHU302 - VAV 306-310 Room 2.18,0,IQeco38 Iss2.31 Mar 24 2017,#N/A#,3
+480,IRR,IP172.16.5.5,7,IRR IQEcos,25,AHU302 - VAV 303-305 Room 2.18,0,IQeco38 Iss2.31 Mar 24 2017,#N/A#,3
+480,IRR,IP172.16.5.5,7,IRR IQEcos,24,AHU302 - VAV 301-302 Room 2.18,0,IQeco38 Iss2.31 Mar 24 2017,#N/A#,3
+480,IRR,IP172.16.5.5,7,IRR IQEcos,23,AHU302 - FCU 304 Room 2.23,0,IQeco32 Iss2.31 Mar 24 2017,#N/A#,3
+480,IRR,IP172.16.5.5,7,IRR IQEcos,22,AHU302 - FCU 302 Room 2.20,0,IQeco32 Iss2.31 Mar 24 2017,#N/A#,3
+480,IRR,IP172.16.5.5,7,IRR IQEcos,21,AHU302 - FCU 301 Room 2.19,0,IQeco32 Iss2.31 Mar 24 2017,#N/A#,3
+480,IRR,IP172.16.5.5,7,IRR IQEcos,20,AHU302 - CAV 319-394 Room 2.20,0,IQeco38 Iss2.31 Mar 24 2017,#N/A#,3
+480,IRR,IP172.16.5.5,7,IRR IQEcos,19,AHU302 - CAV 317-327 Room 2.23,0,IQeco38 Iss2.31 Mar 24 2017,#N/A#,3
+480,IRR,IP172.16.5.5,7,IRR IQEcos,18,AHU302 - CAV 313-318 Room 2.19,0,IQeco38 Iss2.31 Mar 24 2017,#N/A#,3
+480,IRR,IP172.16.5.5,7,IRR IQEcos,17,AHU301 - VAV 379-378 Room 2.Z3,0,IQeco38 Iss2.31 Mar 24 2017,#N/A#,3
+480,IRR,IP172.16.5.5,7,IRR IQEcos,16,AHU301 - VAV 374-369 Room 2.27,0,IQeco38 Iss2.31 Mar 24 2017,#N/A#,3
+480,IRR,IP172.16.5.5,7,IRR IQEcos,15,AHU301 - VAV 373-372 Room 2.L3,0,IQeco38 Iss2.31 Mar 24 2017,#N/A#,3
+480,IRR,IP172.16.5.5,7,IRR IQEcos,14,AHU301 - VAV 370-371 Room 2.26,0,IQeco38 Iss2.31 Mar 24 2017,#N/A#,3
+480,IRR,IP172.16.5.5,7,IRR IQEcos,13,AHU301 - VAV 368-367 Room 2.29,0,IQeco38 Iss2.31 Mar 24 2017,#N/A#,3
+480,IRR,IP172.16.5.5,7,IRR IQEcos,12,AHU301 - VAV 363-364 Room 2.09,0,IQeco38 Iss2.31 Mar 24 2017,#N/A#,3
+480,IRR,IP172.16.5.5,7,IRR IQEcos,11,AHU301 - CAV 365-366 Room 2.28,0,IQeco38 Iss2.31 Mar 24 2017,#N/A#,3
+480,IRR,IP172.16.5.5,7,IRR IQEcos,9,CP301 4NC,0,IQ4NC0 Iss4.33 Oct 12 2021,172.16.5.20,1
+480,IRR,IP172.16.5.5,7,IRR IQEcos,7,7,0,No Reply,#N/A#,3
+480,IRR,IP172.16.5.5,7,IRR IQEcos,6,6,0,No Reply,#N/A#,3
+480,IRR,IP172.16.5.5,7,IRR IQEcos,5,5,0,No Reply,#N/A#,3
+480,IRR,IP172.16.5.5,7,IRR IQEcos,4,4,0,No Reply,#N/A#,3
+480,IRR,IP172.16.5.5,6,IRR IQEcos,126,IRR IQEcos,0,IQ4NCBINC Iss8.10 Mar 0,#N/A#,3
+480,IRR,IP172.16.5.5,6,IRR IQEcos,65,TRF - FC002 Rm B.Z39A,0,IQeco38 Iss2.31 Mar 24 2017,#N/A#,3
+480,IRR,IP172.16.5.5,6,IRR IQEcos,64,TRF - FC001 & 003 Rm B.Z38,0,IQeco38 Iss2.31 Mar 24 2017,#N/A#,3
+480,IRR,IP172.16.5.5,6,IRR IQEcos,63,AHU209 - VAV 103-102 Rm B.LZ40,0,IQeco38 Iss2.31 Mar 24 2017,#N/A#,3
+480,IRR,IP172.16.5.5,6,IRR IQEcos,62,AHU209 - VAV 100-101 Rm B.Z37,0,IQeco38 Iss2.31 Mar 24 2017,#N/A#,3
+480,IRR,IP172.16.5.5,6,IRR IQEcos,61,AHU209 - VAV 094-095 Rm B.LZ26,0,IQeco38 Iss2.31 Mar 24 2017,#N/A#,3
+480,IRR,IP172.16.5.5,6,IRR IQEcos,60,AHU209 - VAV 069 Room B.LZ7A,0,IQeco32 Iss2.31 Mar 24 2017,#N/A#,3
+480,IRR,IP172.16.5.5,6,IRR IQEcos,59,AHU209 - VAV 067 Room B.LZ7C,0,IQeco32 Iss2.31 Mar 24 2017,#N/A#,3
+480,IRR,IP172.16.5.5,6,IRR IQEcos,58,AHU209 - VAV 066 Room B.LZ7B,0,IQeco32 Iss2.31 Mar 24 2017,#N/A#,3
+480,IRR,IP172.16.5.5,6,IRR IQEcos,57,AHU209 - VAV 065 Room B.LZ12,0,IQeco32 Iss2.31 Mar 24 2017,#N/A#,3
+480,IRR,IP172.16.5.5,6,IRR IQEcos,56,AHU208 - CAV 084-085 Room B.L2,0,IQeco32 Iss2.31 Mar 24 2017,#N/A#,3
+480,IRR,IP172.16.5.5,6,IRR IQEcos,55,AHU208 - VAV 082-083 Rm B.LZ24,0,IQeco38 Iss2.31 Mar 24 2017,#N/A#,3
+480,IRR,IP172.16.5.5,6,IRR IQEcos,54,AHU208 - VAV 080-079 Rm B.L20,0,IQeco38 Iss2.31 Mar 24 2017,#N/A#,3
+480,IRR,IP172.16.5.5,6,IRR IQEcos,53,AHU208 - VAV 078-077 Rm B.L24,0,IQeco38 Iss2.31 Mar 24 2017,#N/A#,3
+480,IRR,IP172.16.5.5,8,IRR IQEcos,13,AHU401 - VAV 456-458 Room 3.30,0,IQeco38 Iss2.31 Mar 24 2017,#N/A#,3
+480,IRR,IP172.16.5.5,8,IRR IQEcos,12,AHU401 - VAV 455-457 Room 3.29,0,IQeco38 Iss2.31 Mar 24 2017,#N/A#,3
+480,IRR,IP172.16.5.5,8,IRR IQEcos,11,AHU401 - CAV 479 Room 3.Z31,0,IQeco32 Iss2.31 Mar 24 2017,#N/A#,3
+480,IRR,IP172.16.5.5,8,IRR IQEcos,9,CP401 4NC,0,IQ4NC0 Iss4.33 Oct 12 2021,172.16.5.21,1
+480,IRR,IP172.16.5.5,8,IRR IQEcos,7,7,0,No Reply,#N/A#,3
+480,IRR,IP172.16.5.5,8,IRR IQEcos,6,6,0,No Reply,#N/A#,3
+480,IRR,IP172.16.5.5,8,IRR IQEcos,5,5,0,No Reply,#N/A#,3
+480,IRR,IP172.16.5.5,8,IRR IQEcos,4,4,0,No Reply,#N/A#,3
+480,IRR,IP172.16.5.5,7,IRR IQEcos,126,IRR IQEcos,0,IQ4NCBINC Iss8.10 Mar 0,#N/A#,3
+480,IRR,IP172.16.5.5,7,IRR IQEcos,66,AC Unit FC401,0,IQeco32 Iss2.31 Mar 24 2017,#N/A#,3
+480,IRR,IP172.16.5.5,7,IRR IQEcos,65,AC Unit FC302,0,IQeco32 Iss2.31 Mar 24 2017,#N/A#,3
+480,IRR,IP172.16.5.5,7,IRR IQEcos,64,2rd Floor Perimeter Heating,0,IQeco32 Iss2.31 Mar 24 2017,#N/A#,3
+480,IRR,IP172.16.5.5,7,IRR IQEcos,63,AHU501 - VAV 362-361 Room 2.08,0,IQeco38 Iss2.31 Mar 24 2017,#N/A#,3
+480,IRR,IP172.16.5.5,7,IRR IQEcos,62,AHU501 - VAV 396-342 Room 2.01,0,IQeco38 Iss2.31 Mar 24 2017,#N/A#,3
+480,IRR,IP172.16.5.5,7,IRR IQEcos,61,AHU501 - VAV 395 Room 2.01,0,IQeco32 Iss2.31 Mar 24 2017,#N/A#,3
+480,IRR,IP172.16.5.5,7,IRR IQEcos,60,AHU501 - VAV 392-393 Room 2.15,0,IQeco38 Iss2.31 Mar 24 2017,#N/A#,3
+480,IRR,IP172.16.5.5,7,IRR IQEcos,59,AHU501 - VAV 388-389 Room 2.06,0,IQeco38 Iss2.31 Mar 24 2017,#N/A#,3
+480,IRR,IP172.16.5.5,7,IRR IQEcos,58,AHU501 - VAV 387-386 Room 2.05,0,IQeco38 Iss2.31 Mar 24 2017,#N/A#,3
+480,IRR,IP172.16.5.5,7,IRR IQEcos,57,AHU501 - VAV 384-385 Room 2.03,0,IQeco38 Iss2.31 Mar 24 2017,#N/A#,3
+480,IRR,IP172.16.5.5,7,IRR IQEcos,56,AHU501 - VAV 382-383 Room 2.02,0,IQeco38 Iss2.31 Mar 24 2017,#N/A#,3
+480,IRR,IP172.16.5.5,7,IRR IQEcos,55,AHU501 - VAV 381 Room 2.Z18,0,IQeco32 Iss2.31 Mar 24 2017,#N/A#,3
+480,IRR,IP172.16.5.5,7,IRR IQEcos,54,AHU501 - VAV 380-321 Room 2.14,0,IQeco38 Iss2.31 Mar 24 2017,#N/A#,3
+480,IRR,IP172.16.5.5,7,IRR IQEcos,53,AHU501 - VAV 376-375 Room 2.04,0,IQeco38 Iss2.31 Mar 24 2017,#N/A#,3
+480,IRR,IP172.16.5.5,7,IRR IQEcos,52,AHU501 - VAV 359-360 Room 2.Z0,0,IQeco38 Iss2.31 Mar 24 2017,#N/A#,3
+480,IRR,IP172.16.5.5,7,IRR IQEcos,51,AHU501 - VAV 358-357 Room 2.01,0,IQeco38 Iss2.31 Mar 24 2017,#N/A#,3
+480,IRR,IP172.16.5.5,7,IRR IQEcos,50,AHU501 - VAV 356-355 Room 2.01,0,IQeco38 Iss2.31 Mar 24 2017,#N/A#,3
+480,IRR,IP172.16.5.5,7,IRR IQEcos,49,AHU501 - VAV 354 Room 2.01,0,IQeco32 Iss2.31 Mar 24 2017,#N/A#,3
+480,IRR,IP172.16.5.5,7,IRR IQEcos,48,AHU501 - VAV 353-352 Room 2.07,0,IQeco38 Iss2.31 Mar 24 2017,#N/A#,3
+480,IRR,IP172.16.5.5,7,IRR IQEcos,47,AHU501 - VAV 350-351 Room 2.10,0,IQeco38 Iss2.31 Mar 24 2017,#N/A#,3
+480,IRR,IP172.16.5.5,7,IRR IQEcos,46,AHU501 - VAV 348-349 Room 2.11,0,IQeco38 Iss2.31 Mar 24 2017,#N/A#,3
+480,IRR,IP172.16.5.5,7,IRR IQEcos,45,AHU501 - VAV 345-346 Room 2.13,0,IQeco38 Iss2.31 Mar 24 2017,#N/A#,3
+480,IRR,IP172.16.5.5,7,IRR IQEcos,44,AHU501 - VAV 343-344 Room 2.01,0,IQeco38 Iss2.31 Mar 24 2017,#N/A#,3
+480,IRR,IP172.16.5.5,7,IRR IQEcos,43,AHU501 - VAV 341 Room 2.01,0,IQeco32 Iss2.31 Mar 24 2017,#N/A#,3
+480,IRR,IP172.16.5.5,7,IRR IQEcos,42,AHU501 - VAV 339-338 Room 2.01,0,IQeco38 Iss2.31 Mar 24 2017,#N/A#,3
+480,IRR,IP172.16.5.5,7,IRR IQEcos,41,AHU501 - VAV 337 Room 2.01,0,IQeco32 Iss2.31 Mar 24 2017,#N/A#,3
+480,IRR,IP172.16.5.5,4,INC,126,INC,0,No Reply,#N/A#,3
+480,IRR,IP172.16.5.5,4,INC,112,112,0,No Reply,#N/A#,3
+480,IRR,IP172.16.5.5,4,INC,111,IQView8,0,0,#N/A#,3
+480,IRR,IP172.16.5.5,4,INC,110,IQView8,0,0,#N/A#,3
+480,IRR,IP172.16.5.5,4,INC,109,109,0,No Reply,#N/A#,3
+480,IRR,IP172.16.5.5,4,INC,108,108,0,No Reply,#N/A#,3
+480,IRR,IP172.16.5.5,4,INC,107,107,0,No Reply,#N/A#,3
+480,IRR,IP172.16.5.5,4,INC,106,106,0,No Reply,#N/A#,3
+480,IRR,IP172.16.5.5,4,INC,105,105,0,No Reply,#N/A#,3
+480,IRR,IP172.16.5.5,4,INC,104,104,0,No Reply,#N/A#,3
+480,IRR,IP172.16.5.5,4,INC,103,963 v3.73,0,0,#N/A#,3
+480,IRR,IP172.16.5.5,4,INC,102,UoE,0,0,#N/A#,3
+480,IRR,IP172.16.5.5,4,INC,101,UoE,0,0,#N/A#,3
+480,IRR,IP172.16.5.5,24,IRR IQEcos,22,AHU-WU-2 - FCU-2-10 2.46,0,IQeco38 Iss2.42 Feb  3 2021,#N/A#,3
+480,IRR,IP172.16.5.5,21,INC,11,MSCP01 Roof Controller 1,0,IQ4E160 Iss4.32 Feb 26 2021,172.16.5.70,1
+480,IRR,IP172.16.5.5,21,INC,12,MSCP01 Roof Controller 2,0,IQ4E160 Iss4.32 Feb 26 2021,172.16.5.71,1
+480,IRR,IP172.16.5.5,22,IRR IQEcos,7,7,0,No Reply,#N/A#,3
+480,IRR,IP172.16.5.5,22,IRR IQEcos,9,MCP07 4NC,0,IQ4NC0 Iss4.32 Feb 26 2021,172.16.5.58,1
+480,IRR,IP172.16.5.5,5,IRR IQEcos,12,AHU201 - VAV 203-204 Room 1.Z2,0,IQeco38 Iss2.31 Mar 24 2017,#N/A#,3
+480,IRR,IP172.16.5.5,5,IRR IQEcos,13,AHU201 - VAV 205 Rm 1.Z14B,0,IQeco38 Iss2.31 Mar 24 2017,#N/A#,3
+480,IRR,IP172.16.5.5,5,IRR IQEcos,14,AHU201 - VAV 207-208 Room 1.03,0,IQeco38 Iss2.31 Mar 24 2017,#N/A#,3
+480,IRR,IP172.16.5.5,5,IRR IQEcos,15,AHU201 - VAV 209-210 Room 1.03,0,IQeco38 Iss2.31 Mar 24 2017,#N/A#,3
+480,IRR,IP172.16.5.5,5,IRR IQEcos,16,AHU201 - VAV 224-206 Room 1.Z2,0,IQeco38 Iss2.31 Mar 24 2017,#N/A#,3
+480,IRR,IP172.16.5.5,5,IRR IQEcos,17,AHU202 - VAV 211-212 Room 1.Z3,0,IQeco38 Iss2.31 Mar 24 2017,#N/A#,3
+480,IRR,IP172.16.5.5,5,IRR IQEcos,18,AHU202 - VAV 213-214 Room 1.05,0,IQeco38 Iss2.31 Mar 24 2017,#N/A#,3
+480,IRR,IP172.16.5.5,5,IRR IQEcos,19,AHU202 - VAV 215-216 Room 1.04,0,IQeco38 Iss2.31 Mar 24 2017,#N/A#,3
+480,IRR,IP172.16.5.5,5,IRR IQEcos,20,AHU202 - VAV 217-218 Room 1.Z1,0,IQeco38 Iss2.31 Mar 24 2017,#N/A#,3
+480,IRR,IP172.16.5.5,5,IRR IQEcos,21,AHU202 - VAV 219 Room 1.Z07A-B,0,IQeco32 Iss2.31 Mar 24 2017,#N/A#,3
+480,IRR,IP172.16.5.5,5,IRR IQEcos,22,AHU202 - VAV 221-220 Room 1.02,0,IQeco38 Iss2.31 Mar 24 2017,#N/A#,3
+480,IRR,IP172.16.5.5,5,IRR IQEcos,23,AHU202 - VAV 223-222 Room 1.01,0,IQeco38 Iss2.31 Mar 24 2017,#N/A#,3
+480,IRR,IP172.16.5.5,21,INC,13,MSCP02 Roof Fume Cupboards,0,IQ4E160 Iss4.32 Feb 26 2021,172.16.5.72,1
+480,IRR,IP172.16.5.5,5,IRR IQEcos,24,AHU210 - CAV 243-242 Room 1.11,0,IQeco32 Iss2.42 Feb  3 2021,#N/A#,3
+480,IRR,IP172.16.5.5,5,IRR IQEcos,25,AHU210 - CAV 244-245 Room 1.Z1,0,IQeco38 Iss2.31 Mar 24 2017,#N/A#,3
+480,IRR,IP172.16.5.5,5,IRR IQEcos,26,AHU210 - FCU 201 Room 1.11,0,IQeco32 Iss2.31 Mar 24 2017,#N/A#,3
+480,IRR,IP172.16.5.5,5,IRR IQEcos,27,AHU210 - VAV 235-237 Room 1.09,0,IQeco38 Iss2.31 Mar 24 2017,#N/A#,3
+480,IRR,IP172.16.5.5,5,IRR IQEcos,28,AHU210 - VAV 236 Room 1.09,0,IQeco32 Iss2.31 Mar 24 2017,#N/A#,3
+480,IRR,IP172.16.5.5,5,IRR IQEcos,29,AHU210 - VAV 239-238 Room 1.12,0,IQeco38 Iss2.31 Mar 24 2017,#N/A#,3
+480,IRR,IP172.16.5.5,5,IRR IQEcos,30,AHU210 - VAV 240-241 Room 1.10,0,IQeco38 Iss2.31 Mar 24 2017,#N/A#,3
+480,IRR,IP172.16.5.5,5,IRR IQEcos,31,AHU211 - VAV 226 Room 1.Z15,0,IQeco32 Iss2.31 Mar 24 2017,#N/A#,3
+480,IRR,IP172.16.5.5,5,IRR IQEcos,32,AHU211 - VAV 227-229 Room 1.06,0,IQeco38 Iss2.31 Mar 24 2017,#N/A#,3
+480,IRR,IP172.16.5.5,5,IRR IQEcos,33,AHU211 - VAV 228-230 Room 1.06,0,IQeco38 Iss2.31 Mar 24 2017,#N/A#,3
+480,IRR,IP172.16.5.5,5,IRR IQEcos,34,AHU211 - VAV 232-231 Room 1.08,0,IQeco38 Iss2.31 Mar 24 2017,#N/A#,3
+480,IRR,IP172.16.5.5,5,IRR IQEcos,35,AHU211 - VAV 233-234 Room 1.07,0,IQeco38 Iss2.31 Mar 24 2017,#N/A#,3
+480,IRR,IP172.16.5.5,5,IRR IQEcos,36,AC Unit FC202,0,IQeco32 Iss2.31 Mar 24 2017,#N/A#,3
+480,IRR,IP172.16.5.5,5,IRR IQEcos,37,AHU210 - VAV 246-247 Room 1.09,0,IQeco38 Iss2.31 Mar 24 2017,#N/A#,3
+480,IRR,IP172.16.5.5,5,IRR IQEcos,38,1st Floor Perimeter Heating,0,IQeco32 Iss2.31 Mar 24 2017,#N/A#,3
+480,IRR,IP172.16.5.5,5,IRR IQEcos,39,AC Unit FC201,0,IQeco32 Iss2.31 Mar 24 2017,#N/A#,3
+480,IRR,IP172.16.5.5,5,IRR IQEcos,40,AHU210 - VAV 248-249 Room 1.09,0,IQeco38 Iss2.31 Mar 24 2017,#N/A#,3
+480,IRR,IP172.16.5.5,5,IRR IQEcos,126,IRR IQEcos,0,IQ4NCBINC Iss8.10 Mar 0,#N/A#,3
+480,IRR,IP172.16.5.5,6,IRR IQEcos,4,4,0,No Reply,#N/A#,3
+480,IRR,IP172.16.5.5,6,IRR IQEcos,5,5,0,No Reply,#N/A#,3
+480,IRR,IP172.16.5.5,6,IRR IQEcos,6,6,0,No Reply,#N/A#,3
+480,IRR,IP172.16.5.5,6,IRR IQEcos,7,7,0,No Reply,#N/A#,3
+480,IRR,IP172.16.5.5,6,IRR IQEcos,9,CP202 4NC,0,IQ4NC0 Iss4.33 Oct 12 2021,172.16.5.19,1
+480,IRR,IP172.16.5.5,6,IRR IQEcos,11,AHU203 4 - VAV 005-006 RmB.L15,0,IQeco38 Iss2.31 Mar 24 2017,#N/A#,3
+480,IRR,IP172.16.5.5,6,IRR IQEcos,12,AHU203 4 - VAV 007-008 RmB.L17,0,IQeco38 Iss2.31 Mar 24 2017,#N/A#,3
+480,IRR,IP172.16.5.5,6,IRR IQEcos,13,AHU203 4 - VAV 012-013 RmB.L21,0,IQeco38 Iss2.31 Mar 24 2017,#N/A#,3
+480,IRR,IP172.16.5.5,6,IRR IQEcos,14,AHU203 4 - VAV 014-015 RmB.L22,0,IQeco38 Iss2.31 Mar 24 2017,#N/A#,3
+480,IRR,IP172.16.5.5,6,IRR IQEcos,15,AHU203 4 - VAV 016-020 RmB.L23,0,IQeco38 Iss2.31 Mar 24 2017,#N/A#,3
+480,IRR,IP172.16.5.5,6,IRR IQEcos,16,AHU203 4 - VAV 017-011RmB.LZ21,0,IQeco38 Iss2.31 Mar 24 2017,#N/A#,3
+480,IRR,IP172.16.5.5,6,IRR IQEcos,17,AHU203 4 - VAV 018-098RmB.LZ22,0,IQeco38 Iss2.31 Mar 24 2017,#N/A#,3
+480,IRR,IP172.16.5.5,6,IRR IQEcos,18,AHU203 4 - VAV 012-013 RmB.L19,0,IQeco38 Iss2.31 Mar 24 2017,#N/A#,3
+480,IRR,IP172.16.5.5,6,IRR IQEcos,19,AHU203 4 - VAV 021-035RmB.LZ23,0,IQeco38 Iss2.31 Mar 24 2017,#N/A#,3
+480,IRR,IP172.16.5.5,6,IRR IQEcos,20,AHU203 4 - VAV 022-023RmB.LZ21,0,IQeco38 Iss2.31 Mar 24 2017,#N/A#,3
+480,IRR,IP172.16.5.5,6,IRR IQEcos,21,AHU203 4 - VAV 025-024 RmB.L14,0,IQeco38 Iss2.31 Mar 24 2017,#N/A#,3
+480,IRR,IP172.16.5.5,6,IRR IQEcos,22,AHU203 4 - VAV 027-026 RmB.L16,0,IQeco38 Iss2.31 Mar 24 2017,#N/A#,3
+480,IRR,IP172.16.5.5,6,IRR IQEcos,23,AHU203 4 - VAV 029-028 RmB.L18,0,IQeco38 Iss2.31 Mar 24 2017,#N/A#,3
+480,IRR,IP172.16.5.5,6,IRR IQEcos,24,AHU206 7 - VAV 001-002RmB.L13B,0,IQeco38 Iss2.31 Mar 24 2017,#N/A#,3
+480,IRR,IP172.16.5.5,6,IRR IQEcos,25,AHU206 7 - VAV 003-004RmB.L13A,0,IQeco38 Iss2.31 Mar 24 2017,#N/A#,3
+480,IRR,IP172.16.5.5,6,IRR IQEcos,26,AHU206 7 - VAV 031-030RmB.LZ17,0,IQeco38 Iss2.31 Mar 24 2017,#N/A#,3
+480,IRR,IP172.16.5.5,6,IRR IQEcos,27,AHU206 7 - VAV 032 Room B.LZ18,0,IQeco32 Iss2.31 Mar 24 2017,#N/A#,3
+480,IRR,IP172.16.5.5,6,IRR IQEcos,28,AHU206 7 - VAV 034-033RmB.LZ16,0,IQeco38 Iss2.31 Mar 24 2017,#N/A#,3
+480,IRR,IP172.16.5.5,6,IRR IQEcos,29,AHU206 7 - VAV 036 Room B.L12,0,IQeco32 Iss2.31 Mar 24 2017,#N/A#,3
+480,IRR,IP172.16.5.5,6,IRR IQEcos,30,AHU206 7 - VAV 037-038 RmB.L11,0,IQeco38 Iss2.31 Mar 24 2017,#N/A#,3
+480,IRR,IP172.16.5.5,6,IRR IQEcos,31,AHU206 7 - VAV 040-039 RmB.L10,0,IQeco38 Iss2.31 Mar 24 2017,#N/A#,3
+480,IRR,IP172.16.5.5,6,IRR IQEcos,32,AHU206 7 - VAV 042-041RmB.L08,0,IQeco38 Iss2.31 Mar 24 2017,#N/A#,3
+480,IRR,IP172.16.5.5,6,IRR IQEcos,33,AHU206 7 - VAV 044-043RmB.L06,0,IQeco38 Iss2.31 Mar 24 2017,#N/A#,3
+480,IRR,IP172.16.5.5,6,IRR IQEcos,34,AHU206 7 - VAV 046-045 RmB.L05,0,IQeco38 Iss2.31 Mar 24 2017,#N/A#,3
+480,IRR,IP172.16.5.5,6,IRR IQEcos,35,AHU206 7 - VAV 047-093 RmB.L04,0,IQeco38 Iss2.31 Mar 24 2017,#N/A#,3
+480,IRR,IP172.16.5.5,6,IRR IQEcos,36,AHU206 7 - VAV 048-049RmB.LZ14,0,IQeco38 Iss2.31 Mar 24 2017,#N/A#,3
+480,IRR,IP172.16.5.5,6,IRR IQEcos,37,AHU206 7 - VAV 051-050 RmB.L02,0,IQeco38 Iss2.31 Mar 24 2017,#N/A#,3
+480,IRR,IP172.16.5.5,6,IRR IQEcos,38,AHU206 7 - VAV 052-053 RmB.L03,0,IQeco38 Iss2.31 Mar 24 2017,#N/A#,3
+480,IRR,IP172.16.5.5,6,IRR IQEcos,39,AHU206 7 - VAV 054-055RmB.LZ13,0,IQeco38 Iss2.31 Mar 24 2017,#N/A#,3
+480,IRR,IP172.16.5.5,6,IRR IQEcos,40,AHU206 7 - VAV 056-071RmB.LZ06,0,IQeco38 Iss2.31 Mar 24 2017,#N/A#,3
+480,IRR,IP172.16.5.5,6,IRR IQEcos,41,AHU206 7 - VAV 057 Room B.LZ10,0,IQeco32 Iss2.31 Mar 24 2017,#N/A#,3
+480,IRR,IP172.16.5.5,6,IRR IQEcos,42,AHU206 7 - VAV 059-058RmB.LZ11,0,IQeco38 Iss2.31 Mar 24 2017,#N/A#,3
+480,IRR,IP172.16.5.5,24,IRR IQEcos,23,AHU-WU-2 - FCU-2-11 2.44,0,IQeco38 Iss2.42 Feb  3 2021,#N/A#,3
+480,IRR,IP172.16.5.5,21,INC,14,MSCP03 L4 Vent,0,IQ4E128 Iss4.32 Feb 26 2021,172.16.5.67,1
+480,IRR,IP172.16.5.5,24,IRR IQEcos,12,AHU-WU-2 - FCU-2-1B 2.41,0,IQeco32 Iss2.42 Feb  3 2021,#N/A#,3
+480,IRR,IP172.16.5.5,6,IRR IQEcos,52,AHU208 - VAV 099-076 Rm B.L01,0,IQeco38 Iss2.31 Mar 24 2017,#N/A#,3
+480,IRR,IP172.16.5.5,24,IRR IQEcos,13,AHU-WU-2 - FCU-2-2 2.43,0,IQeco32 Iss2.42 Feb  3 2021,#N/A#,3
+480,IRR,IP172.16.5.5,24,IRR IQEcos,14,AHU-WU-2 - FCU-2-3 2.42,0,IQeco32 Iss2.42 Feb  3 2021,#N/A#,3
+480,IRR,IP172.16.5.5,24,IRR IQEcos,15,AHU-WU-2 - FCU-2-4 2.39,0,IQeco32 Iss2.42 Feb  3 2021,#N/A#,3
+480,IRR,IP172.16.5.5,24,IRR IQEcos,16,AHU-WU-2 - FCU-2-5 2.40,0,IQeco32 Iss2.42 Feb  3 2021,#N/A#,3
+480,IRR,IP172.16.5.5,24,IRR IQEcos,17,FCU-1-7A 7B Rm 2.Z49,0,IQeco32 Iss2.42 Feb  3 2021,#N/A#,3
+480,IRR,IP172.16.5.5,24,IRR IQEcos,18,AHU-WU-2 - FCU-2-8A 2.45,0,IQeco38 Iss2.42 Feb  3 2021,#N/A#,3
+480,IRR,IP172.16.5.5,24,IRR IQEcos,19,AHU-WU-2 - FCU-2-8B 2.45,0,IQeco32 Iss2.42 Feb  3 2021,#N/A#,3
+480,IRR,IP172.16.5.5,24,IRR IQEcos,20,AHU-WU-2 - FCU-2-8C 2.45,0,IQeco32 Iss2.42 Feb  3 2021,#N/A#,3
+480,IRR,IP172.16.5.5,4,INC,1,1,0,?,#N/A#,3
+480,IRR,IP172.16.5.5,24,IRR IQEcos,21,AHU-WU-2 - FCU-2-9 2.47,0,IQeco38 Iss2.42 Feb  3 2021,#N/A#,3
+480,IRR,IP172.16.5.5,6,IRR IQEcos,43,AHU206 7 - VAV 060-061 RmB.L07,0,IQeco38 Iss2.31 Mar 24 2017,#N/A#,3
+480,IRR,IP172.16.5.5,22,IRR IQEcos,11,AHU-L-0 - FCU-0-1 G24,0,IQeco32 Iss2.42 Feb  3 2021,#N/A#,3
+480,IRR,IP172.16.5.5,22,IRR IQEcos,12,AHU-L-0 - FCU-0-2 G23,0,IQeco32 Iss2.42 Feb  3 2021,#N/A#,3
+480,IRR,IP172.16.5.5,22,IRR IQEcos,13,AHU-L-0 - FCU-0-3 G22,0,IQeco32 Iss2.42 Feb  3 2021,#N/A#,3
+480,IRR,IP172.16.5.5,22,IRR IQEcos,14,AHU-L-0 - FCU-0-4 G21,0,IQeco32 Iss2.42 Feb  3 2021,#N/A#,3
+480,IRR,IP172.16.5.5,22,IRR IQEcos,15,AHU-L-0 - FCU-0-5 G20,0,IQeco32 Iss2.42 Feb  3 2021,#N/A#,3
+480,IRR,IP172.16.5.5,22,IRR IQEcos,16,AHU-L-0 - FCU-0-6 G18,0,IQeco32 Iss2.42 Feb  3 2021,#N/A#,3
+480,IRR,IP172.16.5.5,22,IRR IQEcos,17,AHU-L-0 - FCU-0-7 G17,0,IQeco32 Iss2.42 Feb  3 2021,#N/A#,3
+480,IRR,IP172.16.5.5,22,IRR IQEcos,18,AHU-L-0 - FCU-0-8 G16,0,IQeco32 Iss2.42 Feb  3 2021,#N/A#,3
+480,IRR,IP172.16.5.5,22,IRR IQEcos,19,AHU-L-0 - FCU-0-9 G15,0,IQeco32 Iss2.42 Feb  3 2021,#N/A#,3
+480,IRR,IP172.16.5.5,22,IRR IQEcos,20,AHU-L-0 - FCU-0-10 G14,0,IQeco32 Iss2.42 Feb  3 2021,#N/A#,3
+480,IRR,IP172.16.5.5,22,IRR IQEcos,21,AHU-L-0 - FCU-0-11 G26,0,IQeco32 Iss2.42 Feb  3 2021,#N/A#,3
+480,IRR,IP172.16.5.5,22,IRR IQEcos,22,AHU-L-0 - FCU-0-12A G19,0,IQeco32 Iss2.42 Feb  3 2021,#N/A#,3
+480,IRR,IP172.16.5.5,22,IRR IQEcos,23,AHU-L-0 - FCU-0-12B G19,0,IQeco32 Iss2.42 Feb  3 2021,#N/A#,3
+480,IRR,IP172.16.5.5,22,IRR IQEcos,24,AHU-L-0 - FCU-0-12C G19,0,IQeco32 Iss2.42 Feb  3 2021,#N/A#,3
+480,IRR,IP172.16.5.5,22,IRR IQEcos,25,AHU-L-0 - FCU-0-13A G27,0,IQeco32 Iss2.42 Feb  3 2021,#N/A#,3
+480,IRR,IP172.16.5.5,22,IRR IQEcos,26,AHU-L-0 - FCU-0-13B G27,0,IQeco32 Iss2.42 Feb  3 2021,#N/A#,3
+480,IRR,IP172.16.5.5,22,IRR IQEcos,27,AHU-WU-0 - FCU-0-14 G13,0,IQeco32 Iss2.42 Feb  3 2021,#N/A#,3
+480,IRR,IP172.16.5.5,22,IRR IQEcos,28,AHU-WU-0 - FCU-0-15 G12,0,IQeco32 Iss2.42 Feb  3 2021,#N/A#,3
+480,IRR,IP172.16.5.5,22,IRR IQEcos,29,AHU-WU-0 - FCU-0-16 G11,0,IQeco32 Iss2.42 Feb  3 2021,#N/A#,3
+480,IRR,IP172.16.5.5,22,IRR IQEcos,30,AHU-WU-0 - FCU-0-17A G10,0,IQeco32 Iss2.42 Feb  3 2021,#N/A#,3
+480,IRR,IP172.16.5.5,22,IRR IQEcos,31,AHU-WU-0 - FCU-0-17B G10,0,IQeco32 Iss2.42 Feb  3 2021,#N/A#,3
+480,IRR,IP172.16.5.5,22,IRR IQEcos,32,AHU-WU-0 - FCU-0-17C G10,0,IQeco32 Iss2.42 Feb  3 2021,#N/A#,3
+480,IRR,IP172.16.5.5,22,IRR IQEcos,33,AHU-WU-0 - FCU-0-17D G10,0,IQeco38 Iss2.42 Feb  3 2021,#N/A#,3
+480,IRR,IP172.16.5.5,22,IRR IQEcos,34,AHU-WU-0 - FCU-0-18 GZ40,0,IQeco32 Iss2.42 Feb  3 2021,#N/A#,3
+480,IRR,IP172.16.5.5,22,IRR IQEcos,35,FCU-0-19A 19B RmG.Z56,0,IQeco32 Iss2.42 Feb  3 2021,#N/A#,3
+480,IRR,IP172.16.5.5,22,IRR IQEcos,36,AHU-C-1 HB01 HB02,0,IQeco38 Iss2.42 Feb  3 2021,#N/A#,3
+480,IRR,IP172.16.5.5,22,IRR IQEcos,37,AHU L0 HB03 HB04,0,IQeco38 Iss2.42 Feb  3 2021,#N/A#,3
+480,IRR,IP172.16.5.5,22,IRR IQEcos,38,L0 Trench Heating TH-0-1 2 3,0,IQeco32 Iss2.42 Feb  3 2021,#N/A#,3
+480,IRR,IP172.16.5.5,22,IRR IQEcos,39,L0 Trench Heating TH-0-4 5 6,0,IQeco32 Iss2.42 Feb  3 2021,#N/A#,3
+480,IRR,IP172.16.5.5,22,IRR IQEcos,40,L0 Trench Heating TH-0-7 8 9,0,IQeco32 Iss2.42 Feb  3 2021,#N/A#,3
+480,IRR,IP172.16.5.5,22,IRR IQEcos,41,AHU-WU-0 - G10 VAVs,0,IQeco38 Iss2.42 Feb  3 2021,#N/A#,3
+480,IRR,IP172.16.5.5,22,IRR IQEcos,42,AHU-L-0 - Room G19 VAV-0-4 5,0,IQeco38 Iss2.42 Feb  3 2021,#N/A#,3
+480,IRR,IP172.16.5.5,22,IRR IQEcos,43,AHU-L-0 - Rm G14-19 VAV0-11 12,0,IQeco38 Iss2.42 Feb  3 2021,#N/A#,3
+480,IRR,IP172.16.5.5,23,IRR IQEcos,4,4,0,No Reply,#N/A#,3
+480,IRR,IP172.16.5.5,23,IRR IQEcos,5,5,0,No Reply,#N/A#,3
+480,IRR,IP172.16.5.5,23,IRR IQEcos,6,6,0,No Reply,#N/A#,3
+480,IRR,IP172.16.5.5,23,IRR IQEcos,7,7,0,No Reply,#N/A#,3
+480,IRR,IP172.16.5.5,23,IRR IQEcos,9,MSCP06 4NC,0,IQ4NC0 Iss4.32 Feb 26 2021,172.16.5.61,1
+480,IRR,IP172.16.5.5,23,IRR IQEcos,11,AHU-WU-1 - FCU-1-1A 1.21,0,IQeco32 Iss2.42 Feb  3 2021,#N/A#,3
+480,IRR,IP172.16.5.5,23,IRR IQEcos,12,AHU-WU-1 - FCU-1-1B 1.21,0,IQeco32 Iss2.42 Feb  3 2021,#N/A#,3
+480,IRR,IP172.16.5.5,23,IRR IQEcos,13,AHU-WU-1 - FCU-1-2 1.22,0,IQeco32 Iss2.42 Feb  3 2021,#N/A#,3
+480,IRR,IP172.16.5.5,23,IRR IQEcos,14,AHU-WU-1 - FCU-1-3 1.23,0,IQeco32 Iss2.42 Feb  3 2021,#N/A#,3
+480,IRR,IP172.16.5.5,23,IRR IQEcos,15,AHU-WU-1 - FCU-1-4 1.20,0,IQeco32 Iss2.42 Feb  3 2021,#N/A#,3
+480,IRR,IP172.16.5.5,23,IRR IQEcos,16,FCU-1-5A 5B Rm 1.Z49,0,IQeco32 Iss2.42 Feb  3 2021,#N/A#,3
+480,IRR,IP172.16.5.5,23,IRR IQEcos,17,AHU-WU-1 HB01 HB02 HB03,0,IQeco38 Iss2.42 Feb  3 2021,#N/A#,3
+480,IRR,IP172.16.5.5,23,IRR IQEcos,18,L1 Trench Heating TH-1-1 2,0,IQeco32 Iss2.42 Feb  3 2021,#N/A#,3
+480,IRR,IP172.16.5.5,23,IRR IQEcos,19,L1 Trench Heating TH-1-3 4,0,IQeco32 Iss2.42 Feb  3 2021,#N/A#,3
+480,IRR,IP172.16.5.5,23,IRR IQEcos,20,AHU-WU-1 - FCU-1-6 1.21A,0,IQeco38 Iss2.42 Feb  3 2021,#N/A#,3
+480,IRR,IP172.16.5.5,23,IRR IQEcos,21,AHU-WU-1 - FCU-1-7 1.21B,0,IQeco38 Iss2.42 Feb  3 2021,#N/A#,3
+480,IRR,IP172.16.5.5,23,IRR IQEcos,22,AHU-WU-1 - FCU-1-8 1.21C,0,IQeco38 Iss2.42 Feb  3 2021,#N/A#,3
+480,IRR,IP172.16.5.5,23,IRR IQEcos,126,IRR IQEcos,0,IQ4NCBINC Iss8.10 Mar 0,#N/A#,3
+480,IRR,IP172.16.5.5,25,IRR IQEcos,18,AHU-L-3 - FCU-3-8A Rm3.47,0,IQeco32 Iss2.42 Feb  3 2021,#N/A#,3
+480,IRR,IP172.16.5.5,25,IRR IQEcos,19,AHU-L-3 - FCU-3-8B Rm3.47,0,IQeco32 Iss2.42 Feb  3 2021,#N/A#,3
+480,IRR,IP172.16.5.5,25,IRR IQEcos,20,AHU-L-3 - FCU-3-8C Rm3.47,0,IQeco32 Iss2.42 Feb  3 2021,#N/A#,3
+480,IRR,IP172.16.5.5,25,IRR IQEcos,21,AHU-L-3 - FCU-3-8D Rm3.47,0,IQeco32 Iss2.42 Feb  3 2021,#N/A#,3
+480,IRR,IP172.16.5.5,25,IRR IQEcos,22,AHU-L-3 - FCU-3-9 Rm3.56,0,IQeco32 Iss2.42 Feb  3 2021,#N/A#,3
+480,IRR,IP172.16.5.5,25,IRR IQEcos,23,AHU-L-3 - FCU-3-10 Rm3.57,0,IQeco32 Iss2.42 Feb  3 2021,#N/A#,3
+480,IRR,IP172.16.5.5,25,IRR IQEcos,24,AHU-L-3 - FCU-3-11A Rm3.58,0,IQeco32 Iss2.42 Feb  3 2021,#N/A#,3
+480,IRR,IP172.16.5.5,25,IRR IQEcos,25,AHU-L-3 - FCU-3-11B Rm3.58,0,IQeco32 Iss2.42 Feb  3 2021,#N/A#,3
+480,IRR,IP172.16.5.5,25,IRR IQEcos,26,AHU-WU-3 - FCU-3-12 Rm3.46,0,IQeco32 Iss2.42 Feb  3 2021,#N/A#,3
+480,IRR,IP172.16.5.5,25,IRR IQEcos,27,AHU-WU-3 - FCU-3-13 Rm3.45,0,IQeco32 Iss2.42 Feb  3 2021,#N/A#,3
+480,IRR,IP172.16.5.5,25,IRR IQEcos,28,AHU-WU-3 - FCU-3-14 Rm3.44,0,IQeco32 Iss2.42 Feb  3 2021,#N/A#,3
+480,IRR,IP172.16.5.5,25,IRR IQEcos,29,AHU-WU-3 - FCU-3-15A Rm3.43,0,IQeco32 Iss2.42 Feb  3 2021,#N/A#,3
+480,IRR,IP172.16.5.5,25,IRR IQEcos,30,AHU-WU-3 - FCU-3-15B Rm3.43,0,IQeco32 Iss2.42 Feb  3 2021,#N/A#,3
+480,IRR,IP172.16.5.5,25,IRR IQEcos,31,AHU-WU-3 - FCU-3-15C Rm3.43,0,IQeco32 Iss2.42 Feb  3 2021,#N/A#,3
+480,IRR,IP172.16.5.5,25,IRR IQEcos,32,AHU-WU-3 - FCU-3-15D Rm3.43,0,IQeco32 Iss2.42 Feb  3 2021,#N/A#,3
+480,IRR,IP172.16.5.5,25,IRR IQEcos,33,AHU-WU-3 - FCU-3-16 Rm3.40,0,IQeco32 Iss2.42 Feb  3 2021,#N/A#,3
+480,IRR,IP172.16.5.5,25,IRR IQEcos,34,AHU-WU-3 - FCU-3-17 Rm3.41,0,IQeco32 Iss2.42 Feb  3 2021,#N/A#,3
+480,IRR,IP172.16.5.5,25,IRR IQEcos,35,AHU-WU-3 - FCU-3-18 Rm3.42,0,IQeco32 Iss2.42 Feb  3 2021,#N/A#,3
+480,IRR,IP172.16.5.5,25,IRR IQEcos,36,FCU-3-20A 20B Rm3.Z49,0,IQeco32 Iss2.42 Feb  3 2021,#N/A#,3
+480,IRR,IP172.16.5.5,25,IRR IQEcos,37,AHU-C-1 HB01 HB02 AHU-C-2 HB03,0,IQeco38 Iss2.42 Feb  3 2021,#N/A#,3
+480,IRR,IP172.16.5.5,25,IRR IQEcos,38,L3 Trench Heating TH-3-1 2 3,0,IQeco32 Iss2.42 Feb  3 2021,#N/A#,3
+480,IRR,IP172.16.5.5,25,IRR IQEcos,39,L3 Trench Heating TH-3-4 5 6,0,IQeco32 Iss2.42 Feb  3 2021,#N/A#,3
+480,IRR,IP172.16.5.5,25,IRR IQEcos,40,L3 Trench Heating TH-3-7 8 9,0,IQeco32 Iss2.42 Feb  3 2021,#N/A#,3
+480,IRR,IP172.16.5.5,25,IRR IQEcos,41,L3 Trench Heating TH-3-10 11,0,IQeco32 Iss2.42 Feb  3 2021,#N/A#,3
+480,IRR,IP172.16.5.5,25,IRR IQEcos,42,L3 Trench Heating TH-3-12 13,0,IQeco32 Iss2.42 Feb  3 2021,#N/A#,3
+480,IRR,IP172.16.5.5,25,IRR IQEcos,43,AHU-WU-3 - 3.43 VAVs,0,IQeco38 Iss2.42 Feb  3 2021,#N/A#,3
+480,IRR,IP172.16.5.5,25,IRR IQEcos,44,AHU-L-3 - VAV-0-6 7 Rm3.47,0,IQeco38 Iss2.42 Feb  3 2021,#N/A#,3
+480,IRR,IP172.16.5.5,25,IRR IQEcos,45,AHU-L-3 - VAV0-10 11 14 Rm3.58,0,IQeco38 Iss2.42 Feb  3 2021,#N/A#,3
+480,IRR,IP172.16.5.5,25,IRR IQEcos,126,IRR IQEcos,0,IQ4NCBINC Iss8.10 Mar 0,#N/A#,3
+480,IRR,IP172.16.5.5,24,IRR IQEcos,4,4,0,No Reply,#N/A#,3
+480,IRR,IP172.16.5.5,24,IRR IQEcos,5,5,0,No Reply,#N/A#,3
+480,IRR,IP172.16.5.5,24,IRR IQEcos,6,6,0,No Reply,#N/A#,3
+480,IRR,IP172.16.5.5,24,IRR IQEcos,7,7,0,No Reply,#N/A#,3
+480,IRR,IP172.16.5.5,24,IRR IQEcos,9,MSCP05 4NC,0,IQ4NC0 Iss4.32 Feb 26 2021,172.16.5.63,1
+480,IRR,IP172.16.5.5,24,IRR IQEcos,11,AHU-WU-2 - FCU-2-1A 2.41,0,IQeco32 Iss2.42 Feb  3 2021,#N/A#,3
+480,IRR,IP172.16.5.5,21,INC,15,MSCP04 L3 Vent,0,IQ4E96 Iss4.31 Apr 28 2020,172.16.5.65,1
+480,IRR,IP172.16.5.5,24,IRR IQEcos,24,AHU-WU-2 - FCU-2-12 2.56,0,IQeco38 Iss2.42 Feb  3 2021,#N/A#,3
+480,IRR,IP172.16.5.5,24,IRR IQEcos,25,AHU-WU-2 - FCU-2-13 2.57,0,�������������� Iss2.42 Feb  3 2021,#N/A#,3
+480,IRR,IP172.16.5.5,24,IRR IQEcos,26,AHU-WU-2 HB01 HB02 HB03,0,IQeco38 Iss2.42 Feb  3 2021,#N/A#,3
+480,IRR,IP172.16.5.5,24,IRR IQEcos,27,L2 Trench Heating TH-2-1 2,0,IQeco32 Iss2.42 Feb  3 2021,#N/A#,3
+480,IRR,IP172.16.5.5,24,IRR IQEcos,28,L2 Trench Heating TH-2-3 4,0,IQeco32 Iss2.42 Feb  3 2021,#N/A#,3
+480,IRR,IP172.16.5.5,24,IRR IQEcos,29,L2 Trench Heating TH-2-5 8,0,IQeco38 Iss2.31 Mar 24 2017,#N/A#,3
+480,IRR,IP172.16.5.5,24,IRR IQEcos,30,L2 Trench Heating TH-2-1 2,0,IQeco38 Iss2.31 Mar 24 2017,#N/A#,3
+480,IRR,IP172.16.5.5,24,IRR IQEcos,126,IRR IQEcos,0,IQ4NCBINC Iss8.10 Mar 0,#N/A#,3
+480,IRR,IP172.16.5.5,22,IRR IQEcos,126,IRR IQEcos,0,IQ4NCBINC Iss8.10 Mar 0,#N/A#,3
+480,IRR,IP172.16.5.5,21,INC,16,MSCP05 L2 Vent,0,IQ4E64 Iss4.32 Feb 26 2021,172.16.5.62,1
+480,IRR,IP172.16.5.5,21,INC,17,MSCP06 L1 Vent,0,IQ4E64 Iss4.32 Feb 26 2021,172.16.5.60,1
+480,IRR,IP172.16.5.5,21,INC,18,MSCP07 L0 Vent,0,IQ4E128 Iss4.32 Feb 26 2021,172.16.5.57,1
+480,IRR,IP172.16.5.5,21,INC,19,GMP MSCP01 L4,0,IQ4E96 Iss4.32 Feb 26 2021,172.16.5.69,1
+480,IRR,IP172.16.5.5,21,INC,20,Catapult AHU,0,IQ4E96 Iss4.32 Feb 26 2021,172.16.5.64,1
+480,IRR,IP172.16.5.5,21,INC,101,101,0,No Reply,#N/A#,3
+480,IRR,IP172.16.5.5,21,INC,102,IQView8,0,0,#N/A#,3
+480,IRR,IP172.16.5.5,21,INC,103,103,0,No Reply,#N/A#,3
+480,IRR,IP172.16.5.5,21,INC,104,104,0,No Reply,#N/A#,3
+480,IRR,IP172.16.5.5,21,INC,105,105,0,No Reply,#N/A#,3
+480,IRR,IP172.16.5.5,21,INC,106,106,0,No Reply,#N/A#,3
+480,IRR,IP172.16.5.5,21,INC,107,107,0,No Reply,#N/A#,3
+480,IRR,IP172.16.5.5,21,INC,108,108,0,No Reply,#N/A#,3
+480,IRR,IP172.16.5.5,21,INC,110,110,0,No Reply,#N/A#,3
+480,IRR,IP172.16.5.5,21,INC,119,119,0,No Reply,#N/A#,3
+480,IRR,IP172.16.5.5,21,INC,126,INC,0,No Reply,#N/A#,3
+480,IRR,IP172.16.5.5,5,IRR IQEcos,4,4,0,No Reply,#N/A#,3
+480,IRR,IP172.16.5.5,5,IRR IQEcos,5,5,0,No Reply,#N/A#,3
+480,IRR,IP172.16.5.5,5,IRR IQEcos,6,6,0,No Reply,#N/A#,3
+480,IRR,IP172.16.5.5,5,IRR IQEcos,7,7,0,No Reply,#N/A#,3
+480,IRR,IP172.16.5.5,5,IRR IQEcos,9,CP201 4NC,0,IQ4NC0 Iss4.33 Oct 12 2021,172.16.5.18,1
+480,IRR,IP172.16.5.5,5,IRR IQEcos,11,AHU201 - VAV 201-202 Room 1.Z2,0,IQeco38 Iss2.31 Mar 24 2017,#N/A#,3
+480,IRR,IP172.16.5.5,22,IRR IQEcos,4,4,0,No Reply,#N/A#,3
+480,IRR,IP172.16.5.5,22,IRR IQEcos,5,5,0,No Reply,#N/A#,3
+480,IRR,IP172.16.5.5,22,IRR IQEcos,6,6,0,No Reply,#N/A#,3
+480,IRR,IP172.16.5.5,8,IRR IQEcos,22,AHU402 - CAV 424-423 Room 3.23,0,IQeco38 Iss2.31 Mar 24 2017,#N/A#,0
+480,IRR,IP172.16.5.5,0,0,15,15,0,?,#N/A#,0
+480,IRR,IP172.16.5.5,0,0,9,9,0,?,#N/A#,0
+480,IRR,IP172.16.5.5,4,INC,0,0,0,?,#N/A#,0
+397,ISG Suite,IP172.16.6.242,38,INC,126,INC,0,No Reply,#N/A#,0
+397,ISG Suite,IP172.16.6.242,38,INC,22,IQView,0,0,#N/A#,0
+397,ISG Suite,IP172.16.6.242,38,INC,61,963 v3.62,0,0,#N/A#,0
+397,ISG Suite,IP172.16.6.242,38,INC,11,MSCP1 - Vent Control Panel,0,IQ3xcite96 Iss2.34 Jun 13 2011,172.16.6.242,1
+397,ISG Suite,IP172.16.6.242,38,INC,1,1,0,?,#N/A#,0
+472,KB Ashworth,IP172.16.5.1,14,INC,101,UoE,0,0,#N/A#,3
+472,KB Ashworth,IP172.16.5.1,14,INC,11,Ashworth Lab,0,IQ422-12 Iss4.34 Jul 21 2022,172.16.5.1,2
+472,KB Ashworth,IP172.16.5.1,14,INC,0,0,0,?,#N/A#,0
+472,KB Ashworth,IP172.16.5.1,14,INC,126,INC,0,No Reply,#N/A#,3
+472,KB Ashworth,IP172.16.5.1,14,INC,1,1,0,?,#N/A#,0
+77,KB Biochar,IP172.16.4.26,81,INC,0,0,0,?,#N/A#,3
+77,KB Biochar,IP172.16.4.26,81,INC,6,963 v3.73,0,0,#N/A#,3
+77,KB Biochar,IP172.16.4.26,81,INC,7,7,0,No Reply,#N/A#,3
+77,KB Biochar,IP172.16.4.26,81,INC,1,1,0,?,#N/A#,3
+77,KB Biochar,IP172.16.4.26,81,INC,5,UoE,0,0,#N/A#,3
+77,KB Biochar,IP172.16.4.26,81,INC,21,DHWS Panel,0,IQ4E128 Iss4.31 Apr 28 2020,172.16.4.26,2
+77,KB Biochar,IP172.16.4.26,81,INC,22,VENT AND FUME PANEL,0,IQ3xcite96 Iss3.11 Feb 04 2016,172.16.4.27,1
+77,KB Biochar,IP172.16.4.26,81,INC,102,102,0,No Reply,#N/A#,3
+77,KB Biochar,IP172.16.4.26,81,INC,126,INC,0,No Reply,#N/A#,3
+410,KB Darwin Greenhouse,IP172.16.4.152,13,INC,22,Waddington Grodome,0,IQ4E192 Iss3.50 Jan 16 2018,172.16.4.220,1
+410,KB Darwin Greenhouse,IP172.16.4.152,13,INC,108,108,0,No Reply,#N/A#,3
+410,KB Darwin Greenhouse,IP172.16.4.152,13,INC,109,109,0,No Reply,#N/A#,3
+410,KB Darwin Greenhouse,IP172.16.4.152,13,INC,23,IQView8,0,0,#N/A#,3
+410,KB Darwin Greenhouse,IP172.16.4.152,13,INC,107,107,0,No Reply,#N/A#,3
+410,KB Darwin Greenhouse,IP172.16.4.152,13,INC,21,IQView8,0,0,#N/A#,3
+410,KB Darwin Greenhouse,IP172.16.4.152,13,INC,102,102,0,No Reply,#N/A#,3
+410,KB Darwin Greenhouse,IP172.16.4.152,13,INC,103,103,0,No Reply,#N/A#,3
+410,KB Darwin Greenhouse,IP172.16.4.152,13,INC,126,INC,0,No Reply,#N/A#,3
+410,KB Darwin Greenhouse,IP172.16.4.152,13,INC,101,963 v3.62,0,0,#N/A#,3
+410,KB Darwin Greenhouse,IP172.16.4.152,13,INC,1,1,0,?,#N/A#,3
+410,KB Darwin Greenhouse,IP172.16.4.152,13,INC,0,0,0,?,#N/A#,3
+410,KB Darwin Greenhouse,IP172.16.4.152,13,INC,11,Grodome,1732,IQ4E192 Iss3.40 May 19 2016,172.16.4.152,2
+33,KB House,IP172.16.4.175,77,INC,101,101,0,No Reply,#N/A#,3
+33,KB House,IP172.16.4.175,77,INC,99,99,0,No Reply,#N/A#,3
+33,KB House,IP172.16.4.175,77,INC,25,KB House CP1 Coffee Shop,0,IQ4E16 Iss4.34 Jul 21 2022,172.16.4.176,1
+33,KB House,IP172.16.4.175,77,INC,85,85,0,No Reply,#N/A#,3
+33,KB House,IP172.16.4.175,77,INC,110,963 v3.73,0,0,#N/A#,3
+33,KB House,IP172.16.4.175,1,1,63,63,0,?,#N/A#,0
+33,KB House,IP172.16.4.175,81,81,21,21,0,?,#N/A#,0
+33,KB House,IP172.16.4.175,1,1,89,89,0,?,#N/A#,0
+33,KB House,IP172.16.4.175,35,35,21,21,0,?,#N/A#,0
+33,KB House,IP172.16.4.175,1,1,11,11,0,?,#N/A#,0
+33,KB House,IP172.16.4.175,32,32,21,21,0,?,#N/A#,0
+33,KB House,IP172.16.4.175,1,1,62,62,0,?,#N/A#,0
+33,KB House,IP172.16.4.175,5,5,97,97,0,?,#N/A#,0
+33,KB House,IP172.16.4.175,1,1,50,50,0,?,#N/A#,0
+33,KB House,IP172.16.4.175,34,34,29,29,0,?,#N/A#,0
+33,KB House,IP172.16.4.175,5,5,96,96,0,?,#N/A#,0
+33,KB House,IP172.16.4.175,6,6,11,11,0,?,#N/A#,0
+33,KB House,IP172.16.4.175,1,1,57,57,0,?,#N/A#,0
+33,KB House,IP172.16.4.175,1,1,39,39,0,?,#N/A#,0
+33,KB House,IP172.16.4.175,77,INC,24,KB House Extends,0,IQ422-12 Iss4.34 Jul 21 2022,172.16.4.10,1
+33,KB House,IP172.16.4.175,77,INC,109,109,0,No Reply,#N/A#,3
+33,KB House,IP172.16.4.175,77,INC,108,UoE,0,0,#N/A#,3
+33,KB House,IP172.16.4.175,77,INC,1,1,0,?,#N/A#,3
+33,KB House,IP172.16.4.175,77,INC,0,0,0,?,#N/A#,3
+33,KB House,IP172.16.4.175,77,INC,21,KB House 1,403,IQ4E96 Iss4.34 Jul 21 2022,172.16.4.175,2
+33,KB House,IP172.16.4.175,77,INC,22,KB House 2,403,IQ4E96 Iss4.34 Jul 21 2022,172.16.4.174,1
+33,KB House,IP172.16.4.175,77,INC,126,INC,403,No Reply,#N/A#,3
+396,KB Mary Bruck,IP172.16.4.128,15,INC,101,963 v3.62,0,0,#N/A#,0
+396,KB Mary Bruck,IP172.16.4.128,15,INC,126,INC,0,No Reply,#N/A#,0
+396,KB Mary Bruck,IP172.16.4.128,15,INC,11,Mary Bruck Building,0,IQ3xcite96 Iss3.07 Apr 25 2014,172.16.4.128,1
+396,KB Mary Bruck,IP172.16.4.128,15,INC,1,1,0,?,#N/A#,0
+454,KB Murchison House,IP172.16.4.226,11,vIQ Lan,119,119,0,No Reply,#N/A#,3
+454,KB Murchison House,IP172.16.4.226,11,vIQ Lan,126,vIQ Lan,0,VirtualIQ v1.11 Feb 17,#N/A#,3
+454,KB Murchison House,IP172.16.4.226,12,vIQ Lan,4,4,0,No Reply,#N/A#,3
+454,KB Murchison House,IP172.16.4.226,1,INC,18,MSCP8 3rd Floor AHU Cafe,0,IQ4E64 Iss3.50 Jan 16 2018,172.16.4.233,1
+454,KB Murchison House,IP172.16.4.226,1,INC,19,MSCP9 Roof AHU01 02 4B,0,IQ4E32 Iss3.50 Jan 16 2018,172.16.4.234,1
+454,KB Murchison House,IP172.16.4.226,1,INC,101,963 v3.62,0,0,#N/A#,3
+454,KB Murchison House,IP172.16.4.226,1,INC,102,102,0,No Reply,#N/A#,3
+454,KB Murchison House,IP172.16.4.226,1,INC,103,IQView8,0,0,#N/A#,3
+454,KB Murchison House,IP172.16.4.226,1,INC,119,119,0,No Reply,#N/A#,3
+454,KB Murchison House,IP172.16.4.226,1,INC,126,INC,0,No Reply,#N/A#,3
+454,KB Murchison House,IP172.16.4.226,11,vIQ Lan,4,4,0,No Reply,#N/A#,3
+454,KB Murchison House,IP172.16.4.226,1,INC,0,0,0,?,#N/A#,0
+454,KB Murchison House,IP172.16.4.226,1,INC,13,MSCP3 LG Z22 AHU09,0,IQ412 Iss3.50 Jan 16 2018,172.16.4.228,1
+454,KB Murchison House,IP172.16.4.226,1,INC,17,MSCP7 2nd Floor AHU04A,0,IQ4E32 Iss3.50 Jan 16 2018,172.16.4.232,1
+454,KB Murchison House,IP172.16.4.226,12,vIQ Lan,119,119,0,No Reply,#N/A#,3
+454,KB Murchison House,IP172.16.4.226,12,vIQ Lan,126,vIQ Lan,0,VirtualIQ v1.11 Feb 17,#N/A#,3
+454,KB Murchison House,IP172.16.4.226,1,INC,15,MSCP5 LGZ12 AHU06 &CW Tank,0,IQ4E32 Iss3.50 Jan 16 2018,172.16.4.230,1
+454,KB Murchison House,IP172.16.4.226,12,vIQ Lan,15,AHU09,0,VirtualIQ v1.11 Feb 17,172.16.4.235,1
+454,KB Murchison House,IP172.16.4.226,12,vIQ Lan,14,AHU08,0,VirtualIQ v1.11 Feb 17,172.16.4.235,1
+454,KB Murchison House,IP172.16.4.226,12,vIQ Lan,13,AHU07,0,VirtualIQ v1.11 Feb 17,172.16.4.235,1
+454,KB Murchison House,IP172.16.4.226,12,vIQ Lan,12,AHU06,0,VirtualIQ v1.11 Feb 17,172.16.4.235,1
+454,KB Murchison House,IP172.16.4.226,11,vIQ Lan,15,AHU04a Library,0,VirtualIQ v1.11 Feb 17,172.16.4.242,1
+454,KB Murchison House,IP172.16.4.226,11,vIQ Lan,14,AHU04b Library,0,VirtualIQ v1.11 Feb 17,172.16.4.242,1
+454,KB Murchison House,IP172.16.4.226,11,vIQ Lan,13,AHU05,0,VirtualIQ v1.11 Feb 17,172.16.4.242,1
+454,KB Murchison House,IP172.16.4.226,11,vIQ Lan,12,AHU02 South Core,0,VirtualIQ v1.11 Feb 17,172.16.4.242,1
+454,KB Murchison House,IP172.16.4.226,11,vIQ Lan,11,AHU01 North Core,0,VirtualIQ v1.11 Feb 17,172.16.4.242,1
+454,KB Murchison House,IP172.16.4.226,1,INC,12,MSCP2 LG Z5 AHU08,0,IQ412 Iss3.50 Jan 16 2018,172.16.4.227,1
+454,KB Murchison House,IP172.16.4.226,1,INC,14,MSCP4 LG Z16 AHU07,0,IQ412 Iss3.50 Jan 16 2018,172.16.4.229,1
+454,KB Murchison House,IP172.16.4.226,1,INC,11,MSCP1 LG Plantroom,0,IQ4E96 Iss3.50 Jan 16 2018,172.16.4.226,2
+454,KB Murchison House,IP172.16.4.226,1,INC,16,MSCP6 1st Floor AHU05,0,IQ4E64 Iss3.50 Jan 16 2018,172.16.4.231,1
+454,KB Murchison House,IP172.16.4.226,1,INC,1,1,0,?,#N/A#,0
+454,KB Murchison House,IP172.16.4.226,1,INC,20,Level 1 Lab Areas MSCP,0,IQ4E64 Iss4.34 Jul 21 2022,172.16.4.190,1
+352,KB Nursery,IP172.16.4.126,12,INC,5,963 v3.73,0,0,#N/A#,3
+352,KB Nursery,IP172.16.4.126,12,INC,11,Nursery Control Panel,0,IQ3xcite96 Iss3.06 Jan 30 2014,172.16.4.126,1
+352,KB Nursery,IP172.16.4.126,12,INC,126,INC,0,No Reply,#N/A#,3
+352,KB Nursery,IP172.16.4.126,12,INC,1,1,0,?,#N/A#,0
+34,KB Rogerland Building,IP172.16.4.137,76,INC,16,MSCP5,0,IQ3xcite96 Iss3.11 Feb 04 2016,172.16.4.141,1
+34,KB Rogerland Building,IP172.16.4.137,76,INC,66,66,0,No Reply,#N/A#,0
+34,KB Rogerland Building,IP172.16.4.137,76,INC,68,68,0,No Reply,#N/A#,0
+34,KB Rogerland Building,IP172.16.4.137,76,INC,1,1,0,?,#N/A#,0
+34,KB Rogerland Building,IP172.16.4.137,76,INC,126,INC,0,No Reply,#N/A#,3
+34,KB Rogerland Building,IP172.16.4.137,76,INC,105,105,0,No Reply,#N/A#,3
+34,KB Rogerland Building,IP172.16.4.137,76,INC,104,104,0,No Reply,#N/A#,3
+34,KB Rogerland Building,IP172.16.4.137,76,INC,103,UoE,0,0,#N/A#,3
+34,KB Rogerland Building,IP172.16.4.137,76,INC,102,963 v3.73,0,0,#N/A#,3
+34,KB Rogerland Building,IP172.16.4.137,76,INC,101,963 v3.62,0,0,#N/A#,3
+34,KB Rogerland Building,IP172.16.4.137,76,INC,19,IQView8,0,0,#N/A#,3
+34,KB Rogerland Building,IP172.16.4.137,76,INC,18,IQView8,0,0,#N/A#,3
+34,KB Rogerland Building,IP172.16.4.137,76,INC,17,MSCP6,0,IQ3xcite96 Iss3.11 Feb 04 2016,172.16.4.142,1
+34,KB Rogerland Building,IP172.16.4.137,76,INC,15,MSCP4,0,IQ3xcite96 Iss3.11 Feb 04 2016,172.16.4.140,1
+34,KB Rogerland Building,IP172.16.4.137,76,INC,14,MSCP3,0,IQ3xcite96 Iss3.11 Feb 04 2016,172.16.4.139,1
+34,KB Rogerland Building,IP172.16.4.137,76,INC,13,MSCP2-2,0,IQ3xcite96 Iss3.11 Feb 04 2016,172.16.4.138,1
+34,KB Rogerland Building,IP172.16.4.137,76,INC,12,MSCP2-1,0,IQ3xcite96 Iss3.11 Feb 04 2016,172.16.4.137,1
+34,KB Rogerland Building,IP172.16.4.137,76,INC,11,MSCP1,0,IQ4E128 Iss4.31 Apr 28 2020,172.16.4.136,2
+34,KB Rogerland Building,IP172.16.4.137,76,INC,111,111,0,No Reply,#N/A#,0
+31,KB Sanderson Building,IP172.16.5.2,32,INC,7,7,0,No Reply,#N/A#,0
+31,KB Sanderson Building,IP172.16.5.2,32,INC,35,35,0,No Reply,#N/A#,0
+31,KB Sanderson Building,IP172.16.5.2,32,INC,101,101,0,No Reply,#N/A#,0
+31,KB Sanderson Building,IP172.16.5.2,32,INC,21,Sanderson Vent,403,IQ4E64 Iss4.33 Oct 12 2021,172.16.5.2,2
+31,KB Sanderson Building,IP172.16.5.2,32,INC,91,91,0,No Reply,#N/A#,0
+31,KB Sanderson Building,IP172.16.5.2,32,INC,126,INC,0,No Reply,#N/A#,3
+31,KB Sanderson Building,IP172.16.5.2,32,INC,5,UoE,0,0,#N/A#,3
+31,KB Sanderson Building,IP172.16.5.2,32,INC,6,963 v3.73,0,0,#N/A#,3
+31,KB Sanderson Building,IP172.16.5.2,32,INC,11,MSCP1 OS11,0,IQ3xcite96 Iss3.07 Apr 25 2014,172.16.5.3,1
+596,Kincaid Court,IP172.16.7.62,95,INC,62,DHWS Control Panel,0,IQ4E64 Iss3.44 Jan 16 2017,172.16.7.62,2
+596,Kincaid Court,IP172.16.7.62,95,INC,0,0,0,?,#N/A#,0
+596,Kincaid Court,IP172.16.7.62,95,INC,101,IQView8,0,0,#N/A#,0
+596,Kincaid Court,IP172.16.7.62,95,INC,102,963 v3.73,0,0,#N/A#,0
+596,Kincaid Court,IP172.16.7.62,95,INC,103,103,0,No Reply,#N/A#,0
+596,Kincaid Court,IP172.16.7.62,95,INC,126,INC,0,No Reply,#N/A#,0
+437,Lauriston Fire Station,IP172.16.7.64,89,INC,1,1,0,?,#N/A#,0
+437,Lauriston Fire Station,IP172.16.7.64,89,INC,126,INC,0,No Reply,#N/A#,3
+437,Lauriston Fire Station,IP172.16.7.64,89,INC,13,Fire Station CP2,0,IQ3xcite96 Iss3.10 Nov 19 2015,172.16.7.66,1
+437,Lauriston Fire Station,IP172.16.7.64,89,INC,12,Fire Station CP1A,0,IQ3xcite96 Iss3.10 Nov 19 2015,172.16.7.65,1
+437,Lauriston Fire Station,IP172.16.7.64,89,INC,11,Fire Station CP1,0,IQ3xcite96 Iss3.10 Nov 19 2015,172.16.7.64,1
+437,Lauriston Fire Station,IP172.16.7.64,89,INC,7,7,0,No Reply,#N/A#,3
+437,Lauriston Fire Station,IP172.16.7.64,89,INC,6,963 v3.62,0,0,#N/A#,3
+437,Lauriston Fire Station,IP172.16.7.64,89,INC,5,5,0,No Reply,#N/A#,3
+429,Lister LTC,IP172.16.7.57,28,INC,126,INC,0,No Reply,#N/A#,0
+429,Lister LTC,IP172.16.7.57,28,INC,102,102,0,No Reply,#N/A#,0
+429,Lister LTC,IP172.16.7.57,28,INC,101,963 v3.62,0,0,#N/A#,0
+429,Lister LTC,IP172.16.7.57,28,INC,1,1,0,?,#N/A#,0
+429,Lister LTC,IP172.16.7.57,28,INC,11,MCP1 Learn Teach Centre,0,IQ4E96 Iss3.44 Jan 16 2017,172.16.7.57,2
+429,Lister LTC,IP172.16.7.57,28,INC,0,0,0,?,#N/A#,0
+426,McEwan Hall,IP172.16.7.33,29,INC,0,0,0,?,#N/A#,0
+426,McEwan Hall,IP172.16.7.33,30,MSTP LAN 30,19,Auditorium FCU No.9,0,IQeco38 Iss2.30 Apr 26 2016,#N/A#,3
+426,McEwan Hall,IP172.16.7.33,30,MSTP LAN 30,18,Auditorium FCU No.8,0,IQeco38 Iss2.30 Apr 26 2016,#N/A#,3
+426,McEwan Hall,IP172.16.7.33,30,MSTP LAN 30,17,Auditorium FCU No.7,0,IQeco38 Iss2.30 Apr 26 2016,#N/A#,3
+426,McEwan Hall,IP172.16.7.33,30,MSTP LAN 30,16,Auditorium FCU No.6,0,IQeco38 Iss2.30 Apr 26 2016,#N/A#,3
+426,McEwan Hall,IP172.16.7.33,30,MSTP LAN 30,15,Auditorium FCU No.5,0,IQeco38 Iss2.30 Apr 26 2016,#N/A#,3
+426,McEwan Hall,IP172.16.7.33,30,MSTP LAN 30,14,Auditorium FCU No.4,0,IQeco38 Iss2.30 Apr 26 2016,#N/A#,3
+426,McEwan Hall,IP172.16.7.33,30,MSTP LAN 30,13,Auditorium FCU No.3,0,IQeco38 Iss2.30 Apr 26 2016,#N/A#,3
+426,McEwan Hall,IP172.16.7.33,30,MSTP LAN 30,12,Auditorium FCU No.2,0,IQeco38 Iss2.30 Apr 26 2016,#N/A#,3
+426,McEwan Hall,IP172.16.7.33,30,MSTP LAN 30,11,Auditorium FCU No.1,0,IQeco38 Iss2.30 Apr 26 2016,#N/A#,3
+426,McEwan Hall,IP172.16.7.33,30,MSTP LAN 30,9,Lan 30 4NC,0,IQ4NC0 Iss3.41 Aug  3 2016,172.16.7.51,1
+426,McEwan Hall,IP172.16.7.33,30,MSTP LAN 30,7,7,0,No Reply,#N/A#,3
+426,McEwan Hall,IP172.16.7.33,30,MSTP LAN 30,6,6,0,No Reply,#N/A#,3
+426,McEwan Hall,IP172.16.7.33,30,MSTP LAN 30,5,5,0,No Reply,#N/A#,3
+426,McEwan Hall,IP172.16.7.33,30,MSTP LAN 30,4,4,0,No Reply,#N/A#,3
+426,McEwan Hall,IP172.16.7.33,29,INC,126,INC,0,No Reply,#N/A#,3
+426,McEwan Hall,IP172.16.7.33,29,INC,103,103,0,No Reply,#N/A#,3
+426,McEwan Hall,IP172.16.7.33,29,INC,102,102,0,No Reply,#N/A#,3
+426,McEwan Hall,IP172.16.7.33,29,INC,101,963 v3.62,0,0,#N/A#,3
+426,McEwan Hall,IP172.16.7.33,29,INC,13,MSCP3 Level 4 Plantroom,0,IQ4E64 Iss4.33 Oct 12 2021,172.16.7.35,1
+426,McEwan Hall,IP172.16.7.33,29,INC,12,MSCP2 PavillionBasementPlantroom,0,IQ4E192 Iss3.41 Aug  3 2016,172.16.7.34,1
+426,McEwan Hall,IP172.16.7.33,29,INC,11,MSCP1 Basement,0,IQ4E192 Iss3.41 Aug  3 2016,172.16.7.33,2
+426,McEwan Hall,IP172.16.7.33,30,MSTP LAN 30,32,Foyer FCU No.2,0,IQeco38 Iss2.30 Apr 26 2016,#N/A#,3
+426,McEwan Hall,IP172.16.7.33,30,MSTP LAN 30,31,Foyer FCU No.1,0,IQeco38 Iss2.30 Apr 26 2016,#N/A#,3
+426,McEwan Hall,IP172.16.7.33,30,MSTP LAN 30,22,Auditorium FCU No.12,0,IQeco38 Iss2.30 Apr 26 2016,#N/A#,3
+426,McEwan Hall,IP172.16.7.33,30,MSTP LAN 30,21,Auditorium FCU No.11,0,IQeco38 Iss2.30 Apr 26 2016,#N/A#,3
+426,McEwan Hall,IP172.16.7.33,30,MSTP LAN 30,20,Auditorium FCU No.10,0,IQeco38 Iss2.30 Apr 26 2016,#N/A#,3
+426,McEwan Hall,IP172.16.7.33,29,INC,1,1,0,?,#N/A#,0
+426,McEwan Hall,IP172.16.7.33,29,INC,104,104,0,No Reply,#N/A#,0
+426,McEwan Hall,IP172.16.7.33,30,MSTP LAN 30,126,MSTP LAN 30,0,IQ4NCBINC Iss8.10 Mar 0,#N/A#,3
+426,McEwan Hall,IP172.16.7.33,30,MSTP LAN 30,39,Foyer FCU No.9,0,IQeco38 Iss2.30 Apr 26 2016,#N/A#,3
+426,McEwan Hall,IP172.16.7.33,30,MSTP LAN 30,38,Foyer FCU No.8,0,IQeco38 Iss2.30 Apr 26 2016,#N/A#,3
+426,McEwan Hall,IP172.16.7.33,30,MSTP LAN 30,37,Foyer FCU No.7,0,IQeco38 Iss2.30 Apr 26 2016,#N/A#,3
+426,McEwan Hall,IP172.16.7.33,30,MSTP LAN 30,36,Foyer FCU No.6,0,IQeco38 Iss2.30 Apr 26 2016,#N/A#,3
+426,McEwan Hall,IP172.16.7.33,30,MSTP LAN 30,35,Foyer FCU No.5,0,IQeco38 Iss2.30 Apr 26 2016,#N/A#,3
+426,McEwan Hall,IP172.16.7.33,30,MSTP LAN 30,34,Foyer FCU No.4,0,IQeco38 Iss2.30 Apr 26 2016,#N/A#,3
+426,McEwan Hall,IP172.16.7.33,30,MSTP LAN 30,33,Foyer FCU No.3,0,IQeco38 Iss2.30 Apr 26 2016,#N/A#,3
+10,McKenzie Medical Centre,IP172.16.7.222,1,1,75,75,0,?,#N/A#,0
+10,McKenzie Medical Centre,IP172.16.7.222,35,126,117,117,0,No Reply,#N/A#,0
+10,McKenzie Medical Centre,IP172.16.7.222,1,1,54,54,0,?,#N/A#,0
+10,McKenzie Medical Centre,IP172.16.7.222,4,4,81,81,0,?,#N/A#,0
+10,McKenzie Medical Centre,IP172.16.7.222,1,1,63,63,0,?,#N/A#,0
+10,McKenzie Medical Centre,IP172.16.7.222,6,6,12,12,0,?,#N/A#,0
+10,McKenzie Medical Centre,IP172.16.7.222,4,4,83,83,0,?,#N/A#,0
+10,McKenzie Medical Centre,IP172.16.7.222,37,37,14,14,0,?,#N/A#,0
+10,McKenzie Medical Centre,IP172.16.7.222,1,1,101,101,0,?,#N/A#,0
+10,McKenzie Medical Centre,IP172.16.7.222,1,1,95,95,0,?,#N/A#,0
+10,McKenzie Medical Centre,IP172.16.7.222,1,1,64,64,0,?,#N/A#,0
+10,McKenzie Medical Centre,IP172.16.7.222,1,1,97,97,0,?,#N/A#,0
+10,McKenzie Medical Centre,IP172.16.7.222,82,82,21,21,0,?,#N/A#,0
+10,McKenzie Medical Centre,IP172.16.7.222,21,21,21,21,0,?,#N/A#,0
+10,McKenzie Medical Centre,IP172.16.7.222,4,4,85,85,0,?,#N/A#,0
+10,McKenzie Medical Centre,IP172.16.7.222,4,4,88,88,0,?,#N/A#,0
+10,McKenzie Medical Centre,IP172.16.7.222,4,4,84,84,0,?,#N/A#,0
+10,McKenzie Medical Centre,IP172.16.7.222,4,4,86,86,0,?,#N/A#,0
+10,McKenzie Medical Centre,IP172.16.7.222,4,4,82,82,0,?,#N/A#,0
+10,McKenzie Medical Centre,IP172.16.7.222,35,126,5,5,0,No Reply,#N/A#,0
+10,McKenzie Medical Centre,IP172.16.7.222,6,6,11,11,0,?,#N/A#,0
+10,McKenzie Medical Centre,IP172.16.7.222,35,126,1,1,0,?,#N/A#,0
+10,McKenzie Medical Centre,IP172.16.7.222,81,81,21,21,0,?,#N/A#,0
+10,McKenzie Medical Centre,IP172.16.7.222,1,1,62,62,0,?,#N/A#,0
+10,McKenzie Medical Centre,IP172.16.7.222,35,126,21,Stuart Wing AHU,403,IQ422-12 Iss4.33 Oct 12 2021,172.16.7.222,0
+10,McKenzie Medical Centre,IP172.16.7.222,35,126,22,Levinson Boilers,403,IQ4E64 Iss4.33 Oct 12 2021,172.16.7.223,1
+10,McKenzie Medical Centre,IP172.16.7.222,35,126,23,MacKenzie Meter,403,IQ411 Iss4.33 Oct 12 2021,172.16.7.220,0
+10,McKenzie Medical Centre,IP172.16.7.222,35,126,24,MacKenzie Boilers,403,IQ4E64 Iss3.41 Aug  3 2016,172.16.7.219,1
+10,McKenzie Medical Centre,IP172.16.7.222,35,126,25,25,403,No Reply,#N/A#,1
+10,McKenzie Medical Centre,IP172.16.7.222,35,126,126,126,403,No Reply,#N/A#,0
+10,McKenzie Medical Centre,IP172.16.7.222,35,126,6,6,0,No Reply,#N/A#,0
+10,McKenzie Medical Centre,IP172.16.7.222,35,126,116,116,0,No Reply,#N/A#,0
+10,McKenzie Medical Centre,IP172.16.7.222,35,126,101,101,0,No Reply,#N/A#,0
+10,McKenzie Medical Centre,IP172.16.7.222,35,126,93,963 v3.73,0,0,#N/A#,0
+10,McKenzie Medical Centre,IP172.16.7.222,1,1,39,39,0,?,#N/A#,0
+10,McKenzie Medical Centre,IP172.16.7.222,4,4,80,80,0,?,#N/A#,0
+10,McKenzie Medical Centre,IP172.16.7.222,1,1,89,89,0,?,#N/A#,0
+10,McKenzie Medical Centre,IP172.16.7.222,77,77,22,22,0,?,#N/A#,0
+10,McKenzie Medical Centre,IP172.16.7.222,1,1,59,59,0,?,#N/A#,0
+10,McKenzie Medical Centre,IP172.16.7.222,35,126,94,94,0,No Reply,#N/A#,0
+10,McKenzie Medical Centre,IP172.16.7.222,1,1,98,98,0,?,#N/A#,0
+10,McKenzie Medical Centre,IP172.16.7.222,1,1,60,60,0,?,#N/A#,0
+10,McKenzie Medical Centre,IP172.16.7.222,1,1,96,96,0,?,#N/A#,0
+10,McKenzie Medical Centre,IP172.16.7.222,35,126,8,8,0,No Reply,#N/A#,0
+10,McKenzie Medical Centre,IP172.16.7.222,4,4,87,87,0,?,#N/A#,0
+10,McKenzie Medical Centre,IP172.16.7.222,35,126,0,0,0,?,#N/A#,0
+10,McKenzie Medical Centre,IP172.16.7.222,77,77,24,24,0,?,#N/A#,0
+10,McKenzie Medical Centre,IP172.16.7.222,1,1,61,61,0,?,#N/A#,0
+10,McKenzie Medical Centre,IP172.16.7.222,1,1,55,55,0,?,#N/A#,0
+10,McKenzie Medical Centre,IP172.16.7.222,1,1,58,58,0,?,#N/A#,0
+10,McKenzie Medical Centre,IP172.16.7.222,1,1,56,56,0,?,#N/A#,0
+10,McKenzie Medical Centre,IP172.16.7.222,1,1,50,50,0,?,#N/A#,0
+10,McKenzie Medical Centre,IP172.16.7.222,1,1,51,51,0,?,#N/A#,0
+10,McKenzie Medical Centre,IP172.16.7.222,1,1,52,52,0,?,#N/A#,0
+16,My Supervisor,SYST,963,My Supervisor,963,My Supervisor,0,?,#N/A#,0
+107,Mylnes Court,IP172.16.6.55,24,INC,101,101,0,No Reply,#N/A#,3
+107,Mylnes Court,IP172.16.6.55,24,INC,102,102,0,No Reply,#N/A#,3
+107,Mylnes Court,IP172.16.6.55,24,INC,116,116,0,No Reply,#N/A#,3
+107,Mylnes Court,IP172.16.6.55,24,INC,126,INC,0,No Reply,#N/A#,3
+107,Mylnes Court,IP172.16.6.55,25,INC,25,MC New College,0,IQ3xcite96 Iss2.31 Aug 26 2010,172.16.6.60,1
+107,Mylnes Court,IP172.16.6.55,25,INC,101,101,0,No Reply,#N/A#,3
+107,Mylnes Court,IP172.16.6.55,25,INC,126,INC,0,No Reply,#N/A#,3
+107,Mylnes Court,IP172.16.6.55,26,INC,6,6,0,No Reply,#N/A#,3
+107,Mylnes Court,IP172.16.6.55,26,INC,11,Rainy Hall Kitchen,0,IQ4E64 Iss4.33 Oct 12 2021,172.16.6.66,1
+107,Mylnes Court,IP172.16.6.55,26,INC,26,RAINEY HALL,0,IQ3xcite96 Iss3.11 Feb 04 2016,172.16.6.61,1
+107,Mylnes Court,IP172.16.6.55,26,INC,77,77,0,No Reply,#N/A#,3
+107,Mylnes Court,IP172.16.6.55,26,INC,101,101,0,No Reply,#N/A#,3
+107,Mylnes Court,IP172.16.6.55,26,INC,126,INC,0,No Reply,#N/A#,3
+107,Mylnes Court,IP172.16.6.55,23,INC,101,963 v3.73,0,0,#N/A#,3
+107,Mylnes Court,IP172.16.6.55,23,INC,103,103,0,No Reply,#N/A#,3
+107,Mylnes Court,IP172.16.6.55,23,INC,126,INC,0,No Reply,#N/A#,3
+107,Mylnes Court,IP172.16.6.55,23,INC,1,1,0,?,#N/A#,3
+107,Mylnes Court,IP172.16.6.55,23,INC,104,104,0,No Reply,#N/A#,3
+107,Mylnes Court,IP172.16.6.55,23,INC,85,85,0,No Reply,#N/A#,3
+107,Mylnes Court,IP172.16.6.55,23,INC,117,117,0,No Reply,#N/A#,3
+107,Mylnes Court,IP172.16.6.55,23,INC,0,0,0,?,#N/A#,3
+107,Mylnes Court,IP172.16.6.55,23,INC,21,MylnesCourt Boilerhouse,0,IQ4E64 Iss4.34 Jul 21 2022,172.16.6.55,2
+107,Mylnes Court,IP172.16.6.55,24,INC,24,GEDDES,0,IQ3xcite96 Iss3.11 Feb 04 2016,172.16.6.58,1
+107,Mylnes Court,IP172.16.6.55,23,INC,23,MC Henman,0,IQ3xcite96 Iss3.11 Feb 04 2016,172.16.6.57,1
+107,Mylnes Court,IP172.16.6.55,23,INC,22,MC Salvesen,0,IQ3xcite96 Iss2.31 Aug 26 2010,172.16.6.56,0
+107,Mylnes Court,IP172.16.6.55,24,INC,27,COS VENT PLANT,0,IQ3xcite96 Iss3.11 Feb 04 2016,172.16.6.59,1
+130,New Vet School,IP172.16.4.29,55,0728 1st2ndCpr,15,1-21 CB,0,IQ412 Iss3.50 Jan 16 2018,169.254.52.42,1
+130,New Vet School,IP172.16.4.29,55,0728 1st2ndCpr,14,1-22 CB,0,IQ210 Iss3.12 Nov 28 2002,#N/A#,1
+130,New Vet School,IP172.16.4.29,55,0728 1st2ndCpr,13,1-27 CB,0,IQ210 Iss3.12 Nov 28 2002,#N/A#,1
+130,New Vet School,IP172.16.4.29,55,0728 1st2ndCpr,12,1-28 CB,0,IQ210 Iss3.12 Nov 28 2002,#N/A#,1
+130,New Vet School,IP172.16.4.29,55,0728 1st2ndCpr,11,1-29 CB,0,IQ210 Iss3.12 Nov 28 2002,#N/A#,1
+130,New Vet School,IP172.16.4.29,54,07281stSouthCpr,126,07281stSouthCpr,0,EINC V4.20 18/02/2003,#N/A#,3
+130,New Vet School,IP172.16.4.29,54,07281stSouthCpr,91,1-48 CB,0,IQ210 Iss3.12 Nov 28 2002,#N/A#,1
+130,New Vet School,IP172.16.4.29,54,07281stSouthCpr,90,1-37ent CB,0,IQ210 Iss3.12 Nov 28 2002,#N/A#,1
+130,New Vet School,IP172.16.4.29,54,07281stSouthCpr,89,1-37bs CB,0,IQ210 Iss3.12 Nov 28 2002,#N/A#,1
+130,New Vet School,IP172.16.4.29,54,07281stSouthCpr,88,1-39 CB,0,IQ412 Iss3.50 Jan 16 2018,128.1.1.3,1
+130,New Vet School,IP172.16.4.29,54,07281stSouthCpr,87,1-47 CB,0,IQ210 Iss3.12 Nov 28 2002,#N/A#,1
+130,New Vet School,IP172.16.4.29,54,07281stSouthCpr,86,1-46 CB,0,IQ210 Iss3.12 Nov 28 2002,#N/A#,1
+130,New Vet School,IP172.16.4.29,54,07281stSouthCpr,85,1-45 CB,0,IQ210 Iss3.12 Nov 28 2002,#N/A#,1
+130,New Vet School,IP172.16.4.29,54,07281stSouthCpr,84,1-44 CB,0,IQ210 Iss3.12 Nov 28 2002,#N/A#,1
+130,New Vet School,IP172.16.4.29,54,07281stSouthCpr,83,1-43 CB,0,IQ412 Iss3.50 Jan 16 2018,128.1.1.3,1
+130,New Vet School,IP172.16.4.29,54,07281stSouthCpr,82,1-42 CB,0,IQ210 Iss3.12 Nov 28 2002,#N/A#,1
+130,New Vet School,IP172.16.4.29,54,07281stSouthCpr,81,1-30 CB,0,IQ412 Iss3.31 Jul 20 2015,172.16.4.197,1
+130,New Vet School,IP172.16.4.29,53,0728GrndEastCpr,126,0728GrndEastCpr,0,EINC V4.20 18/02/2003,#N/A#,3
+130,New Vet School,IP172.16.4.29,53,0728GrndEastCpr,78,G94 FCU UFH,0,IQ210 Iss3.12 Nov 28 2002,#N/A#,1
+130,New Vet School,IP172.16.4.29,53,0728GrndEastCpr,77,G04 FCU,0,IQ210 Iss3.12 Nov 28 2002,#N/A#,1
+130,New Vet School,IP172.16.4.29,53,0728GrndEastCpr,76,G05A FCU,0,IQ210 Iss3.12 Nov 28 2002,#N/A#,1
+130,New Vet School,IP172.16.4.29,53,0728GrndEastCpr,75,G01 CB,0,IQ210 Iss3.12 Nov 28 2002,#N/A#,1
+130,New Vet School,IP172.16.4.29,53,0728GrndEastCpr,74,G02 CB,0,IQ210 Iss3.12 Nov 28 2002,#N/A#,1
+130,New Vet School,IP172.16.4.29,53,0728GrndEastCpr,73,G02A CB,0,IQ210 Iss3.12 Nov 28 2002,#N/A#,1
+130,New Vet School,IP172.16.4.29,53,0728GrndEastCpr,72,G03 CB,0,IQ210 Iss3.12 Nov 28 2002,#N/A#,1
+130,New Vet School,IP172.16.4.29,53,0728GrndEastCpr,71,G03A CB,0,IQ210 Iss3.12 Nov 28 2002,#N/A#,1
+130,New Vet School,IP172.16.4.29,52,0728 GrndWstCpr,126,0728 GrndWstCpr,0,EINC V4.20 18/02/2003,#N/A#,3
+130,New Vet School,IP172.16.4.29,52,0728 GrndWstCpr,112,963 v3.30,0,0,#N/A#,3
+130,New Vet School,IP172.16.4.29,52,0728 GrndWstCpr,60,G18 FCU,0,IQ210 Iss3.12 Nov 28 2002,#N/A#,1
+130,New Vet School,IP172.16.4.29,55,0728 1st2ndCpr,126,0728 1st2ndCpr,0,EINC V4.20 18/02/2003,#N/A#,3
+130,New Vet School,IP172.16.4.29,55,0728 1st2ndCpr,39,2-Z-10 FCU,0,IQ210 Iss3.12 Nov 28 2002,#N/A#,1
+130,New Vet School,IP172.16.4.29,55,0728 1st2ndCpr,38,1-23 FCU,0,IQ210 Iss3.12 Nov 28 2002,#N/A#,1
+130,New Vet School,IP172.16.4.29,55,0728 1st2ndCpr,37,1-12 CB,0,IQ412 Iss3.50 Jan 16 2018,128.1.1.3,1
+130,New Vet School,IP172.16.4.29,55,0728 1st2ndCpr,36,1-11 CB,0,IQ210 Iss3.12 Nov 28 2002,#N/A#,1
+130,New Vet School,IP172.16.4.29,55,0728 1st2ndCpr,35,2-70 CB,0,IQ210 Iss2.10 Oct 15 1999,#N/A#,1
+130,New Vet School,IP172.16.4.29,55,0728 1st2ndCpr,34,2-58 CB,0,IQ210 Iss3.12 Nov 28 2002,#N/A#,1
+130,New Vet School,IP172.16.4.29,55,0728 1st2ndCpr,33,2-66 CB,0,IQ210 Iss2.10 Oct 15 1999,#N/A#,1
+130,New Vet School,IP172.16.4.29,55,0728 1st2ndCpr,32,2-65 CB,0,IQ210 Iss3.12 Nov 28 2002,#N/A#,1
+130,New Vet School,IP172.16.4.29,55,0728 1st2ndCpr,31,2-64 CB,0,IQ210 Iss3.12 Nov 28 2002,#N/A#,1
+130,New Vet School,IP172.16.4.29,55,0728 1st2ndCpr,30,2-61 CB,0,IQ210 Iss2.10 Oct 15 1999,#N/A#,1
+130,New Vet School,IP172.16.4.29,55,0728 1st2ndCpr,29,2-59 CB,0,IQ210 Iss3.12 Nov 28 2002,#N/A#,1
+130,New Vet School,IP172.16.4.29,55,0728 1st2ndCpr,28,2-43 CB,0,IQ210 Iss3.12 Nov 28 2002,#N/A#,1
+130,New Vet School,IP172.16.4.29,55,0728 1st2ndCpr,27,2-38 CB,0,IQ210 Iss3.12 Nov 28 2002,#N/A#,1
+130,New Vet School,IP172.16.4.29,55,0728 1st2ndCpr,26,2-37 CB,0,IQ210 Iss3.12 Nov 28 2002,#N/A#,1
+130,New Vet School,IP172.16.4.29,55,0728 1st2ndCpr,25,2-36 CB,0,IQ210 Iss3.12 Nov 28 2002,#N/A#,1
+130,New Vet School,IP172.16.4.29,55,0728 1st2ndCpr,24,2-35 CB,0,IQ210 Iss3.12 Nov 28 2002,#N/A#,1
+130,New Vet School,IP172.16.4.29,55,0728 1st2ndCpr,23,2-21 CB,0,IQ210 Iss3.12 Nov 28 2002,#N/A#,1
+130,New Vet School,IP172.16.4.29,55,0728 1st2ndCpr,22,2-16 CB,0,IQ210 Iss3.12 Nov 28 2002,#N/A#,1
+130,New Vet School,IP172.16.4.29,55,0728 1st2ndCpr,21,2-19 CB,0,IQ210 Iss3.12 Nov 28 2002,#N/A#,1
+130,New Vet School,IP172.16.4.29,55,0728 1st2ndCpr,20,1-02 CB,0,IQ210 Iss3.12 Nov 28 2002,#N/A#,1
+130,New Vet School,IP172.16.4.29,55,0728 1st2ndCpr,19,1-01 CB,0,IQ210 Iss3.12 Nov 28 2002,#N/A#,1
+130,New Vet School,IP172.16.4.29,55,0728 1st2ndCpr,18,1-24 CB,0,IQ210 Iss3.12 Nov 28 2002,#N/A#,1
+130,New Vet School,IP172.16.4.29,55,0728 1st2ndCpr,17,1-25 CB,0,IQ210 Iss3.12 Nov 28 2002,#N/A#,1
+130,New Vet School,IP172.16.4.29,55,0728 1st2ndCpr,16,1-26 CB,0,IQ210 Iss3.12 Nov 28 2002,#N/A#,1
+130,New Vet School,IP172.16.4.29,52,0728 GrndWstCpr,59,G21 FCU,0,IQ210 Iss3.12 Nov 28 2002,#N/A#,1
+130,New Vet School,IP172.16.4.29,52,0728 GrndWstCpr,58,G22 FCU,0,IQ210 Iss3.12 Nov 28 2002,#N/A#,1
+130,New Vet School,IP172.16.4.29,52,0728 GrndWstCpr,57,G27 FCU,0,IQ210 Iss3.12 Nov 28 2002,#N/A#,1
+130,New Vet School,IP172.16.4.29,52,0728 GrndWstCpr,56,G30 FCU,0,IQ210 Iss3.12 Nov 28 2002,#N/A#,1
+130,New Vet School,IP172.16.4.29,52,0728 GrndWstCpr,55,G31 FCU,0,IQ210 Iss3.12 Nov 28 2002,#N/A#,1
+130,New Vet School,IP172.16.4.29,52,0728 GrndWstCpr,54,G33 FCU,0,IQ210 Iss3.12 Nov 28 2002,#N/A#,1
+130,New Vet School,IP172.16.4.29,52,0728 GrndWstCpr,53,G19 FCU,0,IQ210 Iss3.12 Nov 28 2002,#N/A#,1
+130,New Vet School,IP172.16.4.29,52,0728 GrndWstCpr,52,G49 FCU,0,IQ210 Iss3.12 Nov 28 2002,#N/A#,1
+130,New Vet School,IP172.16.4.29,52,0728 GrndWstCpr,51,G74 FCU,0,IQ210 Iss3.12 Nov 28 2002,#N/A#,1
+130,New Vet School,IP172.16.4.29,52,0728 GrndWstCpr,45,CP1 - G55,0,IQ220 Iss3.12 Nov 28 2002,#N/A#,1
+130,New Vet School,IP172.16.4.29,52,0728 GrndWstCpr,43,G11 CB UFH,0,IQ210 Iss3.12 Nov 28 2002,#N/A#,1
+130,New Vet School,IP172.16.4.29,52,0728 GrndWstCpr,42,G12 CB UFH,0,IQ210 Iss3.12 Nov 28 2002,#N/A#,1
+130,New Vet School,IP172.16.4.29,52,0728 GrndWstCpr,41,G52 CB,0,IQ210 Iss3.12 Nov 28 2002,#N/A#,1
+130,New Vet School,IP172.16.4.29,51,INC,126,INC,0,No Reply,#N/A#,3
+130,New Vet School,IP172.16.4.29,51,INC,116,116,0,No Reply,#N/A#,3
+130,New Vet School,IP172.16.4.29,51,INC,115,115,0,No Reply,#N/A#,3
+130,New Vet School,IP172.16.4.29,51,INC,111,111,0,No Reply,#N/A#,3
+130,New Vet School,IP172.16.4.29,51,INC,101,101,0,No Reply,#N/A#,3
+130,New Vet School,IP172.16.4.29,51,INC,62,0728-SEF1 SmkPnl Plantroom 3.02,0,IQ3xact12 Iss2.20 Sep 02 2009,172.16.4.53,1
+130,New Vet School,IP172.16.4.29,51,INC,61,0728-SEF2 SmkPnl Plantroom 3.03,0,IQ3xact12 Iss2.20 Sep 02 2009,172.16.4.52,1
+130,New Vet School,IP172.16.4.29,51,INC,20,0728-MSCP1 - Boilerhouse1B G.82,0,IQ3xcite96 Iss2.20 Sep 02 2009,172.16.4.51,1
+130,New Vet School,IP172.16.4.29,51,INC,19,0728-MSCP2B - Mezz Plant,0,IQ3xcite96 Iss2.20 Sep 02 2009,172.16.4.37,1
+130,New Vet School,IP172.16.4.29,51,INC,18,0728-MSCP8-Roof Plant 3.04,0,IQ3xcite96 Iss2.20 Sep 02 2009,172.16.4.36,1
+130,New Vet School,IP172.16.4.29,51,INC,17,0728-MSCP7-Roof Plant 3.03,0,IQ3xcite96 Iss2.20 Sep 02 2009,172.16.4.35,1
+130,New Vet School,IP172.16.4.29,51,INC,16,0728-MSCP6 - Rooftop Plantroom 3.02,0,IQ3xcite96 Iss2.20 Sep 02 2009,172.16.4.34,1
+130,New Vet School,IP172.16.4.29,51,INC,15,0728-MSCP5-Roof Plant 3.01,0,IQ3xcite96 Iss2.20 Sep 02 2009,172.16.4.33,1
+130,New Vet School,IP172.16.4.29,51,INC,14,0728-MSCP4-Mezz Plant G.96,0,IQ3xcite96 Iss2.20 Sep 02 2009,172.16.4.32,1
+130,New Vet School,IP172.16.4.29,51,INC,13,0728-MSCP3 - G.05 Plant,0,IQ3xcite96 Iss2.20 Sep 02 2009,172.16.4.31,1
+130,New Vet School,IP172.16.4.29,51,INC,12,0728-MSCP2A - Mezz Plant,0,IQ3xcite96 Iss2.20 Sep 02 2009,172.16.4.30,1
+130,New Vet School,IP172.16.4.29,51,INC,11,0728-MSCP1-Boilerhouse1 G.82,0,IQ3xcite128 Iss2.20 Sep 02 2009,172.16.4.29,2
+130,New Vet School,IP172.16.4.29,52,0728 GrndWstCpr,9,9,0,?,#N/A#,0
+130,New Vet School,IP172.16.4.29,53,0728GrndEastCpr,101,101,0,No Reply,#N/A#,0
+130,New Vet School,IP172.16.4.29,0,0,11,11,0,?,#N/A#,0
+130,New Vet School,IP172.16.4.29,52,0728 GrndWstCpr,1,1,0,?,#N/A#,3
+130,New Vet School,IP172.16.4.29,51,INC,1,1,0,?,#N/A#,3
+9,Old College/Central,IP172.16.6.30,4,4,80,80,0,?,#N/A#,0
+9,Old College/Central,IP172.16.6.30,35,35,21,21,0,?,#N/A#,0
+9,Old College/Central,IP172.16.6.30,1,INC,62,62,0,?,#N/A#,0
+9,Old College/Central,IP172.16.6.30,1,INC,54,54,0,?,#N/A#,0
+9,Old College/Central,IP172.16.6.30,1,INC,63,63,0,?,#N/A#,0
+9,Old College/Central,IP172.16.6.30,35,35,24,24,0,?,#N/A#,0
+9,Old College/Central,IP172.16.6.30,1,INC,95,95,0,?,#N/A#,0
+9,Old College/Central,IP172.16.6.30,1,INC,96,96,0,?,#N/A#,0
+9,Old College/Central,IP172.16.6.30,1,INC,50,50,0,?,#N/A#,0
+9,Old College/Central,IP172.16.6.30,34,INC,78,78,0,No Reply,#N/A#,3
+9,Old College/Central,IP172.16.6.30,34,INC,99,99,0,No Reply,#N/A#,3
+9,Old College/Central,IP172.16.6.30,34,INC,1,1,0,?,#N/A#,0
+9,Old College/Central,IP172.16.6.30,1,INC,38,38,0,?,#N/A#,0
+9,Old College/Central,IP172.16.6.30,1,INC,55,55,0,?,#N/A#,0
+9,Old College/Central,IP172.16.6.30,6,6,11,11,0,?,#N/A#,0
+9,Old College/Central,IP172.16.6.30,1,INC,52,52,0,?,#N/A#,0
+9,Old College/Central,IP172.16.6.30,34,INC,28,CSH AHU 2&4,0,IQ4E64 Iss4.33 Oct 12 2021,172.16.7.176,1
+9,Old College/Central,IP172.16.6.30,34,INC,29,CSH AHU 1&3,0,IQ4E96 Iss4.33 Oct 12 2021,172.16.7.174,1
+9,Old College/Central,IP172.16.6.30,34,INC,30,CSH 3rd Flr AC,0,IQ411 Iss4.33 Oct 12 2021,172.16.7.175,1
+9,Old College/Central,IP172.16.6.30,34,INC,126,INC,0,No Reply,#N/A#,3
+9,Old College/Central,IP172.16.6.30,39,INC,119,119,0,No Reply,#N/A#,0
+9,Old College/Central,IP172.16.6.30,34,INC,0,0,0,?,#N/A#,3
+9,Old College/Central,IP172.16.6.30,12,MSTP LAN 12,21,FCU G.159-05-S,0,IQeco38 Iss2.31 Mar 24 2017,#N/A#,3
+9,Old College/Central,IP172.16.6.30,12,MSTP LAN 12,16,FCU G.158-02-M,0,IQeco38 Iss2.31 Mar 24 2017,#N/A#,3
+9,Old College/Central,IP172.16.6.30,12,MSTP LAN 12,17,FCU G.159-01-S,0,IQeco38 Iss2.31 Mar 24 2017,#N/A#,3
+9,Old College/Central,IP172.16.6.30,12,MSTP LAN 12,18,FCU G.159-02-S,0,IQeco38 Iss2.31 Mar 24 2017,#N/A#,3
+9,Old College/Central,IP172.16.6.30,12,MSTP LAN 12,19,FCU G.159-03-S,0,IQeco38 Iss2.31 Mar 24 2017,#N/A#,3
+9,Old College/Central,IP172.16.6.30,12,MSTP LAN 12,20,FCU G.159-04-M,0,IQeco38 Iss2.31 Mar 24 2017,#N/A#,3
+9,Old College/Central,IP172.16.6.30,34,INC,8,8,0,No Reply,#N/A#,3
+9,Old College/Central,IP172.16.6.30,39,INC,126,INC,0,No Reply,#N/A#,0
+9,Old College/Central,IP172.16.6.30,32,32,21,21,0,?,#N/A#,0
+9,Old College/Central,IP172.16.6.30,11,MSTP LAN 11,12,FCU LG.02,0,IQeco38 Iss2.31 Mar 24 2017,#N/A#,3
+9,Old College/Central,IP172.16.6.30,11,MSTP LAN 11,13,FCU LG.03-01-M,0,IQeco38 Iss2.31 Mar 24 2017,#N/A#,3
+9,Old College/Central,IP172.16.6.30,11,MSTP LAN 11,14,FCU LG.03-02-S,0,IQeco38 Iss2.31 Mar 24 2017,#N/A#,3
+9,Old College/Central,IP172.16.6.30,11,MSTP LAN 11,15,FCU LG.04-01-M,0,IQeco38 Iss2.31 Mar 24 2017,#N/A#,3
+9,Old College/Central,IP172.16.6.30,11,MSTP LAN 11,16,FCU LG.04-02-S,0,IQeco38 Iss2.31 Mar 24 2017,#N/A#,3
+9,Old College/Central,IP172.16.6.30,11,MSTP LAN 11,17,FCU G.152,0,IQeco38 Iss2.31 Mar 24 2017,#N/A#,3
+9,Old College/Central,IP172.16.6.30,11,MSTP LAN 11,18,FCU G.153-01-S,0,IQeco38 Iss2.31 Mar 24 2017,#N/A#,3
+9,Old College/Central,IP172.16.6.30,11,MSTP LAN 11,19,FCU G.153-02-M,0,IQeco38 Iss2.31 Mar 24 2017,#N/A#,3
+9,Old College/Central,IP172.16.6.30,11,MSTP LAN 11,20,FCU G.154-01-M,0,IQeco38 Iss2.31 Mar 24 2017,#N/A#,3
+9,Old College/Central,IP172.16.6.30,11,MSTP LAN 11,21,FCU G.154-02-S,0,IQeco38 Iss2.31 Mar 24 2017,#N/A#,3
+9,Old College/Central,IP172.16.6.30,11,MSTP LAN 11,22,FCU 1.265-01-M,0,IQeco38 Iss2.31 Mar 24 2017,#N/A#,3
+9,Old College/Central,IP172.16.6.30,11,MSTP LAN 11,23,FCU 1.265-02-S,0,IQeco38 Iss2.31 Mar 24 2017,#N/A#,3
+9,Old College/Central,IP172.16.6.30,11,MSTP LAN 11,24,FCU 1.266-01-S,0,IQeco38 Iss2.31 Mar 24 2017,#N/A#,3
+9,Old College/Central,IP172.16.6.30,11,MSTP LAN 11,25,FCU 1.266-02-M,0,IQeco38 Iss2.31 Mar 24 2017,#N/A#,3
+9,Old College/Central,IP172.16.6.30,11,MSTP LAN 11,26,FCU 1.267-01-M,0,IQeco38 Iss2.31 Mar 24 2017,#N/A#,3
+9,Old College/Central,IP172.16.6.30,11,MSTP LAN 11,27,FCU 1.267-02-S,0,IQeco38 Iss2.31 Mar 24 2017,#N/A#,3
+9,Old College/Central,IP172.16.6.30,11,MSTP LAN 11,28,SF01 2.343,0,IQeco38 Iss2.31 Mar 24 2017,#N/A#,3
+9,Old College/Central,IP172.16.6.30,11,MSTP LAN 11,29,SF02 2.345,0,IQeco38 Iss2.31 Mar 24 2017,#N/A#,3
+9,Old College/Central,IP172.16.6.30,11,MSTP LAN 11,30,SF03 2.347,0,IQeco38 Iss2.31 Mar 24 2017,#N/A#,3
+9,Old College/Central,IP172.16.6.30,11,MSTP LAN 11,31,SF04 2.349,0,IQeco38 Iss2.31 Mar 24 2017,#N/A#,3
+9,Old College/Central,IP172.16.6.30,11,MSTP LAN 11,32,SF05 2.351,0,IQeco38 Iss2.31 Mar 24 2017,#N/A#,3
+9,Old College/Central,IP172.16.6.30,11,MSTP LAN 11,33,LG02-LG04,0,IQeco38 Iss2.31 Mar 24 2017,#N/A#,3
+9,Old College/Central,IP172.16.6.30,11,MSTP LAN 11,126,MSTP LAN 11,0,IQ4NCBINC Iss8.10 Mar 0,#N/A#,3
+9,Old College/Central,IP172.16.6.30,12,MSTP LAN 12,4,4,0,No Reply,#N/A#,3
+9,Old College/Central,IP172.16.6.30,12,MSTP LAN 12,5,5,0,No Reply,#N/A#,3
+9,Old College/Central,IP172.16.6.30,12,MSTP LAN 12,6,6,0,No Reply,#N/A#,3
+9,Old College/Central,IP172.16.6.30,12,MSTP LAN 12,7,7,0,No Reply,#N/A#,3
+9,Old College/Central,IP172.16.6.30,12,MSTP LAN 12,9,Lan 12 4NC,0,IQ4NC0 Iss3.50 Jan 16 2018,172.16.7.136,1
+9,Old College/Central,IP172.16.6.30,12,MSTP LAN 12,11,FCU LG.05-01-M,0,IQeco38 Iss2.31 Mar 24 2017,#N/A#,3
+9,Old College/Central,IP172.16.6.30,12,MSTP LAN 12,12,FCU LG.05-02-S,0,IQeco38 Iss2.31 Mar 24 2017,#N/A#,3
+9,Old College/Central,IP172.16.6.30,12,MSTP LAN 12,13,FCU LG.06-01-S,0,IQeco38 Iss2.31 Mar 24 2017,#N/A#,3
+9,Old College/Central,IP172.16.6.30,12,MSTP LAN 12,14,FCU LG.06-02-M,0,IQeco38 Iss2.31 Mar 24 2017,#N/A#,3
+9,Old College/Central,IP172.16.6.30,12,MSTP LAN 12,15,FCU G.158-01-S,0,IQeco38 Iss2.31 Mar 24 2017,#N/A#,3
+9,Old College/Central,IP172.16.6.30,35,35,25,25,0,?,#N/A#,0
+9,Old College/Central,IP172.16.6.30,5,5,95,95,0,?,#N/A#,0
+9,Old College/Central,IP172.16.6.30,1,INC,56,56,0,?,#N/A#,0
+9,Old College/Central,IP172.16.6.30,1,INC,60,60,0,?,#N/A#,0
+9,Old College/Central,IP172.16.6.30,1,INC,97,97,0,?,#N/A#,0
+9,Old College/Central,IP172.16.6.30,1,INC,59,59,0,?,#N/A#,0
+9,Old College/Central,IP172.16.6.30,1,INC,71,71,0,?,#N/A#,0
+9,Old College/Central,IP172.16.6.30,1,INC,39,39,0,?,#N/A#,0
+9,Old College/Central,IP172.16.6.30,34,INC,4,963 v3.73,0,0,#N/A#,3
+9,Old College/Central,IP172.16.6.30,34,INC,6,6,0,No Reply,#N/A#,3
+9,Old College/Central,IP172.16.6.30,39,INC,101,101,0,No Reply,#N/A#,0
+9,Old College/Central,IP172.16.6.30,11,MSTP LAN 11,11,SF08 Burke and Hair,0,IQeco38 Iss2.31 Mar 24 2017,#N/A#,3
+9,Old College/Central,IP172.16.6.30,1,INC,58,58,0,?,#N/A#,0
+9,Old College/Central,IP172.16.6.30,1,INC,93,93,0,?,#N/A#,0
+9,Old College/Central,IP172.16.6.30,1,INC,89,89,0,?,#N/A#,0
+9,Old College/Central,IP172.16.6.30,1,INC,11,MSCP1 Boilerhouse Control Panel,0,IQ4E160 Iss3.45 Aug 29 2017,172.16.7.130,2
+9,Old College/Central,IP172.16.6.30,1,INC,12,MSCP2 Ventilation Control Panel,0,IQ4E32 Iss3.45 Aug 29 2017,172.16.7.131,1
+9,Old College/Central,IP172.16.6.30,1,INC,13,MSCP3 Ventilation Control Panel,0,IQ4E32 Iss3.45 Aug 29 2017,172.16.7.132,1
+9,Old College/Central,IP172.16.6.30,1,INC,14,MSCP4 Ventilation Control Panel,0,IQ4E96 Iss3.45 Aug 29 2017,172.16.7.133,1
+9,Old College/Central,IP172.16.6.30,1,INC,101,101,0,No Reply,#N/A#,3
+9,Old College/Central,IP172.16.6.30,5,5,97,97,0,?,#N/A#,0
+9,Old College/Central,IP172.16.6.30,4,4,82,82,0,?,#N/A#,0
+9,Old College/Central,IP172.16.6.30,1,INC,57,57,0,?,#N/A#,0
+9,Old College/Central,IP172.16.6.30,11,MSTP LAN 11,9,Lan 11 4NC,0,IQ4NC0 Iss3.50 Jan 16 2018,172.16.7.135,1
+9,Old College/Central,IP172.16.6.30,11,MSTP LAN 11,7,7,0,No Reply,#N/A#,3
+9,Old College/Central,IP172.16.6.30,11,MSTP LAN 11,6,6,0,No Reply,#N/A#,3
+9,Old College/Central,IP172.16.6.30,11,MSTP LAN 11,5,5,0,No Reply,#N/A#,3
+9,Old College/Central,IP172.16.6.30,11,MSTP LAN 11,4,4,0,No Reply,#N/A#,3
+9,Old College/Central,IP172.16.6.30,1,INC,126,INC,0,No Reply,#N/A#,3
+9,Old College/Central,IP172.16.6.30,4,4,81,81,0,?,#N/A#,0
+9,Old College/Central,IP172.16.6.30,4,4,84,84,0,?,#N/A#,0
+9,Old College/Central,IP172.16.6.30,4,4,86,86,0,?,#N/A#,0
+9,Old College/Central,IP172.16.6.30,4,4,88,88,0,?,#N/A#,0
+9,Old College/Central,IP172.16.6.30,12,MSTP LAN 12,22,FCU G.159-06-S,0,IQeco38 Iss2.31 Mar 24 2017,#N/A#,3
+9,Old College/Central,IP172.16.6.30,6,6,13,13,0,?,#N/A#,0
+9,Old College/Central,IP172.16.6.30,6,6,12,12,0,?,#N/A#,0
+9,Old College/Central,IP172.16.6.30,13,MSTP LAN 13,13,SF06 LG.09,0,IQeco38 Iss2.31 Mar 24 2017,#N/A#,3
+9,Old College/Central,IP172.16.6.30,13,MSTP LAN 13,20,FCU 1.275-02-M,0,IQeco38 Iss2.31 Mar 24 2017,#N/A#,3
+9,Old College/Central,IP172.16.6.30,13,MSTP LAN 13,21,FCU 1.276-01-M,0,IQeco38 Iss2.31 Mar 24 2017,#N/A#,3
+9,Old College/Central,IP172.16.6.30,13,MSTP LAN 13,22,FCU 1.276-02-S,0,IQeco38 Iss2.31 Mar 24 2017,#N/A#,3
+9,Old College/Central,IP172.16.6.30,13,MSTP LAN 13,16,FCU 1.273-02-M,0,IQeco38 Iss2.31 Mar 24 2017,#N/A#,3
+9,Old College/Central,IP172.16.6.30,13,MSTP LAN 13,17,FCU 1.274-01-S,0,IQeco38 Iss2.31 Mar 24 2017,#N/A#,3
+9,Old College/Central,IP172.16.6.30,13,MSTP LAN 13,18,FCU 1.274-02-M,0,IQeco38 Iss2.31 Mar 24 2017,#N/A#,3
+9,Old College/Central,IP172.16.6.30,13,MSTP LAN 13,19,FCU 1.275-01-S,0,IQeco38 Iss2.31 Mar 24 2017,#N/A#,3
+9,Old College/Central,IP172.16.6.30,13,MSTP LAN 13,14,FCU G.166-M,0,IQeco38 Iss2.31 Mar 24 2017,#N/A#,3
+9,Old College/Central,IP172.16.6.30,13,MSTP LAN 13,15,FCU 1.273-01-S,0,IQeco38 Iss2.31 Mar 24 2017,#N/A#,3
+9,Old College/Central,IP172.16.6.30,39,INC,37,South VT Heating and Raeburn Room,0,IQ3xcite96 Iss3.01 May 15 2012,172.16.7.10,2
+9,Old College/Central,IP172.16.6.30,13,MSTP LAN 13,12,FCU LG.08-M,0,IQeco38 Iss2.31 Mar 24 2017,#N/A#,3
+9,Old College/Central,IP172.16.6.30,13,MSTP LAN 13,7,7,0,No Reply,#N/A#,3
+9,Old College/Central,IP172.16.6.30,13,MSTP LAN 13,9,Lan 13 4NC,0,IQ4NC0 Iss3.50 Jan 16 2018,172.16.7.137,1
+9,Old College/Central,IP172.16.6.30,13,MSTP LAN 13,11,FCU LG.07-M,0,IQeco38 Iss2.31 Mar 24 2017,#N/A#,3
+9,Old College/Central,IP172.16.6.30,39,INC,35,MIS Basement,0,IQ4E16 Iss3.41 Aug  3 2016,172.16.7.42,1
+9,Old College/Central,IP172.16.6.30,5,5,23,23,0,?,#N/A#,0
+9,Old College/Central,IP172.16.6.30,39,INC,31,Registry,0,IQ4E32 Iss3.41 Aug  3 2016,172.16.7.41,1
+9,Old College/Central,IP172.16.6.30,21,INC,4,4,0,No Reply,#N/A#,0
+9,Old College/Central,IP172.16.6.30,21,INC,7,7,0,No Reply,#N/A#,0
+9,Old College/Central,IP172.16.6.30,21,INC,8,963 v3.62,0,0,#N/A#,0
+9,Old College/Central,IP172.16.6.30,21,INC,21,Talbot Rice,0,IQ411 Iss3.41 Aug  3 2016,172.16.6.1,1
+9,Old College/Central,IP172.16.6.30,21,INC,126,INC,0,No Reply,#N/A#,0
+9,Old College/Central,IP172.16.6.30,13,MSTP LAN 13,6,6,0,No Reply,#N/A#,3
+9,Old College/Central,IP172.16.6.30,12,MSTP LAN 12,126,MSTP LAN 12,0,IQ4NCBINC Iss8.10 Mar 0,#N/A#,3
+9,Old College/Central,IP172.16.6.30,13,MSTP LAN 13,4,4,0,No Reply,#N/A#,3
+9,Old College/Central,IP172.16.6.30,13,MSTP LAN 13,5,5,0,No Reply,#N/A#,3
+9,Old College/Central,IP172.16.6.30,1,INC,103,103,0,No Reply,#N/A#,3
+9,Old College/Central,IP172.16.6.30,1,INC,102,IQView8,0,0,#N/A#,3
+9,Old College/Central,IP172.16.6.30,13,MSTP LAN 13,126,MSTP LAN 13,0,IQ4NCBINC Iss8.10 Mar 0,#N/A#,3
+9,Old College/Central,IP172.16.6.30,13,MSTP LAN 13,23,SF07 3.Z20,0,IQeco38 Iss2.31 Mar 24 2017,#N/A#,3
+9,Old College/Central,IP172.16.6.30,5,5,96,96,0,?,#N/A#,0
+9,Old College/Central,IP172.16.6.30,81,81,21,21,0,?,#N/A#,0
+9,Old College/Central,IP172.16.6.30,34,INC,26,CSH Boilerhouse,0,IQ4E96 Iss4.33 Oct 12 2021,172.16.6.30,1
+9,Old College/Central,IP172.16.6.30,1,INC,64,64,0,?,#N/A#,0
+9,Old College/Central,IP172.16.6.30,1,INC,15,Mezzanine HRU,0,IQ4E96 Iss4.34 Jul 21 2022,172.16.7.139,1
+9,Old College/Central,IP172.16.6.30,4,4,85,85,0,?,#N/A#,0
+490,Pentland House,IP172.16.7.234,58,INC,0,0,0,?,#N/A#,3
+490,Pentland House,IP172.16.7.234,58,INC,102,963 v3.62,0,0,#N/A#,3
+490,Pentland House,IP172.16.7.234,58,INC,103,103,0,No Reply,#N/A#,3
+490,Pentland House,IP172.16.7.234,58,INC,126,INC,0,No Reply,#N/A#,3
+490,Pentland House,IP172.16.7.234,58,INC,11,Pentland_House_B5348,0,IQ4E96 Iss4.20 Aug 21 2019,172.16.7.234,2
+490,Pentland House,IP172.16.7.234,58,INC,101,963 v3.62,0,0,#N/A#,3
+3,Pollock Halls,IP172.16.7.89,8,Holland Roof,126,Holland Roof,0,EINC V4.20 18/02/2003,#N/A#,3
+3,Pollock Halls,IP172.16.7.89,8,Holland Roof,108,108,0,No Reply,#N/A#,3
+3,Pollock Halls,IP172.16.7.89,8,Holland Roof,107,107,0,No Reply,#N/A#,3
+3,Pollock Halls,IP172.16.7.89,8,Holland Roof,104,104,0,No Reply,#N/A#,3
+3,Pollock Halls,IP172.16.7.89,8,Holland Roof,102,102,0,No Reply,#N/A#,3
+3,Pollock Halls,IP172.16.7.89,8,Holland Roof,77,77,0,No Reply,#N/A#,3
+3,Pollock Halls,IP172.16.7.89,8,Holland Roof,76,76,0,No Reply,#N/A#,3
+3,Pollock Halls,IP172.16.7.89,8,Holland Roof,75,Holland House Block B Extract Fans,0,IQ4E32 Iss3.45 Aug 29 2017,192.168.1.189,1
+3,Pollock Halls,IP172.16.7.89,8,Holland Roof,74,Holland Block C Level 3,0,IQ422-12 Iss3.44 Jan 16 2017,172.16.4.14,1
+3,Pollock Halls,IP172.16.7.89,8,Holland Roof,73,Holland House Block D Extract Fans,0,IQ4E64 Iss3.50 Jan 16 2018,192.168.1.73,1
+3,Pollock Halls,IP172.16.7.89,8,Holland Roof,72,Holland Block A Level 3,0,IQ422-12 Iss3.44 Jan 16 2017,172.16.4.12,1
+3,Pollock Halls,IP172.16.7.89,8,Holland Roof,5,5,0,No Reply,#N/A#,3
+3,Pollock Halls,IP172.16.7.89,5,INC,115,115,0,No Reply,#N/A#,0
+3,Pollock Halls,IP172.16.7.89,5,INC,99,99,0,No Reply,#N/A#,0
+3,Pollock Halls,IP172.16.7.89,4,INC,96,96,0,No Reply,#N/A#,0
+3,Pollock Halls,IP172.16.7.89,1,INC,102,102,0,No Reply,#N/A#,0
+3,Pollock Halls,IP172.16.7.89,1,INC,11,Grant House Rooftop CP,0,IQ3xcite96 Iss3.11 Feb 04 2016,172.16.7.113,1
+3,Pollock Halls,IP172.16.7.89,4,INC,85,C/Court Riser 3,0,IQ422-12 Iss3.50 Jan 16 2018,172.16.7.102,1
+3,Pollock Halls,IP172.16.7.89,4,INC,86,C/Court Riser 4,0,IQ422-12 Iss3.50 Jan 16 2018,172.16.7.103,1
+3,Pollock Halls,IP172.16.7.89,4,INC,83,C/Court Riser 1,0,IQ4E16 Iss3.50 Jan 16 2018,172.16.7.100,1
+3,Pollock Halls,IP172.16.7.89,4,INC,84,C/Court Riser 2,0,IQ4E16 Iss3.50 Jan 16 2018,172.16.7.101,1
+3,Pollock Halls,IP172.16.7.89,0,0,12,Abden House,0,IQ4E32 Iss4.33 Oct 12 2021,172.16.7.118,1
+3,Pollock Halls,IP172.16.7.89,1,INC,104,104,0,No Reply,#N/A#,0
+3,Pollock Halls,IP172.16.7.89,4,INC,81,C/Court Htg 2,0,IQ4E96 Iss3.50 Jan 16 2018,172.16.7.98,1
+3,Pollock Halls,IP172.16.7.89,4,INC,82,C/Court Vent,0,IQ4E96 Iss3.50 Jan 16 2018,172.16.7.99,1
+3,Pollock Halls,IP172.16.7.89,1,INC,71,Holland Boilerhouse MSCP1,0,IQ4E128 Iss4.33 Oct 12 2021,172.16.7.89,2
+3,Pollock Halls,IP172.16.7.89,1,INC,112,112,0,No Reply,#N/A#,0
+3,Pollock Halls,IP172.16.7.89,1,INC,38,TurnerHouseUndercroft,0,IQ422-12 Iss4.33 Oct 12 2021,172.16.7.73,1
+3,Pollock Halls,IP172.16.7.89,1,INC,64,Lee House Heating,0,IQ4E32 Iss4.33 Oct 12 2021,172.16.7.88,1
+3,Pollock Halls,IP172.16.7.89,1,INC,103,103,0,No Reply,#N/A#,0
+3,Pollock Halls,IP172.16.7.89,1,INC,50,Ewing House AHU 1,403,IQ422-12 Iss4.33 Oct 12 2021,172.16.7.75,1
+3,Pollock Halls,IP172.16.7.89,1,INC,51,Ewing House AHU 2,403,IQ422-12 Iss4.33 Oct 12 2021,172.16.7.76,1
+3,Pollock Halls,IP172.16.7.89,1,INC,52,Ewing House Heating,403,IQ4E16 Iss4.33 Oct 12 2021,172.16.7.77,1
+3,Pollock Halls,IP172.16.7.89,1,INC,54,Turner House AHU 1,403,IQ422-12 Iss4.33 Oct 12 2021,172.16.7.78,1
+3,Pollock Halls,IP172.16.7.89,1,INC,55,Turner House AHU 2,403,IQ422-12 Iss4.33 Oct 12 2021,172.16.7.79,1
+3,Pollock Halls,IP172.16.7.89,1,INC,57,Reception MSCP01,403,IQ4E64 Iss4.34 Jul 21 2022,172.16.7.81,1
+3,Pollock Halls,IP172.16.7.89,1,INC,58,St Leonards Recept Vent,403,IQ422-12 Iss4.33 Oct 12 2021,172.16.7.82,1
+3,Pollock Halls,IP172.16.7.89,1,INC,59,Baird House Heating,403,IQ4E16 Iss4.33 Oct 12 2021,172.16.7.83,1
+3,Pollock Halls,IP172.16.7.89,1,INC,60,Baird House AHU 1,403,IQ422-12 Iss4.33 Oct 12 2021,172.16.7.84,1
+3,Pollock Halls,IP172.16.7.89,1,INC,61,Baird House AHU 2,403,IQ422-12 Iss4.33 Oct 12 2021,172.16.7.85,1
+3,Pollock Halls,IP172.16.7.89,1,INC,62,Lee House AHU 1,403,IQ422-12 Iss4.33 Oct 12 2021,172.16.7.86,1
+3,Pollock Halls,IP172.16.7.89,1,INC,63,Lee House AHU 2,403,IQ422-12 Iss4.33 Oct 12 2021,172.16.7.87,1
+3,Pollock Halls,IP172.16.7.89,1,INC,89,Grant House Heating,403,IQ4E16 Iss4.33 Oct 12 2021,172.16.7.90,1
+3,Pollock Halls,IP172.16.7.89,1,INC,93,Salisbury Green Hotel,403,IQ4E96 Iss4.33 Oct 12 2021,172.16.7.91,1
+3,Pollock Halls,IP172.16.7.89,1,INC,95,Turner House Inject,403,IQ422-12 Iss4.33 Oct 12 2021,172.16.7.92,1
+3,Pollock Halls,IP172.16.7.89,1,INC,96,Ewing House Inject,403,IQ422-12 Iss4.33 Oct 12 2021,172.16.7.93,1
+3,Pollock Halls,IP172.16.7.89,1,INC,97,Baird House Inject,403,IQ422-12 Iss4.33 Oct 12 2021,172.16.7.94,1
+3,Pollock Halls,IP172.16.7.89,1,INC,126,INC,403,No Reply,#N/A#,3
+3,Pollock Halls,IP172.16.7.89,1,INC,101,St Leonards Hall,403,IQ422-12 Iss3.44 Jan 16 2017,172.16.7.96,1
+3,Pollock Halls,IP172.16.7.89,1,INC,1,1,0,?,#N/A#,0
+3,Pollock Halls,IP172.16.7.89,1,INC,75,Holland House Kitchen AHU,0,IQ422-12 Iss4.33 Oct 12 2021,172.16.7.49,1
+3,Pollock Halls,IP172.16.7.89,1,INC,56,Turner House Heating,0,IQ4E16 Iss4.33 Oct 12 2021,172.16.7.80,1
+3,Pollock Halls,IP172.16.7.89,1,INC,39,Masson House,0,IQ4E96 Iss4.33 Oct 12 2021,172.16.7.74,1
+3,Pollock Halls,IP172.16.7.89,1,INC,98,Baird House Comms Rm,403,IQ411 Iss4.33 Oct 12 2021,172.16.7.95,1
+3,Pollock Halls,IP172.16.7.89,4,INC,5,5,0,No Reply,#N/A#,0
+3,Pollock Halls,IP172.16.7.89,1,INC,15,15,0,No Reply,#N/A#,0
+3,Pollock Halls,IP172.16.7.89,1,INC,16,16,0,No Reply,#N/A#,0
+3,Pollock Halls,IP172.16.7.89,1,INC,17,17,0,No Reply,#N/A#,0
+3,Pollock Halls,IP172.16.7.89,1,INC,19,No Reply,0,No Reply,#N/A#,0
+3,Pollock Halls,IP172.16.7.89,1,INC,118,118,0,No Reply,#N/A#,0
+3,Pollock Halls,IP172.16.7.89,1,INC,12,Abden House,0,IQ4E32 Iss4.33 Oct 12 2021,172.16.7.118,1
+3,Pollock Halls,IP172.16.7.89,4,INC,88,C/Court Riser 6,0,IQ4E16 Iss3.50 Jan 16 2018,172.16.7.105,1
+3,Pollock Halls,IP172.16.7.89,1,INC,0,0,0,?,#N/A#,0
+3,Pollock Halls,IP172.16.7.89,1,INC,110,110,0,No Reply,#N/A#,0
+3,Pollock Halls,IP172.16.7.89,1,INC,109,109,0,No Reply,#N/A#,0
+3,Pollock Halls,IP172.16.7.89,4,INC,87,C/Court Riser 5,0,IQ4E16 Iss3.50 Jan 16 2018,172.16.7.104,1
+3,Pollock Halls,IP172.16.7.89,1,INC,70,UoE,0,0,#N/A#,0
+3,Pollock Halls,IP172.16.7.89,1,INC,69,69,0,No Reply,#N/A#,0
+3,Pollock Halls,IP172.16.7.89,1,INC,68,963 v3.73,0,0,#N/A#,0
+3,Pollock Halls,IP172.16.7.89,4,INC,101,101,0,No Reply,#N/A#,0
+3,Pollock Halls,IP172.16.7.89,4,INC,99,99,0,No Reply,#N/A#,0
+3,Pollock Halls,IP172.16.7.89,4,INC,77,77,0,No Reply,#N/A#,0
+3,Pollock Halls,IP172.16.7.89,4,INC,103,103,0,No Reply,#N/A#,0
+3,Pollock Halls,IP172.16.7.89,4,INC,102,102,0,No Reply,#N/A#,0
+3,Pollock Halls,IP172.16.7.89,5,INC,112,112,0,No Reply,#N/A#,3
+3,Pollock Halls,IP172.16.7.89,5,INC,111,111,0,No Reply,#N/A#,3
+3,Pollock Halls,IP172.16.7.89,5,INC,103,103,0,No Reply,#N/A#,3
+3,Pollock Halls,IP172.16.7.89,5,INC,101,101,0,No Reply,#N/A#,3
+3,Pollock Halls,IP172.16.7.89,5,INC,97,JMC CHW,0,IQ3xcite96 Iss2.10 Jan 15 2009,172.16.6.11,1
+3,Pollock Halls,IP172.16.7.89,4,INC,80,C/Court Htg 1,0,IQ4E96 Iss3.50 Jan 16 2018,172.16.7.97,1
+3,Pollock Halls,IP172.16.7.89,5,INC,96,JMC VENTILATION,0,IQ3xcite128 Iss2.10 Jan 15 2009,172.16.6.10,1
+3,Pollock Halls,IP172.16.7.89,5,INC,95,JMC DISH WASH AHU,0,IQ3xcite96 Iss2.00 Apr 23 2008,172.16.6.9,1
+3,Pollock Halls,IP172.16.7.89,5,INC,94,IQView,0,0,#N/A#,3
+3,Pollock Halls,IP172.16.7.89,5,INC,53,JMC AHU 9,0,IQ3xcite96 Iss3.11 Feb 04 2016,172.16.6.73,1
+3,Pollock Halls,IP172.16.7.89,5,INC,30,JMC AHU 8,0,IQ3xact12 Iss3.11 Feb 04 2016,172.16.6.72,1
+3,Pollock Halls,IP172.16.7.89,5,INC,23,JMC BOILERHOUSE,0,IQ4E128 Iss4.34 Jul 21 2022,172.16.6.65,1
+3,Pollock Halls,IP172.16.7.89,5,INC,22,MSCP2 AHU3&4,0,IQ3xcite96 Iss3.11 Feb 04 2016,172.16.6.64,1
+3,Pollock Halls,IP172.16.7.89,5,INC,21,MSCP1 AHU1&2,0,IQ3xcite96 Iss3.04 Jun 05 2013,172.16.6.63,1
+3,Pollock Halls,IP172.16.7.89,5,INC,4,4,0,No Reply,#N/A#,3
+3,Pollock Halls,IP172.16.7.89,5,INC,1,1,0,No Reply,#N/A#,3
+3,Pollock Halls,IP172.16.7.89,4,INC,126,INC,0,No Reply,#N/A#,0
+3,Pollock Halls,IP172.16.7.89,4,INC,104,104,0,No Reply,#N/A#,0
+3,Pollock Halls,IP172.16.7.89,6,INC,126,INC,0,No Reply,#N/A#,0
+3,Pollock Halls,IP172.16.7.89,6,INC,99,99,0,No Reply,#N/A#,0
+3,Pollock Halls,IP172.16.7.89,6,INC,72,72,0,No Reply,#N/A#,0
+3,Pollock Halls,IP172.16.7.89,6,INC,71,71,0,No Reply,#N/A#,0
+3,Pollock Halls,IP172.16.7.89,6,INC,13,JBH 1ST FLR NTH CP2,0,IQ3xcite96 Iss2.10 Jan 15 2009,172.16.6.7,1
+3,Pollock Halls,IP172.16.7.89,6,INC,12,JBH GND FLR STH CP1,0,IQ3xcite96 Iss2.10 Jan 15 2009,172.16.6.6,1
+3,Pollock Halls,IP172.16.7.89,6,INC,11,JBH MSCP1,0,IQ4E128 Iss3.50 Jan 16 2018,172.16.6.5,1
+3,Pollock Halls,IP172.16.7.89,6,INC,1,IQView,0,0,#N/A#,0
+3,Pollock Halls,IP172.16.7.89,5,INC,126,INC,0,No Reply,#N/A#,3
+3,Pollock Halls,IP172.16.7.89,5,INC,116,116,0,No Reply,#N/A#,3
+3,Pollock Halls,IP172.16.7.89,1,INC,4,4,0,No Reply,#N/A#,0
+3,Pollock Halls,IP172.16.7.89,1,INC,5,5,0,No Reply,#N/A#,0
+3,Pollock Halls,IP172.16.7.89,1,INC,111,111,0,No Reply,#N/A#,0
+412,QMRI CRIC,IP172.16.4.182,85,INC,126,INC,0,No Reply,#N/A#,3
+412,QMRI CRIC,IP172.16.4.182,85,INC,101,963 v3.62,0,0,#N/A#,3
+412,QMRI CRIC,IP172.16.4.182,85,INC,102,102,0,No Reply,#N/A#,3
+412,QMRI CRIC,IP172.16.4.182,85,INC,1,1,0,?,#N/A#,3
+412,QMRI CRIC,IP172.16.4.182,85,INC,0,0,0,?,#N/A#,3
+412,QMRI CRIC,IP172.16.4.182,85,INC,13,CP1 L4 Cat3 Lab,0,IQ4E96 Iss3.44 Jan 16 2017,172.16.4.216,2
+412,QMRI CRIC,IP172.16.4.182,85,INC,103,103,0,No Reply,#N/A#,3
+412,QMRI CRIC,IP172.16.4.182,85,INC,85,85,0,No Reply,#N/A#,3
+412,QMRI CRIC,IP172.16.4.182,85,INC,12,MCC1 Roof Plant,0,IQ422 Iss3.10 Nov 13 2012,172.16.4.158,1
+412,QMRI CRIC,IP172.16.4.182,85,INC,111,111,0,No Reply,#N/A#,3
+412,QMRI CRIC,IP172.16.4.182,85,INC,14,CP1 Control Panel OS14,0,IQ4E128 Iss4.32 Feb 26 2021,172.16.4.182,1
+412,QMRI CRIC,IP172.16.4.182,85,INC,11,MCC1 Roof Plant,0,IQ3xcite128 Iss2.20 Sep 02 2009,172.16.4.156,1
+348,Residence Electric Heating,IP172.16.6.167,97,INC,126,INC,0,No Reply,#N/A#,3
+348,Residence Electric Heating,IP172.16.6.167,97,INC,1,1,0,No Reply,#N/A#,3
+348,Residence Electric Heating,IP172.16.6.167,97,INC,97,97,0,No Reply,#N/A#,3
+348,Residence Electric Heating,IP172.16.6.167,97,INC,11,Darroch Electric Htg,0,IQ3xcite96 Iss3.06 Jan 30 2014,172.16.6.167,2
+348,Residence Electric Heating,IP172.16.6.167,97,INC,12,Robertsons Close,0,IQ411 Iss3.20 Aug 30 2013,172.16.6.161,1
+348,Residence Electric Heating,IP172.16.6.167,97,INC,4,963 v3.62,0,0,#N/A#,3
+348,Residence Electric Heating,IP172.16.6.167,97,INC,5,5,0,No Reply,#N/A#,3
+348,Residence Electric Heating,IP172.16.6.167,0,0,1,1,0,?,#N/A#,0
+348,Residence Electric Heating,IP172.16.6.167,97,INC,13,Churchill Electric Htg,0,IQ3xcite96 Iss3.07 Apr 25 2014,172.16.6.180,1
+348,Residence Electric Heating,IP172.16.6.167,97,INC,56,56,0,No Reply,#N/A#,0
+348,Residence Electric Heating,IP172.16.6.167,97,INC,101,101,0,No Reply,#N/A#,0
+348,Residence Electric Heating,IP172.16.6.167,97,INC,113,113,0,No Reply,#N/A#,3
+8,St Cecilia Hall,IP172.16.7.48,31,INC,101,101,0,No Reply,#N/A#,3
+8,St Cecilia Hall,IP172.16.7.48,31,INC,12,MSCP2 Ventilation,0,IQ4E96 Iss3.41 Aug  3 2016,172.16.7.48,1
+8,St Cecilia Hall,IP172.16.7.48,31,INC,126,INC,0,No Reply,#N/A#,3
+8,St Cecilia Hall,IP172.16.7.48,31,INC,5,5,0,No Reply,#N/A#,3
+8,St Cecilia Hall,IP172.16.7.48,31,INC,11,MSCP1 Boilerhouse,0,IQ4E96 Iss3.41 Aug  3 2016,172.16.6.31,2
+8,St Cecilia Hall,IP172.16.7.48,31,INC,1,1,0,?,#N/A#,0
+8,St Cecilia Hall,IP172.16.7.48,31,INC,0,0,0,?,#N/A#,3
+8,St Cecilia Hall,IP172.16.7.48,31,INC,6,963 v3.62,0,0,#N/A#,3
+8,St Cecilia Hall,IP172.16.7.48,31,INC,7,7,0,No Reply,#N/A#,3
+14,St Leonards Pool AHU,IP172.16.6.32,48,INC,1,1,0,?,#N/A#,0
+14,St Leonards Pool AHU,IP172.16.6.32,48,INC,8,VAV,0,IQ3xcite96 Iss3.02 Aug 15 2012,172.16.6.32,1
+14,St Leonards Pool AHU,IP172.16.6.32,48,INC,126,INC,403,No Reply,#N/A#,0
+14,St Leonards Pool AHU,IP172.16.6.32,48,INC,101,963 v3.62,403,0,#N/A#,0
+588,Unknown,Unknown,0,0,1,1,0,?,#N/A#,0
+350,UOE,,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+395,Weather Forecast,IP129.215.206.231,98,IQ LAN 98,102,963 v3.62,0,0,#N/A#,3
+395,Weather Forecast,IP129.215.206.231,98,IQ LAN 98,0,0,0,?,#N/A#,3
+395,Weather Forecast,IP129.215.206.231,98,IQ LAN 98,1,1,0,No Reply,#N/A#,3
+395,Weather Forecast,IP129.215.206.231,98,IQ LAN 98,101,963 v3.62,0,0,#N/A#,3
+395,Weather Forecast,IP129.215.206.231,98,IQ LAN 98,104,104,0,No Reply,#N/A#,3
+395,Weather Forecast,IP129.215.206.231,98,IQ LAN 98,126,IQ LAN 98,0,IQ4NCINC Iss8.10 Mar 05 2013,#N/A#,3
+395,Weather Forecast,IP129.215.206.231,98,IQ LAN 98,9,Rob Close SIP 4NC,0,IQ4NC0 Iss3.21 Apr 17 2014,129.215.206.231,1
+395,Weather Forecast,IP129.215.206.231,98,IQ LAN 98,11,Rob Close IQ422 Lan,0,IQ422 Iss3.21 Apr 17 2014,172.16.6.209,1
+395,Weather Forecast,IP129.215.206.231,98,IQ LAN 98,103,103,0,No Reply,#N/A#,3
+194,WGH BRF,IP172.16.6.82,75,INC,27,CP2 OS27 BRF,236,IQ3xcite96 Iss2.34 Jun 13 2011,172.16.6.83,1
+194,WGH BRF,IP172.16.6.82,75,INC,30,CP3 OS30 BRF,236,IQ3xcite96 Iss2.34 Jun 13 2011,172.16.6.86,1
+194,WGH BRF,IP172.16.6.82,75,INC,31,CP3 OS31 BRF,236,IQ3xcite96 Iss2.34 Jun 13 2011,172.16.6.87,1
+194,WGH BRF,IP172.16.6.82,75,INC,1,1,0,?,#N/A#,0
+194,WGH BRF,IP172.16.6.82,75,INC,71,71,0,No Reply,#N/A#,3
+194,WGH BRF,IP172.16.6.82,75,INC,29,CP3 OS29 BRF,236,IQ3xcite96 Iss2.34 Jun 13 2011,172.16.6.85,1
+194,WGH BRF,IP172.16.6.82,75,INC,72,963 v3.62,0,0,#N/A#,3
+194,WGH BRF,IP172.16.6.82,75,INC,73,73,0,No Reply,#N/A#,3
+194,WGH BRF,IP172.16.6.82,75,INC,74,74,0,No Reply,#N/A#,3
+194,WGH BRF,IP172.16.6.82,75,INC,126,INC,0,No Reply,#N/A#,3
+194,WGH BRF,IP172.16.6.82,71,71,11,11,0,?,#N/A#,0
+194,WGH BRF,IP172.16.6.82,75,INC,75,75,0,No Reply,#N/A#,3
+194,WGH BRF,IP172.16.6.82,75,INC,4,CP3,0,0,#N/A#,3
+194,WGH BRF,IP172.16.6.82,75,INC,26,CP1 OS26 BRF,236,IQ3xcite96 Iss2.34 Jun 13 2011,172.16.6.82,2
+194,WGH BRF,IP172.16.6.82,75,INC,9,9,0,?,#N/A#,0
+496,WGH CJD,IP172.16.6.22,72,72,101,963 v3.73,0,0,#N/A#,0
+496,WGH CJD,IP172.16.6.22,72,72,21,CJD Heating & Vent,0,IQ4E160 Iss4.30 Mar 11 2020,172.16.6.22,1
+496,WGH CJD,IP172.16.6.22,72,72,103,103,0,No Reply,#N/A#,0
+496,WGH CJD,IP172.16.6.22,72,72,102,102,0,No Reply,#N/A#,0
+496,WGH CJD,IP172.16.6.22,72,72,126,INC,0,No Reply,#N/A#,0
+496,WGH CJD,IP172.16.6.22,72,72,0,0,0,?,#N/A#,0
+39,WGH EVANS,IP172.16.6.21,71,INC,51,51,0,No Reply,#N/A#,0
+39,WGH EVANS,IP172.16.6.21,71,INC,101,101,0,No Reply,#N/A#,0
+39,WGH EVANS,IP172.16.6.21,75,INC,27,CP2 OS27 BRF,0,IQ3xcite96 Iss2.34 Jun 13 2011,172.16.6.83,0
+39,WGH EVANS,IP172.16.6.21,75,INC,29,CP3 OS29 BRF,0,IQ3xcite96 Iss2.34 Jun 13 2011,172.16.6.85,0
+39,WGH EVANS,IP172.16.6.21,75,INC,30,CP3 OS30 BRF,0,IQ3xcite96 Iss2.34 Jun 13 2011,172.16.6.86,0
+39,WGH EVANS,IP172.16.6.21,75,INC,31,CP3 OS31 BRF,0,IQ3xcite96 Iss2.34 Jun 13 2011,172.16.6.87,0
+39,WGH EVANS,IP172.16.6.21,75,INC,71,71,0,No Reply,#N/A#,0
+39,WGH EVANS,IP172.16.6.21,75,INC,72,963 v3.73,0,0,#N/A#,0
+39,WGH EVANS,IP172.16.6.21,75,INC,73,73,0,No Reply,#N/A#,0
+39,WGH EVANS,IP172.16.6.21,75,INC,74,74,0,No Reply,#N/A#,0
+39,WGH EVANS,IP172.16.6.21,75,INC,75,75,0,No Reply,#N/A#,0
+39,WGH EVANS,IP172.16.6.21,75,INC,126,INC,0,No Reply,#N/A#,0
+39,WGH EVANS,IP172.16.6.21,71,INC,22,"ROOMS 8,9&36",236,IQ422-12 Iss4.33 Oct 12 2021,172.16.7.192,1
+39,WGH EVANS,IP172.16.6.21,71,INC,23,"ROOMS 21,22&35",236,IQ422-12 Iss4.33 Oct 12 2021,172.16.7.193,1
+39,WGH EVANS,IP172.16.6.21,71,INC,24,ROOMS 26-35,236,IQ422-12 Iss4.33 Oct 12 2021,172.16.7.194,1
+39,WGH EVANS,IP172.16.6.21,75,INC,26,CP1 OS26 BRF,0,IQ3xcite96 Iss2.34 Jun 13 2011,172.16.6.82,0
+39,WGH EVANS,IP172.16.6.21,71,INC,58,58,236,No Reply,#N/A#,3
+39,WGH EVANS,IP172.16.6.21,71,INC,60,TMNH Dialler,236,No Reply,#N/A#,3
+39,WGH EVANS,IP172.16.6.21,71,INC,77,77,236,No Reply,#N/A#,3
+39,WGH EVANS,IP172.16.6.21,71,INC,88,88,236,No Reply,#N/A#,3
+39,WGH EVANS,IP172.16.6.21,71,INC,93,93,236,No Reply,#N/A#,3
+39,WGH EVANS,IP172.16.6.21,71,INC,94,94,236,No Reply,#N/A#,3
+39,WGH EVANS,IP172.16.6.21,71,INC,126,INC,236,No Reply,#N/A#,3
+39,WGH EVANS,IP172.16.6.21,71,INC,12,AHU No.1,236,IQ422-12 Iss4.33 Oct 12 2021,172.16.7.182,1
+39,WGH EVANS,IP172.16.6.21,71,INC,13,AHU No.2,236,IQ422-12 Iss4.33 Oct 12 2021,172.16.7.183,1
+39,WGH EVANS,IP172.16.6.21,71,INC,14,AHU No.3,236,IQ422-12 Iss4.33 Oct 12 2021,172.16.7.184,1
+39,WGH EVANS,IP172.16.6.21,71,INC,15,AHU No.4,236,IQ422-12 Iss4.33 Oct 12 2021,172.16.7.185,1
+39,WGH EVANS,IP172.16.6.21,71,INC,16,AHU No.5,236,IQ422-12 Iss4.33 Oct 12 2021,172.16.7.186,1
+39,WGH EVANS,IP172.16.6.21,71,INC,17,"ROOMS 7,19&20",236,IQ422-12 Iss4.33 Oct 12 2021,172.16.7.187,1
+39,WGH EVANS,IP172.16.6.21,71,INC,18,"ROOMS 16,17&18",236,IQ422-12 Iss4.33 Oct 12 2021,172.16.7.188,1
+39,WGH EVANS,IP172.16.6.21,71,INC,19,ROOMS 14&15,236,IQ422-12 Iss4.33 Oct 12 2021,172.16.7.189,0
+39,WGH EVANS,IP172.16.6.21,71,INC,20,ROOMS 13&36,236,IQ422-12 Iss4.33 Oct 12 2021,172.16.7.190,1
+39,WGH EVANS,IP172.16.6.21,71,INC,21,"ROOMS 10,11&12",236,IQ422-12 Iss4.33 Oct 12 2021,172.16.7.191,1
+39,WGH EVANS,IP172.16.6.21,71,INC,11,PLANTROOM,236,IQ4E96 Iss4.33 Oct 12 2021,172.16.6.21,2
+39,WGH EVANS,IP172.16.6.21,71,INC,1,963 v3.73,0,0,#N/A#,3
+39,WGH EVANS,IP172.16.6.21,71,INC,0,0,0,?,#N/A#,0
+39,WGH EVANS,IP172.16.6.21,71,INC,50,50,0,No Reply,#N/A#,3
+39,WGH EVANS,IP172.16.6.21,71,INC,5,963 v3.73,0,0,#N/A#,3
+39,WGH EVANS,IP172.16.6.21,71,INC,85,85,0,No Reply,#N/A#,0
+41,WGH IGMM,IP172.16.7.206,98,INC,1,1,0,?,#N/A#,0
+41,WGH IGMM,IP172.16.7.206,99,IQ LAN 99,6,6,0,No Reply,#N/A#,0
+41,WGH IGMM,IP172.16.7.206,99,IQ LAN 99,7,7,0,No Reply,#N/A#,0
+41,WGH IGMM,IP172.16.7.206,99,IQ LAN 99,100,100,0,?,#N/A#,3
+41,WGH IGMM,IP172.16.7.206,99,IQ LAN 99,80,FCU-16,0,IQ411 Iss3.44 Jan 16 2017,192.168.1.80,1
+41,WGH IGMM,IP172.16.7.206,99,IQ LAN 99,78,FCU-14,0,IQ411 Iss3.44 Jan 16 2017,192.168.1.78,1
+41,WGH IGMM,IP172.16.7.206,99,IQ LAN 99,88,FCU 24,0,IQ411 Iss3.44 Jan 16 2017,192.168.1.88,1
+41,WGH IGMM,IP172.16.7.206,99,IQ LAN 99,83,FCU-19,0,IQ411 Iss3.44 Jan 16 2017,192.168.1.83,1
+41,WGH IGMM,IP172.16.7.206,99,IQ LAN 99,75,FCU-11,0,IQ411 Iss3.44 Jan 16 2017,192.168.1.75,1
+41,WGH IGMM,IP172.16.7.206,99,IQ LAN 99,84,FCU-20,0,IQ411 Iss3.44 Jan 16 2017,192.168.1.84,1
+41,WGH IGMM,IP172.16.7.206,99,IQ LAN 99,82,FCU-18,0,IQ411 Iss3.44 Jan 16 2017,192.168.1.82,1
+41,WGH IGMM,IP172.16.7.206,99,IQ LAN 99,79,FCU-15,0,IQ411 Iss3.44 Jan 16 2017,192.168.1.79,1
+41,WGH IGMM,IP172.16.7.206,99,IQ LAN 99,76,FCU-12,0,IQ411 Iss3.44 Jan 16 2017,192.168.1.76,1
+41,WGH IGMM,IP172.16.7.206,99,IQ LAN 99,87,FCU-23,0,IQ411 Iss3.44 Jan 16 2017,192.168.1.87,1
+41,WGH IGMM,IP172.16.7.206,99,IQ LAN 99,86,FCU-22,0,IQ411 Iss3.44 Jan 16 2017,192.168.1.86,1
+41,WGH IGMM,IP172.16.7.206,80,INC,104,104,0,No Reply,#N/A#,3
+41,WGH IGMM,IP172.16.7.206,98,INC,101,101,0,No Reply,#N/A#,3
+41,WGH IGMM,IP172.16.7.206,98,INC,20,Ahu1_5,0,IQ4E128 Iss4.20 Aug 21 2019,172.16.7.204,1
+41,WGH IGMM,IP172.16.7.206,98,INC,61,61,0,No Reply,#N/A#,3
+41,WGH IGMM,IP172.16.7.206,99,IQ LAN 99,27,FC-2.15,0,IQ411 Iss3.50 Jan 16 2018,192.168.1.27,1
+41,WGH IGMM,IP172.16.7.206,99,IQ LAN 99,24,FC-2.18,0,IQ411 Iss3.50 Jan 16 2018,192.168.1.24,1
+41,WGH IGMM,IP172.16.7.206,99,IQ LAN 99,44,FC-3.09,0,IQ411 Iss3.50 Jan 16 2018,192.168.1.44,1
+41,WGH IGMM,IP172.16.7.206,99,IQ LAN 99,99,99,0,No Reply,#N/A#,3
+41,WGH IGMM,IP172.16.7.206,99,IQ LAN 99,74,FC-10,0,IQ411 Iss3.44 Jan 16 2017,128.1.1.3,1
+41,WGH IGMM,IP172.16.7.206,99,IQ LAN 99,73,FC-09,0,IQ411 Iss3.44 Jan 16 2017,128.1.1.3,1
+41,WGH IGMM,IP172.16.7.206,99,IQ LAN 99,72,FC-08,0,IQ411 Iss3.44 Jan 16 2017,128.1.1.3,1
+41,WGH IGMM,IP172.16.7.206,99,IQ LAN 99,71,FC-07,0,IQ411 Iss3.44 Jan 16 2017,128.1.1.3,1
+41,WGH IGMM,IP172.16.7.206,99,IQ LAN 99,70,FC-06,0,IQ411 Iss3.44 Jan 16 2017,192.168.1.70,1
+41,WGH IGMM,IP172.16.7.206,99,IQ LAN 99,69,FC-05,0,IQ411 Iss3.44 Jan 16 2017,128.1.1.3,1
+41,WGH IGMM,IP172.16.7.206,99,IQ LAN 99,68,FC-04,0,IQ411 Iss3.44 Jan 16 2017,128.1.1.3,1
+41,WGH IGMM,IP172.16.7.206,99,IQ LAN 99,67,FC-03,0,IQ411 Iss3.44 Jan 16 2017,128.1.1.3,1
+41,WGH IGMM,IP172.16.7.206,99,IQ LAN 99,66,FC-02,0,IQ411 Iss3.44 Jan 16 2017,128.1.1.3,1
+41,WGH IGMM,IP172.16.7.206,99,IQ LAN 99,65,FC-01,0,IQ411 Iss3.44 Jan 16 2017,128.1.1.3,1
+41,WGH IGMM,IP172.16.7.206,99,IQ LAN 99,64,Cold Room AC,0,IQ4E16 Iss3.44 Jan 16 2017,192.168.1.64,1
+41,WGH IGMM,IP172.16.7.206,99,IQ LAN 99,89,FC-G.05,0,IQ411 Iss3.50 Jan 16 2018,192.168.1.89,1
+41,WGH IGMM,IP172.16.7.206,99,IQ LAN 99,85,FCU-21,0,IQ411 Iss3.44 Jan 16 2017,192.168.1.85,1
+41,WGH IGMM,IP172.16.7.206,99,IQ LAN 99,28,FC-1.16,0,IQ411 Iss3.50 Jan 16 2018,192.168.1.28,1
+41,WGH IGMM,IP172.16.7.206,99,IQ LAN 99,42,FC-3.13,0,IQ411 Iss3.50 Jan 16 2018,192.168.1.42,1
+41,WGH IGMM,IP172.16.7.206,99,IQ LAN 99,43,FC-3.12,0,IQ411 Iss3.50 Jan 16 2018,192.168.1.43,1
+41,WGH IGMM,IP172.16.7.206,99,IQ LAN 99,45,FC-3.10,0,IQ411 Iss3.50 Jan 16 2018,192.168.1.45,1
+41,WGH IGMM,IP172.16.7.206,73,IGMM North,12,MSCP2 Ground Vent,0,IQ3xcite96 Iss3.11 Feb 04 2016,172.16.6.37,1
+41,WGH IGMM,IP172.16.7.206,73,IGMM North,13,MSCP3 RoofVentPanel os1,0,IQ4E128 Iss4.32 Feb 26 2021,172.16.6.38,1
+41,WGH IGMM,IP172.16.7.206,73,IGMM North,14,MSCP3 RoofVentPanel os2,0,IQ4E96 Iss4.32 Feb 26 2021,172.16.6.39,1
+41,WGH IGMM,IP172.16.7.206,73,IGMM North,15,MSCP4RoofReHeatPanel,0,IQ3xcite96 Iss3.11 Feb 04 2016,172.16.6.40,1
+41,WGH IGMM,IP172.16.7.206,73,IGMM North,101,101,0,No Reply,#N/A#,3
+41,WGH IGMM,IP172.16.7.206,73,IGMM North,102,102,0,No Reply,#N/A#,3
+41,WGH IGMM,IP172.16.7.206,73,IGMM North,103,103,0,No Reply,#N/A#,3
+41,WGH IGMM,IP172.16.7.206,73,IGMM North,126,INC,0,No Reply,#N/A#,3
+41,WGH IGMM,IP172.16.7.206,73,IGMM North,4,IQView,0,0,#N/A#,3
+41,WGH IGMM,IP172.16.7.206,73,IGMM North,5,5,0,No Reply,#N/A#,3
+41,WGH IGMM,IP172.16.7.206,73,IGMM North,11,MSCP1 Heating Plant,0,IQ3xcite96 Iss3.11 Feb 04 2016,172.16.6.36,1
+41,WGH IGMM,IP172.16.7.206,99,IQ LAN 99,25,FC-2.17,0,IQ411 Iss3.50 Jan 16 2018,172.16.7.248,1
+41,WGH IGMM,IP172.16.7.206,98,INC,96,96,0,No Reply,#N/A#,3
+41,WGH IGMM,IP172.16.7.206,98,INC,97,97,0,No Reply,#N/A#,3
+41,WGH IGMM,IP172.16.7.206,98,INC,126,INC,0,No Reply,#N/A#,3
+41,WGH IGMM,IP172.16.7.206,0,126,20,Ahu1_5,0,IQ4E128 Iss4.20 Aug 21 2019,172.16.7.204,0
+41,WGH IGMM,IP172.16.7.206,0,126,96,96,0,No Reply,#N/A#,0
+41,WGH IGMM,IP172.16.7.206,98,INC,22,Boilerhouse,0,IQ4E128 Iss3.70 Jun 13 2019,172.16.7.206,1
+41,WGH IGMM,IP172.16.7.206,98,INC,21,Ahu6_9,0,IQ4E128 Iss4.20 Aug 21 2019,172.16.7.205,1
+41,WGH IGMM,IP172.16.7.206,0,126,97,97,0,No Reply,#N/A#,0
+41,WGH IGMM,IP172.16.7.206,0,126,101,101,0,No Reply,#N/A#,0
+41,WGH IGMM,IP172.16.7.206,0,126,102,102,0,No Reply,#N/A#,0
+41,WGH IGMM,IP172.16.7.206,0,126,103,103,0,No Reply,#N/A#,0
+41,WGH IGMM,IP172.16.7.206,0,126,126,126,0,No Reply,#N/A#,0
+41,WGH IGMM,IP172.16.7.206,90,INC,11,IGMM_Ext_MSCP01_Roof,0,IQ4E160 Iss4.35 Mar 22 2023,172.16.134.81,1
+41,WGH IGMM,IP172.16.7.206,90,INC,12,MSCP02 - Level 0,0,IQ4E96 Iss4.34 Jul 21 2022,172.16.134.84,1
+41,WGH IGMM,IP172.16.7.206,99,IQ LAN 99,8,CRUK LAN 99,0,IQ4NC0 Iss4.34 Jul 21 2022,172.16.6.24,3
+41,WGH IGMM,IP172.16.7.206,90,INC,16,CP04 - Level 4,0,IQ4E64 Iss4.34 Jul 21 2022,172.16.134.85,1
+41,WGH IGMM,IP172.16.7.206,99,IQ LAN 99,19,19,0,No Reply,#N/A#,3
+41,WGH IGMM,IP172.16.7.206,80,INC,11,MSCP1-Third Floor Plantroom,0,IQ3xcite96 Iss3.11 Feb 04 2016,172.16.6.183,1
+41,WGH IGMM,IP172.16.7.206,80,INC,21,Boilerhouse MSCP2 OS21,0,IQ3xcite128 Iss3.11 Feb 04 2016,172.16.6.184,2
+41,WGH IGMM,IP172.16.7.206,80,INC,22,Boilerhouse MSCP2 OS22,0,IQ3xcite96 Iss3.11 Feb 04 2016,172.16.6.90,1
+41,WGH IGMM,IP172.16.7.206,80,INC,31,CP1-Ground Floor Tank Room,0,IQ3xcite128 Iss3.11 Feb 04 2016,172.16.6.186,1
+41,WGH IGMM,IP172.16.7.206,80,INC,32,CP2 Grnd Flr Toilet Cupboard ,0,IQ3xcite96 Iss3.11 Feb 04 2016,172.16.6.187,1
+41,WGH IGMM,IP172.16.7.206,80,INC,33,CP3-Second Floor Riser,0,IQ3xcite96 Iss3.11 Feb 04 2016,172.16.6.188,1
+41,WGH IGMM,IP172.16.7.206,80,INC,34,CP4-Third Floor Riser,0,IQ3xcite96 Iss3.11 Feb 04 2016,172.16.6.189,1
+41,WGH IGMM,IP172.16.7.206,80,INC,35,CP5-Fourth Floor Riser,0,IQ3xcite96 Iss3.11 Feb 04 2016,172.16.6.190,1
+41,WGH IGMM,IP172.16.7.206,80,INC,101,101,0,No Reply,#N/A#,3
+41,WGH IGMM,IP172.16.7.206,80,INC,102,102,0,No Reply,#N/A#,3
+41,WGH IGMM,IP172.16.7.206,80,INC,114,114,0,No Reply,#N/A#,3
+41,WGH IGMM,IP172.16.7.206,80,INC,126,INC,0,No Reply,#N/A#,3
+41,WGH IGMM,IP172.16.7.206,99,IQ LAN 99,93,93,0,No Reply,#N/A#,3
+41,WGH IGMM,IP172.16.7.206,99,IQ LAN 99,92,92,0,No Reply,#N/A#,3
+41,WGH IGMM,IP172.16.7.206,99,IQ LAN 99,90,FC-G.06A,0,IQ411 Iss3.50 Jan 16 2018,192.168.1.90,1
+41,WGH IGMM,IP172.16.7.206,79,INC,91,91,0,No Reply,#N/A#,3
+41,WGH IGMM,IP172.16.7.206,107,PlantroomLINC,126,PlantroomLINC,0,0,#N/A#,3
+41,WGH IGMM,IP172.16.7.206,73,IGMM North,105,105,0,No Reply,#N/A#,3
+41,WGH IGMM,IP172.16.7.206,99,IQ LAN 99,1,1,0,No Reply,#N/A#,3
+41,WGH IGMM,IP172.16.7.206,99,IQ LAN 99,31,UnitHeaters1_2,0,IQ412 Iss3.44 Jan 16 2017,128.1.1.3,1
+41,WGH IGMM,IP172.16.7.206,99,IQ LAN 99,81,FCU-17,0,IQ411 Iss3.44 Jan 16 2017,192.168.1.81,1
+41,WGH IGMM,IP172.16.7.206,99,IQ LAN 99,126,IQ LAN 99,0,IQ4NCINC Iss8.10 Mar 0,#N/A#,3
+41,WGH IGMM,IP172.16.7.206,99,IQ LAN 99,60,A-C4thFloorHub,0,IQ411 Iss3.50 Jan 16 2018,128.1.1.3,1
+41,WGH IGMM,IP172.16.7.206,99,IQ LAN 99,58,Biology Sample,0,IQ412 Iss3.44 Jan 16 2017,128.1.1.3,1
+41,WGH IGMM,IP172.16.7.206,99,IQ LAN 99,59,Floor3TrenchHtg,0,IQ412 Iss3.40 May 19 2016,192.168.1.11,1
+41,WGH IGMM,IP172.16.7.206,99,IQ LAN 99,77,FCU-13,0,IQ411 Iss3.44 Jan 16 2017,192.168.1.77,1
+41,WGH IGMM,IP172.16.7.206,0,126,21,Ahu6_9,0,IQ4E128 Iss4.20 Aug 21 2019,172.16.7.205,0
+41,WGH IGMM,IP172.16.7.206,99,IQ LAN 99,9,9,0,No Reply,#N/A#,0
+41,WGH IGMM,IP172.16.7.206,0,126,22,Boilerhouse,0,IQ4E128 Iss4.34 Jul 21 2022,172.16.7.206,0
+41,WGH IGMM,IP172.16.7.206,99,IQ LAN 99,30,FreezerBayA-C,0,IQ422-12 Iss3.44 Jan 16 2017,172.16.7.30,1
+41,WGH IGMM,IP172.16.7.206,99,IQ LAN 99,5,5,0,No Reply,#N/A#,3
+41,WGH IGMM,IP172.16.7.206,99,IQ LAN 99,33,LiftMotorRoom,0,IQ412 Iss4.34 Jul 21 2022,128.1.1.3,1
+41,WGH IGMM,IP172.16.7.206,99,IQ LAN 99,34,LiquidNitrogen,0,IQ422-12 Iss3.44 Jan 16 2017,128.1.1.3,1
+41,WGH IGMM,IP172.16.7.206,99,IQ LAN 99,37,Door Heater,0,IQ412 Iss3.44 Jan 16 2017,128.1.1.3,1
+41,WGH IGMM,IP172.16.7.206,99,IQ LAN 99,40,Seminar Area,0,IQ422-12 Iss3.44 Jan 16 2017,128.1.1.3,1
+41,WGH IGMM,IP172.16.7.206,99,IQ LAN 99,41,Floor1IT HUB,0,IQ412 Iss3.44 Jan 16 2017,128.1.1.3,1
+41,WGH IGMM,IP172.16.7.206,99,IQ LAN 99,46,TissueCulture1,0,IQ412 Iss3.44 Jan 16 2017,128.1.1.3,1
+41,WGH IGMM,IP172.16.7.206,99,IQ LAN 99,47,TissueCulture2,0,IQ412 Iss3.44 Jan 16 2017,128.1.1.3,1
+41,WGH IGMM,IP172.16.7.206,99,IQ LAN 99,48,TissueCulture3,0,IQ412 Iss3.44 Jan 16 2017,128.1.1.3,1
+41,WGH IGMM,IP172.16.7.206,99,IQ LAN 99,49,Primary Culture,0,IQ412 Iss3.45 Aug 29 2017,192.168.1.49,1
+41,WGH IGMM,IP172.16.7.206,99,IQ LAN 99,50,General Prep 1,0,IQ412 Iss3.44 Jan 16 2017,169.254.77.127,1
+41,WGH IGMM,IP172.16.7.206,99,IQ LAN 99,51,Histology,0,IQ412 Iss3.30 Apr 23 2015,192.168.1.11,1
+41,WGH IGMM,IP172.16.7.206,99,IQ LAN 99,56,General Prep 2,0,IQ412 Iss3.44 Jan 16 2017,128.1.1.3,1
+41,WGH IGMM,IP172.16.7.206,99,IQ LAN 99,57,Monitor,0,IQ412 Iss3.44 Jan 16 2017,128.1.1.3,1
+41,WGH IGMM,IP172.16.7.206,98,INC,23,23,0,No Reply,#N/A#,0
+41,WGH IGMM,IP172.16.7.206,78,INC,11,MRC Annexe Vent 1,0,IQ3xcite96 Iss3.11 Feb 04 2016,172.16.6.185,1
+41,WGH IGMM,IP172.16.7.206,78,INC,111,111,0,No Reply,#N/A#,3
+41,WGH IGMM,IP172.16.7.206,78,INC,126,INC,0,No Reply,#N/A#,3
+41,WGH IGMM,IP172.16.7.206,79,INC,6,6,0,No Reply,#N/A#,3
+41,WGH IGMM,IP172.16.7.206,79,INC,7,7,0,No Reply,#N/A#,3
+41,WGH IGMM,IP172.16.7.206,79,INC,12,12,0,No Reply,#N/A#,3
+41,WGH IGMM,IP172.16.7.206,79,INC,21,Roof Plant,0,No Reply,,1
+41,WGH IGMM,IP172.16.7.206,79,INC,23,LEVEL 2 PLANT,0,IQ4E32 Iss4.33 Oct 12 2021,172.16.7.197,1
+41,WGH IGMM,IP172.16.7.206,79,INC,24,ROOF PLANT C,0,IQ4E96 Iss4.33 Oct 12 2021,172.16.7.198,1
+41,WGH IGMM,IP172.16.7.206,79,INC,26,LEVEL 1 PLANT A,0,IQ4E64 Iss3.44 Jan 16 2017,172.16.7.200,1
+41,WGH IGMM,IP172.16.7.206,79,INC,28,LEVEL0 PLANT,0,IQ4E96 Iss4.33 Oct 12 2021,172.16.7.202,1
+41,WGH IGMM,IP172.16.7.206,90,INC,5,5,0,No Reply,#N/A#,0
+41,WGH IGMM,IP172.16.7.206,90,INC,13,CP01 - Level 1,0,IQ4E32 Iss4.34 Jul 21 2022,172.16.134.89,1
+41,WGH IGMM,IP172.16.7.206,90,INC,14,IGMM Ext CP02 L2,0,IQ4E64 Iss4.34 Jul 21 2022,172.16.134.88,1
+41,WGH IGMM,IP172.16.7.206,90,INC,15,CP03 - Level 3,0,IQ4E64 Iss4.34 Jul 21 2022,172.16.134.87,1
+41,WGH IGMM,IP172.16.7.206,90,INC,92,92,0,No Reply,#N/A#,0
+41,WGH IGMM,IP172.16.7.206,90,INC,93,93,0,No Reply,#N/A#,0
+41,WGH IGMM,IP172.16.7.206,90,INC,94,94,0,No Reply,#N/A#,0
+41,WGH IGMM,IP172.16.7.206,90,INC,95,95,0,No Reply,#N/A#,0
+41,WGH IGMM,IP172.16.7.206,90,INC,96,96,0,No Reply,#N/A#,0
+41,WGH IGMM,IP172.16.7.206,90,INC,101,101,0,No Reply,#N/A#,0
+41,WGH IGMM,IP172.16.7.206,90,INC,102,102,0,No Reply,#N/A#,0
+41,WGH IGMM,IP172.16.7.206,90,INC,103,103,0,No Reply,#N/A#,0
+41,WGH IGMM,IP172.16.7.206,90,INC,126,INC,0,No Reply,#N/A#,0
+41,WGH IGMM,IP172.16.7.206,91,MSTP LAN 91,9,Level 1 CP01 IQ4NC,0,IQ4NC0 Iss4.34 Jul 21 2022,172.16.134.92,1
+41,WGH IGMM,IP172.16.7.206,91,MSTP LAN 91,11,11,0,No Reply,#N/A#,3
+41,WGH IGMM,IP172.16.7.206,91,MSTP LAN 91,16,16,0,No Reply,#N/A#,3
+41,WGH IGMM,IP172.16.7.206,91,MSTP LAN 91,4,4,0,No Reply,#N/A#,3
+41,WGH IGMM,IP172.16.7.206,91,MSTP LAN 91,5,5,0,No Reply,#N/A#,3
+41,WGH IGMM,IP172.16.7.206,91,MSTP LAN 91,6,6,0,No Reply,#N/A#,3
+41,WGH IGMM,IP172.16.7.206,91,MSTP LAN 91,7,7,0,No Reply,#N/A#,3
+41,WGH IGMM,IP172.16.7.206,91,MSTP LAN 91,17,FCU_01_01,0,IQeco32 Iss2.42 Feb  3 2021,#N/A#,3
+41,WGH IGMM,IP172.16.7.206,91,MSTP LAN 91,18,FCU_01_02_M,0,IQeco32 Iss2.42 Feb  3 2021,#N/A#,3
+41,WGH IGMM,IP172.16.7.206,91,MSTP LAN 91,19,FCU_01_03_S,0,IQeco32 Iss2.42 Feb  3 2021,#N/A#,3
+41,WGH IGMM,IP172.16.7.206,91,MSTP LAN 91,20,FCU_02_01,0,IQeco32 Iss2.42 Feb  3 2021,#N/A#,3
+41,WGH IGMM,IP172.16.7.206,91,MSTP LAN 91,21,FCU_02_02_M,0,IQeco32 Iss2.42 Feb  3 2021,#N/A#,3
+41,WGH IGMM,IP172.16.7.206,91,MSTP LAN 91,22,FCU_02_03_S,0,IQeco32 Iss2.42 Feb  3 2021,#N/A#,3
+41,WGH IGMM,IP172.16.7.206,91,MSTP LAN 91,23,FCU_03_01,0,IQeco32 Iss2.42 Feb  3 2021,#N/A#,3
+41,WGH IGMM,IP172.16.7.206,91,MSTP LAN 91,24,FCU_03_02_M,0,IQeco32 Iss2.42 Feb  3 2021,#N/A#,3
+41,WGH IGMM,IP172.16.7.206,91,MSTP LAN 91,25,FCU_03_03_S,0,IQeco32 Iss2.42 Feb  3 2021,#N/A#,3
+41,WGH IGMM,IP172.16.7.206,91,MSTP LAN 91,126,MSTP LAN 91,0,IQ4NCBINC Iss8.10 Mar 0,#N/A#,3
+41,WGH IGMM,IP172.16.7.206,92,INC,4,4,0,No Reply,#N/A#,3
+41,WGH IGMM,IP172.16.7.206,92,INC,5,5,0,No Reply,#N/A#,3
+41,WGH IGMM,IP172.16.7.206,92,INC,6,6,0,No Reply,#N/A#,3
+41,WGH IGMM,IP172.16.7.206,92,INC,7,7,0,No Reply,#N/A#,3
+41,WGH IGMM,IP172.16.7.206,92,INC,9,IGMM ExtensionL2 4NC,0,IQ4NC0 Iss4.34 Jul 21 2022,172.16.134.91,1
+41,WGH IGMM,IP172.16.7.206,92,INC,126,INC,0,No Reply,#N/A#,3
+41,WGH IGMM,IP172.16.7.206,93,INC,4,4,0,No Reply,#N/A#,3
+41,WGH IGMM,IP172.16.7.206,93,INC,5,5,0,No Reply,#N/A#,3
+41,WGH IGMM,IP172.16.7.206,93,INC,6,6,0,No Reply,#N/A#,3
+41,WGH IGMM,IP172.16.7.206,93,INC,7,7,0,No Reply,#N/A#,3
+41,WGH IGMM,IP172.16.7.206,93,INC,9,IGMM Ext CP03 L3 4NC,0,IQ4NC0 Iss4.34 Jul 21 2022,172.16.134.90,1
+41,WGH IGMM,IP172.16.7.206,93,INC,126,INC,0,No Reply,#N/A#,3
+41,WGH IGMM,IP172.16.7.206,94,MSTP LAN 94,4,4,0,No Reply,#N/A#,3
+41,WGH IGMM,IP172.16.7.206,94,MSTP LAN 94,5,5,0,No Reply,#N/A#,3
+41,WGH IGMM,IP172.16.7.206,94,MSTP LAN 94,6,6,0,No Reply,#N/A#,3
+41,WGH IGMM,IP172.16.7.206,94,MSTP LAN 94,7,7,0,No Reply,#N/A#,3
+41,WGH IGMM,IP172.16.7.206,94,MSTP LAN 94,9,Level 0 CP02 IQ4NC,0,IQ4NC0 Iss4.34 Jul 21 2022,172.16.134.93,1
+41,WGH IGMM,IP172.16.7.206,94,MSTP LAN 94,11,FCU_00_01,0,IQeco32 Iss2.42 Feb  3 2021,#N/A#,3
+41,WGH IGMM,IP172.16.7.206,94,MSTP LAN 94,12,FCU_00_02,0,IQeco32 Iss2.42 Feb  3 2021,#N/A#,3
+41,WGH IGMM,IP172.16.7.206,94,MSTP LAN 94,13,FCU_00_03,0,IQeco32 Iss2.42 Feb  3 2021,#N/A#,3
+41,WGH IGMM,IP172.16.7.206,94,MSTP LAN 94,14,FCU_00_04,0,IQeco32 Iss2.42 Feb  3 2021,#N/A#,3
+41,WGH IGMM,IP172.16.7.206,94,MSTP LAN 94,15,FCU_00_05,0,IQeco32 Iss2.42 Feb  3 2021,#N/A#,3
+41,WGH IGMM,IP172.16.7.206,94,MSTP LAN 94,126,MSTP LAN 94,0,IQ4NCBINC Iss8.10 Mar 0,#N/A#,3
+41,WGH IGMM,IP172.16.7.206,79,INC,92,92,0,No Reply,#N/A#,3
+41,WGH IGMM,IP172.16.7.206,79,INC,93,93,0,No Reply,#N/A#,3
+41,WGH IGMM,IP172.16.7.206,79,INC,101,963 v3.73,0,0,#N/A#,3
+41,WGH IGMM,IP172.16.7.206,79,INC,102,102,0,No Reply,#N/A#,3
+41,WGH IGMM,IP172.16.7.206,79,INC,103,103,0,No Reply,#N/A#,3
+41,WGH IGMM,IP172.16.7.206,79,INC,105,105,0,No Reply,#N/A#,3
+41,WGH IGMM,IP172.16.7.206,79,INC,126,INC,0,No Reply,#N/A#,3
+41,WGH IGMM,IP172.16.7.206,80,INC,5,IQView8,0,0,#N/A#,3
+41,WGH IGMM,IP172.16.7.206,80,INC,103,103,0,No Reply,#N/A#,3
+41,WGH IGMM,IP172.16.7.206,81,vIQ Lan,4,4,0,No Reply,#N/A#,3
+41,WGH IGMM,IP172.16.7.206,81,vIQ Lan,11,L3 Server Room Denco Unit 1,0,VirtualIQ v1.03 Feb 12,172.16.6.198,1
+41,WGH IGMM,IP172.16.7.206,81,vIQ Lan,12,L3 Server Room Denco Unit 2,0,VirtualIQ v1.03 Feb 12,172.16.6.198,1
+41,WGH IGMM,IP172.16.7.206,81,vIQ Lan,13,L3 Server Room Denco Unit 3,0,VirtualIQ v1.03 Feb 12,172.16.6.198,1
+41,WGH IGMM,IP172.16.7.206,81,vIQ Lan,119,119,0,No Reply,#N/A#,3
+41,WGH IGMM,IP172.16.7.206,81,vIQ Lan,126,vIQ Lan,0,VirtualIQ v1.03 Feb 12,#N/A#,3
+41,WGH IGMM,IP172.16.7.206,82,vIQ Lan,4,4,0,No Reply,#N/A#,3
+41,WGH IGMM,IP172.16.7.206,82,vIQ Lan,11,L1 Switchroom Denco Unit 1,0,VirtualIQ v1.06 May 14,172.16.6.199,1
+41,WGH IGMM,IP172.16.7.206,82,vIQ Lan,12,L1 Switchroom Denco Unit 2,0,VirtualIQ v1.06 May 14,172.16.6.199,1
+41,WGH IGMM,IP172.16.7.206,82,vIQ Lan,119,119,0,No Reply,#N/A#,3
+41,WGH IGMM,IP172.16.7.206,82,vIQ Lan,126,vIQ Lan,0,VirtualIQ v1.06 May 14,#N/A#,3
+41,WGH IGMM,IP172.16.7.206,83,MSTP LAN 83,4,4,0,No Reply,#N/A#,3
+41,WGH IGMM,IP172.16.7.206,83,MSTP LAN 83,5,5,0,No Reply,#N/A#,3
+41,WGH IGMM,IP172.16.7.206,83,MSTP LAN 83,6,6,0,No Reply,#N/A#,3
+41,WGH IGMM,IP172.16.7.206,83,MSTP LAN 83,7,7,0,No Reply,#N/A#,3
+41,WGH IGMM,IP172.16.7.206,83,MSTP LAN 83,9,IQ4NC - CP5 Fourth Floor Riser,0,IQ4NC0 Iss3.31 Jul 20 2015,172.16.7.11,1
+41,WGH IGMM,IP172.16.7.206,83,MSTP LAN 83,11,L4 FCU 01,0,IQeco38 Iss2.23 Jan 20 2015,#N/A#,3
+41,WGH IGMM,IP172.16.7.206,83,MSTP LAN 83,12,L4 FCU 02,0,IQeco38 Iss2.23 Jan 20 2015,#N/A#,3
+41,WGH IGMM,IP172.16.7.206,83,MSTP LAN 83,13,L4 FCU 03,0,IQeco38 Iss2.23 Jan 20 2015,#N/A#,3
+41,WGH IGMM,IP172.16.7.206,83,MSTP LAN 83,14,L4 FCU 04,0,IQeco38 Iss2.23 Jan 20 2015,#N/A#,3
+41,WGH IGMM,IP172.16.7.206,83,MSTP LAN 83,15,L4 FCU 05,0,IQeco38 Iss2.23 Jan 20 2015,#N/A#,3
+41,WGH IGMM,IP172.16.7.206,83,MSTP LAN 83,16,L4 FCU 06,0,IQeco38 Iss2.23 Jan 20 2015,#N/A#,3
+41,WGH IGMM,IP172.16.7.206,83,MSTP LAN 83,17,L4 FCU 07,0,IQeco38 Iss2.23 Jan 20 2015,#N/A#,3
+41,WGH IGMM,IP172.16.7.206,83,MSTP LAN 83,18,L4 FCU 08,0,IQeco38 Iss2.23 Jan 20 2015,#N/A#,3
+41,WGH IGMM,IP172.16.7.206,83,MSTP LAN 83,126,MSTP LAN 83,0,IQ4NCBINC Iss8.10 Mar 05 2013,#N/A#,3
+41,WGH IGMM,IP172.16.7.206,96,INC,4,4,0,No Reply,#N/A#,3
+41,WGH IGMM,IP172.16.7.206,96,INC,11,IGMM_Central_CHW,0,VirtualIQ v1.13 Jun 19,172.16.7.243,1
+41,WGH IGMM,IP172.16.7.206,96,INC,12,IGMM_Cen_South_CHW,0,VirtualIQ v1.13 Jun 19,172.16.7.243,1
+41,WGH IGMM,IP172.16.7.206,96,INC,119,119,0,No Reply,#N/A#,3
+41,WGH IGMM,IP172.16.7.206,96,INC,126,INC,0,No Reply,#N/A#,3
+41,WGH IGMM,IP172.16.7.206,97,INC,4,4,0,No Reply,#N/A#,3
+41,WGH IGMM,IP172.16.7.206,97,INC,11,IGMM_South_Prim_CHW,0,VirtualIQ v1.13 Jun 19,172.16.7.242,1
+41,WGH IGMM,IP172.16.7.206,97,INC,12,IGMM_South_Sec_CHW,0,VirtualIQ v1.13 Jun 19,172.16.7.242,1
+41,WGH IGMM,IP172.16.7.206,97,INC,13,IGMM_South_Cen_CHW,0,VirtualIQ v1.13 Jun 19,172.16.7.242,1
+41,WGH IGMM,IP172.16.7.206,97,INC,119,119,0,No Reply,#N/A#,3
+41,WGH IGMM,IP172.16.7.206,97,INC,126,INC,0,No Reply,#N/A#,3
+41,WGH IGMM,IP172.16.7.206,98,INC,102,102,0,No Reply,#N/A#,3
+41,WGH IGMM,IP172.16.7.206,99,IQ LAN 99,101,101,0,No Reply,#N/A#,3
+41,WGH IGMM,IP172.16.7.206,99,IQ LAN 99,102,102,0,No Reply,#N/A#,3
+41,WGH IGMM,IP172.16.7.206,98,INC,0,0,0,?,#N/A#,0
+41,WGH IGMM,IP172.16.7.206,99,IQ LAN 99,26,FC-2.14B,0,IQ411 Iss3.50 Jan 16 2018,192.168.1.26,1
+38,WGH Welcome Trust,IP172.16.6.23,68,INC,126,INC,0,No Reply,#N/A#,3
+38,WGH Welcome Trust,IP172.16.6.23,68,INC,5,963 v3.73,0,0,#N/A#,3
+38,WGH Welcome Trust,IP172.16.6.23,68,INC,6,6,0,No Reply,#N/A#,3
+38,WGH Welcome Trust,IP172.16.6.23,68,INC,8,8,0,No Reply,#N/A#,3
+38,WGH Welcome Trust,IP172.16.6.23,68,INC,21,21,0,No Reply,#N/A#,0
+38,WGH Welcome Trust,IP172.16.6.23,68,INC,0,0,0,?,#N/A#,3
+38,WGH Welcome Trust,IP172.16.6.23,68,INC,20,Heating and Ventillation,0,IQ4E192 Iss4.32 Feb 26 2021,172.16.6.23,2
+38,WGH Welcome Trust,IP172.16.6.23,68,INC,7,7,0,No Reply,#N/A#,0
+38,WGH Welcome Trust,IP172.16.6.23,68,INC,1,1,0,?,#N/A#,3
+38,WGH Welcome Trust,IP172.16.6.23,68,INC,23,Heat Exchanger,0,IQ412 Iss3.52 Oct  8 2018,172.16.7.235,1
