@@ -269,14 +269,15 @@ def scrape_element(soup, element):
     if value == None:
         try:
             value = find_associated_element(soup, element).get_text(strip=True)
-            login(f"scrape_element success")
+            login(f"scrape_element success, non editable field")
         except Exception as e:
             login(f"scrape_dest error for associated_element: {e}")
             value = "error"
             error = False
+    login(f"scrape_element fct done, value: {value}, error: {error}")
     return value, error
         
-def scrape_page(url, driver, count, max_count):
+def scrape_page(url, driver, count, max_count, values):
     login("scrape_page fct")
     try:
         html_content = visit_webpage_selenium(f"{url}", driver) 
@@ -298,21 +299,24 @@ def scrape_page(url, driver, count, max_count):
             value, success = scrape_element(parameter_table, parameter.string)
             login(f"parameter {parameters.index(parameter)}: {field} = {value}")
             all_fields.update({field : value})
-        return all_fields, success
+        if success:
+            values.append(all_fields)
+        login(f"scrape_page fct complete, values: {values}")
+        return values, success
     except Exception as e:
         login(f"scrape_page error: {e}")
-        values = []
         if count < max_count:
+            login(f"scrape_page one level deeper")
             count += 1
             links, success = get_links(url, driver)
             url = url.split("/")[0]
             for sub in links:
                 login(f"sublink is: {sub}")
                 link = f"{url}/{sub}".replace("//","/")
-                value, success = scrape_page(link, driver, count, max_count)
+                value, success = scrape_page(link, driver, count, max_count, values)
                 success *= success
                 values.append(value)
-            login(f"values : {values}")
+            login(f"success: {success}, values : {values}")
             return values, success
         else:
             return "scrape maximum number of sub pages", False
@@ -327,8 +331,9 @@ def scrape_all(url,driver,pages_list):
             for page, link in pages.items():
                 if page in pages_list:
                     login(f"scraping page: {page}")
-                    all_fields = dict()
-                    all_fields, success = scrape_page(f"{url}/{link}".replace("//","/"), driver, 0, 2)
+                    #all_fields = dict()
+                    all_fields = []
+                    all_fields, success = scrape_page(f"{url}/{link}".replace("//","/"), driver, 0, 2,all_fields)
                     login(f"scrape_all result: {all_fields}")
                     #for sub in all_fields:
                     #    scrape_res.append([page, sub])
@@ -385,11 +390,12 @@ def update_xls_prop_sheet(controller, res, xls, index):
         page = res[0]
         props = res[1]
         login(f"page : {page}, props : {props}, index : {index}")
-        props.update({'site':controller.site,'Lan':controller.lan,'OS':controller.os})
-        for property in props:
-            login(f"for property {property}, value is {props[property]}")
-            xls[page].cell(row=index, column=get_column_number(xls[page], property)).value = props[property]
-        login(f"update_xls_prop_sheet function complete")
+        for subpage in props:
+            subpage.update({'site':controller.site,'Lan':controller.lan,'OS':controller.os})
+            for property in subpage:
+                login(f"for property {property}, value is {subpage[property]}")
+                xls[page].cell(row=index, column=get_column_number(xls[page], property)).value = subpage[property]
+            login(f"update_xls_prop_sheet function complete")
     except Exception as e:
         login(f"update_xls_prop_sheet function error : {e}")
 
@@ -445,8 +451,8 @@ class GUI:
                 final_format = format_IQVision
 
             #testing shortcut
-            #self.selected_sites = ['Lister LTC']
-            #self.selected_properties = ['Address Page', 'Performance']
+            self.selected_sites = ['Lister LTC']
+            self.selected_properties = ['Address Page', 'Performance', 'Networks']
 
             login(f"sites to action: {self.selected_sites}")
             login(f"pages to read: {self.selected_properties}")

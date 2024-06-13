@@ -39,6 +39,7 @@ Thumbs.db
 #any excel files#
 *.xls
 *.xlsx
+*.csv
 
 #any backups#
 *.bak
